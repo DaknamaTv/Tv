@@ -60,16 +60,6 @@
         "country": "SN"
     },
     {
-        "name": "TeleMusik Senegal",
-        "id": "TeleMusikSenegal.sn",
-        "logo": "https://i.imgur.com/dPAPLsd.png",
-        "url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "SN"
-    },
-    {
         "name": "Med Muzik",
         "id": "MedMuzik.tr",
         "logo": "https://i.imgur.com/gtUFmCD.png",
@@ -373,20 +363,30 @@
         "country": "EG"
     },
     {
-        "name": "Gaan Bangla",
-        "id": "GaanBangla.bd",
-        "logo": "https://i.imgur.com/XS9mq4n.png",
-        "url": "http://vmi3039524.contaboserver.net:5050/music/index.m3u8",
+        "name": "VAM TV",
+        "id": "VAMTV.cw",
+        "logo": "https://i.imgur.com/CD1PffA.png",
+        "url": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8",
         "categories": [
             "music"
         ],
-        "country": "BD"
+        "country": "CW"
     },
     {
         "name": "BTA TV",
         "id": "BTATV.ve",
         "logo": "https://i.imgur.com/vygOosC.png",
         "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "VE"
+    },
+    {
+        "name": "KandelaTV",
+        "id": "KandelaTV.ve",
+        "logo": "https://i.imgur.com/cCFxyIp.jpg",
+        "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
         "categories": [
             "music"
         ],
@@ -705,6 +705,16 @@
         "country": "RU"
     },
     {
+        "name": "VIVA Russia",
+        "id": "VIVARussia.ru",
+        "logo": "https://i.imgur.com/OFhQQCD.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "Nueva Vida FM",
         "id": "NuevaVidaFM.pr",
         "logo": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
@@ -916,16 +926,6 @@
         "country": "IN"
     },
     {
-        "name": "Sun Music",
-        "id": "SunMusic.in",
-        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z1CL8.png?lock=720x540",
-        "url": "http://15.235.144.106:14055",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Insync",
         "id": "Insync.in",
         "logo": "https://i.imgur.com/fAJdazJ.png",
@@ -1020,6 +1020,16 @@
         "id": "Mh1Music.in",
         "logo": "https://dtil.tmsimg.com/assets/s143539_ld_h15_aa.png?lock=720x540",
         "url": "https://mumt04.tangotv.in/MHONE/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "ZB Music",
+        "id": "ZBMusic.in",
+        "logo": "https://i.imgur.com/k1nb8u1.jpeg",
+        "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
         "categories": [
             "music"
         ],
@@ -1729,19 +1739,6 @@
         "country": "PA"
     },
     {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "Melody",
         "id": "Melody.fr",
         "logo": "https://i.imgur.com/9GVyQ6x.png",
@@ -2066,6 +2063,56 @@
             "music"
         ],
         "country": "NG"
+    },
+    {
+        "name": "Hayat",
+        "id": "Hayat.ba",
+        "logo": "https://i.imgur.com/JugiLHM.png",
+        "url": "http://158.180.39.89:5033/hayat.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BA"
+    },
+    {
+        "name": "Hayat Folk",
+        "id": "HayatFolk.ba",
+        "logo": "https://i.imgur.com/LteJva4.png",
+        "url": "http://158.180.39.89:5033/folk.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BA"
+    },
+    {
+        "name": "Hayat Music",
+        "id": "HayatMusic.ba",
+        "logo": "https://i.imgur.com/9p8q1yX.png",
+        "url": "http://158.180.39.89:5033/music.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BA"
+    },
+    {
+        "name": "Hayatovci",
+        "id": "Hayatovci.ba",
+        "logo": "https://i.imgur.com/eqd3kvW.png",
+        "url": "http://158.180.39.89:5033/hayatovci.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BA"
+    },
+    {
+        "name": "Hayat Plus",
+        "id": "HayatPlus.ba",
+        "logo": "https://i.imgur.com/NThsVzJ.png",
+        "url": "http://158.180.39.89:5033/hayatplus.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BA"
     },
     {
         "name": "Marina TV",
@@ -2801,6 +2848,26 @@
         "country": "GR"
     },
     {
+        "name": "NRG 91",
+        "id": "NRG91.gr",
+        "logo": "https://i.imgur.com/1Zl1OJ5.png",
+        "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "GR"
+    },
+    {
+        "name": "NRG TV",
+        "id": "NRGTV.gr",
+        "logo": "https://i.imgur.com/1Zl1OJ5.png",
+        "url": "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "GR"
+    },
+    {
         "name": "Mosaique FM",
         "id": "MosaiqueFM.tn",
         "logo": "https://i.imgur.com/GDUykah.png",
@@ -3122,16 +3189,6 @@
             "music"
         ],
         "country": "PH"
-    },
-    {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "JO"
     },
     {
         "name": "Couleur 3",
@@ -3602,6 +3659,16 @@
         "id": "RJTV.us",
         "logo": "https://i.imgur.com/a1zuW2C.png",
         "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Latin Zone",
+        "id": "LatinZone.us",
+        "logo": "https://i.imgur.com/duEDsne.png",
+        "url": "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8",
         "categories": [
             "music"
         ],
