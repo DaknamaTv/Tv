@@ -10,14 +10,14 @@
         "country": "SX"
     },
     {
-        "name": "Play TV",
-        "id": "PlayTV.cm",
-        "logo": "https://i.imgur.com/1dmBqpf.png",
-        "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+        "name": "Isango TV",
+        "id": "IsangoTV.rw",
+        "logo": "https://i.imgur.com/EfsHaMQ.png",
+        "url": "http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8",
         "categories": [
             "music"
         ],
-        "country": "CM"
+        "country": "RW"
     },
     {
         "name": "Folk Klub TV",
@@ -221,10 +221,30 @@
         "country": "CR"
     },
     {
-        "name": "Canal 3 KMK TV",
-        "id": "Canal3KMKTV.cr",
-        "logo": "https://i.imgur.com/sgRDRBK.jpg",
-        "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
+        "name": "SOY Plancha TV",
+        "id": "SOYPlanchaTV.cr",
+        "logo": "https://i.ibb.co/P4kpMgk/1689344714578.jpg",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "Vintage Music",
+        "id": "VintageMusic.cr",
+        "logo": "https://i.imgur.com/KImqYnN.jpeg",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "VM Latino",
+        "id": "VMLatino.cr",
+        "logo": "https://i.imgur.com/Dvo1b82.png",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -1006,16 +1026,6 @@
         "country": "IN"
     },
     {
-        "name": "ZB Music",
-        "id": "ZBMusic.in",
-        "logo": "https://i.imgur.com/k1nb8u1.jpeg",
-        "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Stingray Everything '80s",
         "id": "StingrayEverything80s.ca",
         "logo": "https://i.imgur.com/6E3wYrb.png",
@@ -1639,16 +1649,6 @@
         "country": "DO"
     },
     {
-        "name": "Tele Dominicana TV",
-        "id": "TeleDominicanaTV.do",
-        "logo": "https://dominicanchannels.com/wp-content/uploads/teledominicana.png",
-        "url": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "FUSION TV",
         "id": "FUSIONTV.mq",
         "logo": "https://i.imgur.com/WMrYEgH.png",
@@ -1697,6 +1697,26 @@
             "music"
         ],
         "country": "PA"
+    },
+    {
+        "name": "Tropi Q 99.7 FM",
+        "id": "TropiQ997FM.pa",
+        "logo": "https://i.imgur.com/5rPdHhb.png",
+        "url": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PA"
+    },
+    {
+        "name": "Flex Studio Radio TV",
+        "id": "FlexStudioRadioTV.bz",
+        "logo": "https://i.imgur.com/tZjqtxd.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BZ"
     },
     {
         "name": "Melody",
@@ -2025,56 +2045,6 @@
         "country": "NG"
     },
     {
-        "name": "Hayat",
-        "id": "Hayat.ba",
-        "logo": "https://i.imgur.com/JugiLHM.png",
-        "url": "http://158.180.39.89:5033/hayat.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BA"
-    },
-    {
-        "name": "Hayat Folk",
-        "id": "HayatFolk.ba",
-        "logo": "https://i.imgur.com/LteJva4.png",
-        "url": "http://158.180.39.89:5033/folk.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BA"
-    },
-    {
-        "name": "Hayat Music",
-        "id": "HayatMusic.ba",
-        "logo": "https://i.imgur.com/9p8q1yX.png",
-        "url": "http://158.180.39.89:5033/music.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BA"
-    },
-    {
-        "name": "Hayatovci",
-        "id": "Hayatovci.ba",
-        "logo": "https://i.imgur.com/eqd3kvW.png",
-        "url": "http://158.180.39.89:5033/hayatovci.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BA"
-    },
-    {
-        "name": "Hayat Plus",
-        "id": "HayatPlus.ba",
-        "logo": "https://i.imgur.com/NThsVzJ.png",
-        "url": "http://158.180.39.89:5033/hayatplus.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BA"
-    },
-    {
         "name": "Marina TV",
         "id": "MarinaTV.kw",
         "logo": "https://i.imgur.com/F2PzEaw.png",
@@ -2350,16 +2320,6 @@
         "id": "RadioMaster.pe",
         "logo": "https://i.imgur.com/AUoxyzP.png",
         "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "Radio Tropical",
-        "id": "RadioTropical.pe",
-        "logo": "https://i.imgur.com/TBPVOBI.png",
-        "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
         "categories": [
             "music"
         ],
@@ -3091,16 +3051,6 @@
         "country": "EE"
     },
     {
-        "name": "DanceTV Minimal Tech",
-        "id": "DanceTVMinimalTech.ee",
-        "logo": "https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png",
-        "url": "https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "EE"
-    },
-    {
         "name": "Cool FM 98.9",
         "id": "CoolFM989.aw",
         "logo": "https://i.imgur.com/uGE6lZ2.png",
@@ -3159,16 +3109,6 @@
             "music"
         ],
         "country": "PH"
-    },
-    {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "JO"
     },
     {
         "name": "Couleur 3",
@@ -3715,6 +3655,21 @@
         "country": "AR"
     },
     {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "Radio TV Sal One",
         "id": "RadioTVSalOne.cv",
         "logo": "https://i.imgur.com/pCz7ifY.jpg",
@@ -3882,18 +3837,6 @@
         "url": "https://zfmzoetermeer.nl/live/master.m3u8",
         "categories": [
             "music"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "FomixTV",
-        "id": "FomixTV.nl",
-        "logo": "https://i.imgur.com/7SLYEMG.png",
-        "url": "https://stream.fomixmedia.nl/FomixTV/video.m3u8",
-        "categories": [
-            "music",
-            "public",
-            "general"
         ],
         "country": "NL"
     },
@@ -4312,6 +4255,16 @@
         "id": "thecountrynetwork1080p",
         "logo": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png",
         "url": "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": ""
+    },
+    {
+        "name": "AL: Ballkanika",
+        "id": "alballkanika",
+        "logo": "",
+        "url": "http://cm1.portaltv.info:777/ArtonBaxhakuKosove/s3Ds7dF8/6060",
         "categories": [
             "music"
         ],
