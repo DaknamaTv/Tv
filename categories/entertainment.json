@@ -50,6 +50,16 @@
         "country": "RW"
     },
     {
+        "name": "B+ TV",
+        "id": "BPlusTV.rw",
+        "logo": "https://i.ibb.co/WzLwj3X/IMG-20230703-155036.jpg",
+        "url": "https://tv.btnrwanda.com:3432/live/bpluslive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "RW"
+    },
+    {
         "name": "Tal TV",
         "id": "TalTV.ne",
         "logo": "https://i.imgur.com/KWMP0t1.png",
@@ -1311,16 +1321,6 @@
         "country": "CA"
     },
     {
-        "name": "Prime Canada TV",
-        "id": "PrimeCanadaTV.ca",
-        "logo": "https://i.imgur.com/Vji81jB.png",
-        "url": "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "Top Gear",
         "id": "TopGear.uk",
         "logo": "https://i.imgur.com/S6Su6QH.png",
@@ -1442,26 +1442,6 @@
         "country": "HN"
     },
     {
-        "name": "TV Centro 27.2 HD",
-        "id": "TVCentro272HD.hn",
-        "logo": "https://i.imgur.com/Wo2scQf.jpg",
-        "url": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "HN"
-    },
-    {
-        "name": "Radio Omega TV",
-        "id": "RadioOmegaTV.hn",
-        "logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
-        "url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "HN"
-    },
-    {
         "name": "Island Luck TV",
         "id": "IslandLuckTV.bs",
         "logo": "https://i.imgur.com/P0gDN5n.png",
@@ -1570,16 +1550,6 @@
         "id": "MaxivisionTV.gt",
         "logo": "https://i.imgur.com/UC8WrEN.jpg",
         "url": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "GT"
-    },
-    {
-        "name": "SAS TV",
-        "id": "SASTV.gt",
-        "logo": "https://i.imgur.com/VShjB3o.png",
-        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1847,6 +1817,19 @@
         "country": "VN"
     },
     {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "Geo Kahani",
         "id": "GeoKahani.pk",
         "logo": "https://i.imgur.com/uKYH0IM.png",
@@ -1978,16 +1961,6 @@
             "news"
         ],
         "country": "BO"
-    },
-    {
-        "name": "KurdMax Show",
-        "id": "KurdMaxShow.iq",
-        "logo": "https://i.imgur.com/XTmyGmL.png",
-        "url": "https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "IQ"
     },
     {
         "name": "Kingsview TV",
@@ -2141,36 +2114,6 @@
             "entertainment"
         ],
         "country": "AF"
-    },
-    {
-        "name": "Jim",
-        "id": "Jim.fi",
-        "logo": "https://i.imgur.com/PkMgY0K.png",
-        "url": "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "FI"
-    },
-    {
-        "name": "Liv",
-        "id": "Liv.fi",
-        "logo": "https://i.imgur.com/k6NsXBj.png",
-        "url": "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "FI"
-    },
-    {
-        "name": "MTV Ava",
-        "id": "MTVAva.fi",
-        "logo": "https://i.imgur.com/WxNCiAk.png",
-        "url": "https://live-fi.tvkaista.net/ava/live.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "FI"
     },
     {
         "name": "Impacto Television",
@@ -2728,37 +2671,6 @@
         "country": "BR"
     },
     {
-        "name": "Edutainment TV",
-        "id": "EdutainmentTV.mn",
-        "logo": "https://i.imgur.com/0m8t3vh.png",
-        "url": "https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8",
-        "categories": [
-            "education",
-            "entertainment"
-        ],
-        "country": "MN"
-    },
-    {
-        "name": "DreamTV",
-        "id": "DreamTV.mn",
-        "logo": "https://i.imgur.com/YPbvzgV.png",
-        "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "MN"
-    },
-    {
-        "name": "AsianBox",
-        "id": "AsianBox.mn",
-        "logo": "https://i.imgur.com/WAYZSgx.png",
-        "url": "https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "MN"
-    },
-    {
         "name": "NBC 3",
         "id": "NBC3.na",
         "logo": "https://i.imgur.com/7j8Km6e.png",
@@ -2767,16 +2679,6 @@
             "entertainment"
         ],
         "country": "NA"
-    },
-    {
-        "name": "Belarus-2",
-        "id": "Belarus2.by",
-        "logo": "https://i.imgur.com/BpEHpPS.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BY"
     },
     {
         "name": "Telemundo Corpus Christi",
@@ -3617,6 +3519,26 @@
         "country": "US"
     },
     {
+        "name": "Fidele TV",
+        "id": "FideleTV.us",
+        "logo": "https://i.ibb.co/YtBZ0Lc/FIDELE-TV.png",
+        "url": "https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "WWON-TV Channel 48",
+        "id": "WWONTVChannel48.us",
+        "logo": "https://i.imgur.com/l4qHAq6.png",
+        "url": "https://tv2.fastcast4u.com:3943/stream/play.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "US"
+    },
+    {
         "name": "Fortune TV",
         "id": "FortuneTV.mm",
         "logo": "https://i.imgur.com/MM5evnD.png",
@@ -3655,26 +3577,6 @@
             "entertainment"
         ],
         "country": "UG"
-    },
-    {
-        "name": "BTV",
-        "id": "BTV.ug",
-        "logo": "https://i.imgur.com/rcHZ1al.png",
-        "url": "https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "UG"
-    },
-    {
-        "name": "Power Max Radio TV",
-        "id": "PowerMaxRadioTV.ar",
-        "logo": "https://i.ibb.co/qgZLYDj/channels4-profile-6.jpg",
-        "url": "https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "AR"
     },
     {
         "name": "Radio Yguazu TV",
@@ -3767,16 +3669,6 @@
         "id": "Gametoon.nl",
         "logo": "https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png",
         "url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc122/gametoonhdraw/gametoonhdraw.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "SBS6 Classics",
-        "id": "SBS6Classics.nl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
-        "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
         "categories": [
             "entertainment"
         ],
