@@ -10,14 +10,14 @@
         "country": "SX"
     },
     {
-        "name": "Play TV",
-        "id": "PlayTV.cm",
-        "logo": "https://i.imgur.com/1dmBqpf.png",
-        "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
+        "name": "Isango TV",
+        "id": "IsangoTV.rw",
+        "logo": "https://i.imgur.com/EfsHaMQ.png",
+        "url": "http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8",
         "categories": [
             "music"
         ],
-        "country": "CM"
+        "country": "RW"
     },
     {
         "name": "Folk Klub TV",
@@ -191,16 +191,6 @@
         "country": "CR"
     },
     {
-        "name": "Urbano TV",
-        "id": "UrbanoTV.cr",
-        "logo": "https://i.imgur.com/KVVU9PI.png",
-        "url": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "88 Stereo",
         "id": "88Stereo.cr",
         "logo": "https://i.imgur.com/i3YwORV.png",
@@ -363,16 +353,6 @@
         "country": "EG"
     },
     {
-        "name": "NogoumFMTV",
-        "id": "NogoumFMTV.eg",
-        "logo": "https://i.imgur.com/krp3kgv.png",
-        "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "EG"
-    },
-    {
         "name": "VAM TV",
         "id": "VAMTV.cw",
         "logo": "https://i.imgur.com/CD1PffA.png",
@@ -397,16 +377,6 @@
         "id": "BTATV.ve",
         "logo": "https://i.imgur.com/vygOosC.png",
         "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "KandelaTV",
-        "id": "KandelaTV.ve",
-        "logo": "https://i.imgur.com/cCFxyIp.jpg",
-        "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
         "categories": [
             "music"
         ],
@@ -1679,16 +1649,6 @@
         "country": "DO"
     },
     {
-        "name": "Tele Dominicana TV",
-        "id": "TeleDominicanaTV.do",
-        "logo": "https://dominicanchannels.com/wp-content/uploads/teledominicana.png",
-        "url": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "FUSION TV",
         "id": "FUSIONTV.mq",
         "logo": "https://i.imgur.com/WMrYEgH.png",
@@ -1747,6 +1707,19 @@
             "music"
         ],
         "country": "PA"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
     },
     {
         "name": "Melody",
@@ -2366,16 +2339,6 @@
         "country": "PE"
     },
     {
-        "name": "Turbo Mix Radio TV",
-        "id": "TurboMixRadioTV.pe",
-        "logo": "https://i.imgur.com/AsdBQa3.png",
-        "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Radio Master",
         "id": "RadioMaster.pe",
         "logo": "https://i.imgur.com/AUoxyzP.png",
@@ -2882,26 +2845,6 @@
         "id": "BarazaTVDeepHouse.gr",
         "logo": "https://i.imgur.com/TZ1unwF.png",
         "url": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "GR"
-    },
-    {
-        "name": "NRG 91",
-        "id": "NRG91.gr",
-        "logo": "https://i.imgur.com/1Zl1OJ5.png",
-        "url": "http://tv.nrg91.gr:1935/onweb/live/master.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "GR"
-    },
-    {
-        "name": "NRG TV",
-        "id": "NRGTV.gr",
-        "logo": "https://i.imgur.com/1Zl1OJ5.png",
-        "url": "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -3860,16 +3803,6 @@
         "country": "MK"
     },
     {
-        "name": "Rock TV",
-        "id": "RockTV.mk",
-        "logo": "https://i.imgur.com/Y9miDQo.png",
-        "url": "https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "MK"
-    },
-    {
         "name": "Folk TV",
         "id": "FolkTV.mk",
         "logo": "https://i.imgur.com/4b9aZ9P.png",
@@ -4047,6 +3980,18 @@
         "url": "https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "FomixTV",
+        "id": "FomixTV.nl",
+        "logo": "https://i.imgur.com/7SLYEMG.png",
+        "url": "https://stream.fomixmedia.nl/FomixTV/video.m3u8",
+        "categories": [
+            "music",
+            "public",
+            "general"
         ],
         "country": "NL"
     },
