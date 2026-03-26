@@ -517,14 +517,6 @@
         "country": "AR"
     },
     {
-        "name": "Canal 13 San Luis",
-        "id": "Canal13SanLuis.ar",
-        "logo": "https://i.imgur.com/NcfMC29.png",
-        "url": "https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
         "name": "Beats Radio",
         "id": "BeatsRadio.ar",
         "logo": "https://i.imgur.com/zkNUO5p.png",
@@ -752,11 +744,36 @@
         "country": "AR"
     },
     {
-        "name": "San Pedro TV",
-        "id": "SanPedroTV.ar",
-        "logo": "https://i.imgur.com/UkpXogr.png",
-        "url": "https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8",
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 9 Televida",
+        "id": "Canal9Televida.ar",
+        "logo": "https://i.imgur.com/JUtAzg4.png",
+        "url": "https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8",
         "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "Litus TV",
+        "id": "LitusTV.ar",
+        "logo": "https://i.imgur.com/QIGSf4L.png",
+        "url": "https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "AR"
     }
 ]
