@@ -270,6 +270,16 @@
         "country": "IR"
     },
     {
+        "name": "Al Alam",
+        "id": "AlAlam.ir",
+        "logo": "https://i.imgur.com/Zdi31dy.png",
+        "url": "https://live2.alalam.ir/alalam.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IR"
+    },
+    {
         "name": "CGTN Spanish",
         "id": "CGTNSpanish.cn",
         "logo": "https://i.imgur.com/Poz3xfi.png",
@@ -669,6 +679,16 @@
         "id": "News24.bd",
         "logo": "https://i.imgur.com/fkTHh75.png",
         "url": "https://bozztv.com/rongo/rongo-News24HD/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BD"
+    },
+    {
+        "name": "Somoy News TV",
+        "id": "SomoyNewsTV.bd",
+        "logo": "https://i.imgur.com/i54AQic.png",
+        "url": "https://bozztv.com/rongo/rongo-somoy/index.m3u8",
         "categories": [
             "news"
         ],
@@ -2317,16 +2337,6 @@
         "country": "IN"
     },
     {
-        "name": "Lokshahi News",
-        "id": "LokshahiNews.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143284_ld_h15_aa.png?lock=720x540",
-        "url": "https://see.lokshahi.live/live/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Power TV",
         "id": "PowerTV.in",
         "logo": "https://dtil.tmsimg.com/assets/s143669_ld_h15_aa.png?lock=720x540",
@@ -2599,40 +2609,30 @@
         "country": "IN"
     },
     {
-        "name": "Gulistan News",
-        "id": "GulistanNews.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540",
-        "url": "https://live.gulistannews.in/hls/gul.m3u8",
+        "name": "Prime News",
+        "id": "PrimeNews.in",
+        "logo": "https://i.imgur.com/RQoDzpN.png",
+        "url": "https://mumt02.tangotv.in/PRIMENEWS/index.m3u8",
         "categories": [
             "news"
         ],
         "country": "IN"
     },
     {
-        "name": "JK 24x7 News",
-        "id": "JK24x7News.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png?lock=720x540",
-        "url": "https://live.gulistannews.in/hls/jk.m3u8",
+        "name": "STV Haryana News",
+        "id": "STVHaryanaNews.in",
+        "logo": "https://i.imgur.com/TJRZo9e.png",
+        "url": "https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8",
         "categories": [
             "news"
         ],
         "country": "IN"
     },
     {
-        "name": "Northeast Live",
-        "id": "NortheastLive.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143633_ld_h15_aa.png?lock=720x540",
-        "url": "https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "RDX Goa",
-        "id": "RDXGoa.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png",
-        "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+        "name": "Vistaar News",
+        "id": "VistaarNews.in",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSENaovfkLYBJSYXeQwImkwXOorLvGyRcF3ZbCQshsWNEshT7aOJlQqEdnqzhjRusmztSo&usqp=CAU",
+        "url": "https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8",
         "categories": [
             "news"
         ],
@@ -3024,30 +3024,6 @@
         "id": "DongNaiTV1.vn",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Vinh Long TV 1",
-        "id": "VinhLongTV1.vn",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
@@ -3533,16 +3509,6 @@
         "country": "SY"
     },
     {
-        "name": "Alalam News Channel Syria",
-        "id": "AlalamNewsChannelSyria.sy",
-        "logo": "https://i.imgur.com/WQKYPKD.png",
-        "url": "https://live2.alalam.ir/live/Alalam/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "SY"
-    },
-    {
         "name": "February Channel",
         "id": "FebruaryChannel.ly",
         "logo": "https://i.imgur.com/WdMIpsA.png",
@@ -3739,16 +3705,6 @@
         "id": "C9N.py",
         "logo": "https://i.imgur.com/Cp4zJ7O.png",
         "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "4Dmas Noticias TV",
-        "id": "4DmasNoticiasTV.py",
-        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -4711,16 +4667,6 @@
         "country": "US"
     },
     {
-        "name": "Payvand TV",
-        "id": "PayvandTV.us",
-        "logo": "https://i.imgur.com/A4gqEmG.png",
-        "url": "https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
         "name": "America's Voice",
         "id": "AmericasVoice.us",
         "logo": "",
@@ -5522,6 +5468,16 @@
         "id": "WGALDT3.us",
         "logo": "https://i.imgur.com/KQSKIdZ.jpeg",
         "url": "https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "America's Voice News",
+        "id": "AmericasVoiceNews.us",
+        "logo": "https://i.imgur.com/C4w0eYC.png",
+        "url": "https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8",
         "categories": [
             "news"
         ],
