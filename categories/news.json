@@ -98,6 +98,18 @@
         "country": "BO"
     },
     {
+        "name": "Unifranz",
+        "id": "Unifranz.bo",
+        "logo": "https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg",
+        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
+        "categories": [
+            "education",
+            "entertainment",
+            "news"
+        ],
+        "country": "BO"
+    },
+    {
         "name": "LRT Radijas",
         "id": "LRTRadijas.lt",
         "logo": "https://i.imgur.com/gYoaqju.png",
@@ -106,6 +118,16 @@
             "news"
         ],
         "country": "LT"
+    },
+    {
+        "name": "Burkina Info TV",
+        "id": "BurkinaInfoTV.bf",
+        "logo": "https://i.imgur.com/a9v5CbU.png",
+        "url": "http://69.64.57.208/burkinainfo/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BF"
     },
     {
         "name": "Welat TV",
@@ -182,26 +204,6 @@
         "id": "PressTVFrench.ir",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Press_TV_logo.svg/960px-Press_TV_logo.svg.png",
         "url": "https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "IRINN",
-        "id": "IRINN.ir",
-        "logo": "https://i.imgur.com/8tzsC9h.png",
-        "url": "https://ncdn.telewebion.ir/irinn/live/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "IRINN 2",
-        "id": "IRINN2.ir",
-        "logo": "https://i.imgur.com/8tzsC9h.png",
-        "url": "https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -1071,16 +1073,6 @@
         "url": "https://stream.protv.md/live/sursa-1/index.m3u8",
         "categories": [
             "general",
-            "news"
-        ],
-        "country": "MD"
-    },
-    {
-        "name": "TV-Nord",
-        "id": "TVNord.md",
-        "logo": "https://i.imgur.com/86JYRVH.png",
-        "url": "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8",
-        "categories": [
             "news"
         ],
         "country": "MD"
@@ -3524,6 +3516,16 @@
         "country": "IN"
     },
     {
+        "name": "Samachar Plus 24x7",
+        "id": "SamacharPlus24x7.in",
+        "logo": "https://i.ibb.co/cLXkYvr/IMG-20230610-140232.jpg",
+        "url": "https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Radio Ancon",
         "id": "RadioAncon.pa",
         "logo": "https://i.imgur.com/xum8PNe.jpg",
@@ -3754,16 +3756,6 @@
         "country": "PY"
     },
     {
-        "name": "4Dmas Noticias TV",
-        "id": "4DmasNoticiasTV.py",
-        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Norte Informativo TV",
         "id": "NorteInformativoTV.cr",
         "logo": "https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg",
@@ -3950,41 +3942,6 @@
         "country": "VN"
     },
     {
-        "name": "HTV9",
-        "id": "HTV9.vn",
-        "logo": "",
-        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Vinh Long TV 1",
-        "id": "VinhLongTV1.vn",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "RSelvaTV",
         "id": "RSelvaTV.pe",
         "logo": "https://i.imgur.com/DAK5ZnD.png",
@@ -4029,16 +3986,6 @@
         "id": "RCR.pe",
         "logo": "https://i.imgur.com/A8TRPrF.png",
         "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "ATV+",
-        "id": "ATVPlus.pe",
-        "logo": "https://i.imgur.com/fY9256H.png",
-        "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
         "categories": [
             "news"
         ],
@@ -4163,16 +4110,6 @@
             "news"
         ],
         "country": "IL"
-    },
-    {
-        "name": "Telesur",
-        "id": "Telesur.ve",
-        "logo": "https://i.imgur.com/P50VjRX.png",
-        "url": "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "VE"
     },
     {
         "name": "UN24",
@@ -4549,16 +4486,6 @@
         "id": "Contivision.cl",
         "logo": "https://i.imgur.com/Lz2OlKf.png",
         "url": "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "Atacama Noticias",
-        "id": "AtacamaNoticias.cl",
-        "logo": "https://i.imgur.com/Avx4Ecf.png",
-        "url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8",
         "categories": [
             "news"
         ],
@@ -4949,18 +4876,6 @@
         "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "MA"
-    },
-    {
-        "name": "Tele Maroc",
-        "id": "TeleMaroc.ma",
-        "logo": "https://freebox.cdn.scw.iliad.fr/medium_Tele_Maroc_900x800_ffdee4d2e4.png",
-        "url": "http://5.253.46.190:8000/play/a0cb/index.m3u8",
-        "categories": [
-            "entertainment",
-            "news",
-            "culture"
         ],
         "country": "MA"
     },
@@ -5583,6 +5498,16 @@
         "id": "LifeTV.tr",
         "logo": "https://i.imgur.com/lWeJxm0.png",
         "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "24 TV",
+        "id": "24TV.tr",
+        "logo": "https://i.imgur.com/8FO41es.png",
+        "url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
         "categories": [
             "news"
         ],

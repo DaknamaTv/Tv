@@ -30,6 +30,16 @@
         "country": "BF"
     },
     {
+        "name": "2STV",
+        "id": "2STV.sn",
+        "logo": "https://i.imgur.com/WByVBZf.png",
+        "url": "http://69.64.57.208/2stv/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "SN"
+    },
+    {
         "name": "UCL",
         "id": "UCL.uy",
         "logo": "https://i.imgur.com/BzQphbw.png",
@@ -38,26 +48,6 @@
             "culture"
         ],
         "country": "UY"
-    },
-    {
-        "name": "IRIB 4",
-        "id": "IRIB4.ir",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png",
-        "url": "https://ncdn.telewebion.ir/tv4/live/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "IR"
-    },
-    {
-        "name": "Ofogh TV",
-        "id": "OfoghTV.ir",
-        "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/960px-Ofogh_TV_logo.svg.png",
-        "url": "https://ncdn.telewebion.ir/ofogh/live/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "IR"
     },
     {
         "name": "EBS",
@@ -338,16 +328,6 @@
         "country": "FR"
     },
     {
-        "name": "Berbere TV",
-        "id": "BerbereTV.fr",
-        "logo": "https://i.imgur.com/Uc2PAmL.png",
-        "url": "http://5.253.46.190:8000/play/a0fi/index.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "DD Bharati",
         "id": "DDBharati.in",
         "logo": "https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png?lock=720x540",
@@ -407,6 +387,17 @@
         "categories": [
             "news",
             "culture"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Jaya Max",
+        "id": "JayaMax.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143226_ld_h15_aa.png?lock=720x540",
+        "url": "https://mac.zenplay.top/linear-live.php?amp;e=.m3u8&amp;vtoken=&id=994",
+        "categories": [
+            "culture",
+            "entertainment"
         ],
         "country": "IN"
     },
@@ -509,19 +500,6 @@
         "country": "PL"
     },
     {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "USMPTV",
         "id": "USMPTV.pe",
         "logo": "https://i.imgur.com/9cmIv3q.png",
@@ -576,6 +554,16 @@
         "id": "AfrocultureTV.ci",
         "logo": "https://i.imgur.com/bjaZ3kO.png",
         "url": "https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CI"
+    },
+    {
+        "name": "A+ Ivoire",
+        "id": "APlusIvoire.ci",
+        "logo": "https://i.imgur.com/yOW0vyP.png",
+        "url": "http://69.64.57.208/atv/playlist.m3u8",
         "categories": [
             "culture"
         ],
@@ -737,6 +725,17 @@
         "country": "BR"
     },
     {
+        "name": "TVE RS",
+        "id": "TVERS.br",
+        "logo": "https://i.imgur.com/MQ6lJpS.png",
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "categories": [
+            "culture",
+            "education"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "Salto 2",
         "id": "Salto2.nl",
         "logo": "https://i.imgur.com/6H3ycdL.png",
@@ -762,28 +761,6 @@
         "logo": "https://i.imgur.com/ZBV6xph.png",
         "url": "https://136044159.r.cdnsun.net/storychannel.m3u8",
         "categories": [
-            "culture"
-        ],
-        "country": "MA"
-    },
-    {
-        "name": "Athaqafia",
-        "id": "Athaqafia.ma",
-        "logo": "https://freebox.cdn.scw.iliad.fr/medium_Athaqafia_fdc90e055e.png",
-        "url": "http://5.253.46.190:8000/play/a0eb/index.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "MA"
-    },
-    {
-        "name": "Tele Maroc",
-        "id": "TeleMaroc.ma",
-        "logo": "https://freebox.cdn.scw.iliad.fr/medium_Tele_Maroc_900x800_ffdee4d2e4.png",
-        "url": "http://5.253.46.190:8000/play/a0cb/index.m3u8",
-        "categories": [
-            "entertainment",
-            "news",
             "culture"
         ],
         "country": "MA"
@@ -948,17 +925,6 @@
         "country": "MX"
     },
     {
-        "name": "Jalisco TV",
-        "id": "JaliscoTV.mx",
-        "logo": "https://i.imgur.com/N4meE8I.png",
-        "url": "https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8",
-        "categories": [
-            "culture",
-            "education"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Capital 21",
         "id": "Capital21.mx",
         "logo": "https://i.imgur.com/8ign49i.png",
@@ -966,16 +932,6 @@
         "categories": [
             "culture",
             "entertainment"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "El Sonorense",
-        "id": "ElSonorense.mx",
-        "logo": "https://i.imgur.com/aKvPd4g.jpg",
-        "url": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
-        "categories": [
-            "culture"
         ],
         "country": "MX"
     },
