@@ -1037,6 +1037,16 @@
         "country": "US"
     },
     {
+        "name": "Fox News Channel",
+        "id": "FoxNewsChannel.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
+        "url": "https://tvpass.org/live/FoxNewsChannel/sd",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
         "name": "Realitatea TV",
         "id": "RealitateaTV.md",
         "logo": "https://i.imgur.com/Ul4IIfX.png",
@@ -1464,16 +1474,6 @@
         "id": "PervyyRespublikanskiy.ru",
         "logo": "https://i.imgur.com/ti4OMBv.png",
         "url": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "Millet",
-        "id": "Millet.ru",
-        "logo": "https://i.imgur.com/hUjLRLy.png",
-        "url": "https://live1.1tvcrimea.ru/milletlive.m3u8",
         "categories": [
             "news"
         ],
@@ -3114,16 +3114,6 @@
         "country": "IN"
     },
     {
-        "name": "Chardikla Time TV North America",
-        "id": "ChardiklaTimeTVNorthAmerica.in",
-        "logo": "https://i.imgur.com/IUeMFey.jpg",
-        "url": "https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Power TV",
         "id": "PowerTV.in",
         "logo": "https://dtil.tmsimg.com/assets/s143669_ld_h15_aa.png?lock=720x540",
@@ -3246,16 +3236,6 @@
         "country": "IN"
     },
     {
-        "name": "Onkar Only Truth TV",
-        "id": "OnkarOnlyTruthTV.in",
-        "logo": "https://i.imgur.com/wu7aQRg.png",
-        "url": "https://5dd3981940faa.streamlock.net/onkarentertainment/onkarentertainment/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Kannur Vision",
         "id": "KannurVision.in",
         "logo": "https://i.imgur.com/FCXqPer.png",
@@ -3320,6 +3300,26 @@
         "id": "Goa365.in",
         "logo": "https://www.goa365.tv/images/GOA-365-Logo.jpg",
         "url": "https://ktismaservers.in:3086/live/goa365live.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Gulistan News",
+        "id": "GulistanNews.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540",
+        "url": "https://live.gulistannews.in/hls/gul.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "JK 24x7 News",
+        "id": "JK24x7News.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143237_ld_h9_aa.png?lock=720x540",
+        "url": "https://live.gulistannews.in/hls/jk.m3u8",
         "categories": [
             "news"
         ],
@@ -3536,6 +3536,16 @@
         "country": "PK"
     },
     {
+        "name": "City 41",
+        "id": "City41.pk",
+        "logo": "",
+        "url": "http://163.61.227.29:8000/play/a02r/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PK"
+    },
+    {
         "name": "Mega TV",
         "id": "MegaTV.py",
         "logo": "https://i.imgur.com/CaA7l86.png",
@@ -3560,6 +3570,16 @@
         "id": "SucesoTV.py",
         "logo": "https://i.imgur.com/BwRNes1.png",
         "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "4Dmas Noticias TV",
+        "id": "4DmasNoticiasTV.py",
+        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -3762,6 +3782,41 @@
         "country": "VN"
     },
     {
+        "name": "HTV9",
+        "id": "HTV9.vn",
+        "logo": "",
+        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "RSelvaTV",
         "id": "RSelvaTV.pe",
         "logo": "https://i.imgur.com/DAK5ZnD.png",
@@ -3910,16 +3965,6 @@
             "news"
         ],
         "country": "EC"
-    },
-    {
-        "name": "M-Net Info",
-        "id": "MNetInfo.mk",
-        "logo": "https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg",
-        "url": "https://live.mnet.mk/hls/mnet-info.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "MK"
     },
     {
         "name": "i24NEWS English USA",
@@ -5121,16 +5166,6 @@
             "news"
         ],
         "country": "GE"
-    },
-    {
-        "name": "Love Television",
-        "id": "LoveTelevision.bz",
-        "logo": "https://i.imgur.com/nT3Wxr6.png",
-        "url": "https://streamer2.nexgen.bz/01-LOVE/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BZ"
     },
     {
         "name": "Visir",
