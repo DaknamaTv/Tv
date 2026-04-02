@@ -132,16 +132,6 @@
         "country": "LT"
     },
     {
-        "name": "Burkina Info TV",
-        "id": "BurkinaInfoTV.bf",
-        "logo": "https://i.imgur.com/a9v5CbU.png",
-        "url": "http://69.64.57.208/burkinainfo/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BF"
-    },
-    {
         "name": "Welat TV",
         "id": "WelatTV.sy",
         "logo": "https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4",
@@ -1069,10 +1059,10 @@
         "country": "US"
     },
     {
-        "name": "Fox News Channel",
-        "id": "FoxNewsChannel.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-        "url": "https://tvpass.org/live/FoxNewsChannel/sd",
+        "name": "America's Voice News",
+        "id": "AmericasVoiceNews.us",
+        "logo": "https://i.imgur.com/C4w0eYC.png",
+        "url": "https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8",
         "categories": [
             "news"
         ],
@@ -1095,6 +1085,16 @@
         "url": "https://stream.protv.md/live/sursa-1/index.m3u8",
         "categories": [
             "general",
+            "news"
+        ],
+        "country": "MD"
+    },
+    {
+        "name": "TV-Nord",
+        "id": "TVNord.md",
+        "logo": "https://i.imgur.com/86JYRVH.png",
+        "url": "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8",
+        "categories": [
             "news"
         ],
         "country": "MD"
@@ -3328,6 +3328,56 @@
         "country": "IN"
     },
     {
+        "name": "HNN 24x7",
+        "id": "HNN24x7.in",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVaHnXsaEt_m9s71ZRgHMPUckFZ8cW87J-AsQh0Q6pA&s",
+        "url": "https://mumt02.tangotv.in/HNN24X7/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Ind 24",
+        "id": "Ind24.in",
+        "logo": "https://i.imgur.com/exRpVmL.png",
+        "url": "https://mumt02.tangotv.in/IND24/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "K News India",
+        "id": "KNewsIndia.in",
+        "logo": "https://i.imgur.com/LeBL7ML.png",
+        "url": "https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Mantavya News",
+        "id": "MantavyaNews.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png",
+        "url": "https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Prime News",
+        "id": "PrimeNews.in",
+        "logo": "https://i.imgur.com/RQoDzpN.png",
+        "url": "https://mumt02.tangotv.in/PRIMENEWS/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Radio Ancon",
         "id": "RadioAncon.pa",
         "logo": "https://i.imgur.com/xum8PNe.jpg",
@@ -3588,6 +3638,16 @@
         "country": "PY"
     },
     {
+        "name": "C9N",
+        "id": "C9N.py",
+        "logo": "https://i.imgur.com/Cp4zJ7O.png",
+        "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
         "name": "Norte Informativo TV",
         "id": "NorteInformativoTV.cr",
         "logo": "https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg",
@@ -3774,6 +3834,41 @@
         "country": "VN"
     },
     {
+        "name": "HTV9",
+        "id": "HTV9.vn",
+        "logo": "",
+        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "RSelvaTV",
         "id": "RSelvaTV.pe",
         "logo": "https://i.imgur.com/DAK5ZnD.png",
@@ -3838,6 +3933,16 @@
         "id": "VNP.pe",
         "logo": "https://i.imgur.com/TOnknEW.png",
         "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "ATV+",
+        "id": "ATVPlus.pe",
+        "logo": "https://i.imgur.com/fY9256H.png",
+        "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
         "categories": [
             "news"
         ],
@@ -4132,6 +4237,16 @@
             "news"
         ],
         "country": "CU"
+    },
+    {
+        "name": "TDM Information",
+        "id": "TDMInformation.mo",
+        "logo": "https://i.imgur.com/h7HfsLx.png",
+        "url": "https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "MO"
     },
     {
         "name": "Afrique54 TV",
