@@ -531,20 +531,20 @@
         "country": "US"
     },
     {
-        "name": "Sports TV Plus",
-        "id": "SportsTVPlus.us",
-        "logo": "https://i.imgur.com/EyCDhgN.png",
-        "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/NKXQTWMREOB2XFJRLAHO/hls3/now,-1m/m.m3u8?ads.vf=SqsoCl37PjC",
+        "name": "DirecTV Sports",
+        "id": "DirecTVSports.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
         "categories": [
             "sports"
         ],
         "country": "US"
     },
     {
-        "name": "DirecTV Sports",
-        "id": "DirecTVSports.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
+        "name": "MMA TV",
+        "id": "MMATV.us",
+        "logo": "https://i.imgur.com/Qxco1eW.png",
+        "url": "http://31.148.48.15/M1_Global/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -712,6 +712,26 @@
         "country": "RU"
     },
     {
+        "name": "Boks TV",
+        "id": "BoksTV.ru",
+        "logo": "https://i.imgur.com/R1UjyfX.png",
+        "url": "http://31.148.48.15/Boks_TV/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Football",
+        "id": "Football.ru",
+        "logo": "https://i.imgur.com/pEuaZVx.png",
+        "url": "http://31.148.48.15/Futbol_HD/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "DAZN Combat",
         "id": "DAZNCombat.uk",
         "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
@@ -863,16 +883,6 @@
         "country": "IN"
     },
     {
-        "name": "Star Sports 3",
-        "id": "StarSports3.in",
-        "logo": "https://i.imgur.com/dbp2Mig.png",
-        "url": "http://103.161.153.165:8000/play/a05p/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "FUEL TV",
         "id": "FUELTV.at",
         "logo": "https://i.imgur.com/I8mviBy.png",
@@ -938,6 +948,16 @@
         "id": "TyCSports.ar",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
         "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-90.playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Fox Sports",
+        "id": "FoxSports.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+        "url": "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8",
         "categories": [
             "sports"
         ],
@@ -1051,6 +1071,16 @@
         "categories": [
             "sports",
             "entertainment"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "HTV Sports",
+        "id": "HTVSports.vn",
+        "logo": "",
+        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "sports"
         ],
         "country": "VN"
     },

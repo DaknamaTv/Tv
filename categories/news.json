@@ -74,6 +74,17 @@
         "country": "ES"
     },
     {
+        "name": "Onda Valencia TV",
+        "id": "OndaValenciaTV.es",
+        "logo": "https://i.imgur.com/6HxLUQd.png",
+        "url": "https://cloudvideo.servers10.com:8081/8116/index.m3u8",
+        "categories": [
+            "music",
+            "news"
+        ],
+        "country": "ES"
+    },
+    {
         "name": "CEACOM TV",
         "id": "CEACOMTV.bo",
         "logo": "https://i.imgur.com/hutdRfk.png",
@@ -1058,16 +1069,6 @@
         "country": "US"
     },
     {
-        "name": "Fox News Channel",
-        "id": "FoxNewsChannel.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png",
-        "url": "https://tvpass.org/live/FoxNewsChannel/sd",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Realitatea TV",
         "id": "RealitateaTV.md",
         "logo": "https://i.imgur.com/Ul4IIfX.png",
@@ -1084,6 +1085,16 @@
         "url": "https://stream.protv.md/live/sursa-1/index.m3u8",
         "categories": [
             "general",
+            "news"
+        ],
+        "country": "MD"
+    },
+    {
+        "name": "TV-Nord",
+        "id": "TVNord.md",
+        "logo": "https://i.imgur.com/86JYRVH.png",
+        "url": "https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8",
+        "categories": [
             "news"
         ],
         "country": "MD"
@@ -1286,16 +1297,6 @@
         "categories": [
             "general",
             "entertainment",
-            "news"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "Noticiero 90 Minutos",
-        "id": "Noticiero90Minutos.co",
-        "logo": "https://i.imgur.com/ThaRRCN.png",
-        "url": "https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8",
-        "categories": [
             "news"
         ],
         "country": "CO"
@@ -3054,17 +3055,6 @@
         "country": "IN"
     },
     {
-        "name": "Indywood TV",
-        "id": "IndywoodTV.in",
-        "logo": "https://i.ibb.co/jT3NCPp/logo-tv.png",
-        "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
-        "categories": [
-            "movies",
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "22Scope News",
         "id": "22ScopeNews.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
@@ -3626,16 +3616,6 @@
         "country": "IN"
     },
     {
-        "name": "Real News Kerala",
-        "id": "RealNewsKerala.in",
-        "logo": "https://i.imgur.com/8hnJuxa.png",
-        "url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "ZillarBarta News",
         "id": "ZillarBartaNews.in",
         "logo": "https://i.imgur.com/6uestzY.jpeg",
@@ -3645,16 +3625,6 @@
             "classic"
         ],
         "country": "IN"
-    },
-    {
-        "name": "Radio Ancon",
-        "id": "RadioAncon.pa",
-        "logo": "https://i.imgur.com/xum8PNe.jpg",
-        "url": "https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PA"
     },
     {
         "name": "KTV News",
@@ -3917,6 +3887,26 @@
         "country": "PY"
     },
     {
+        "name": "4Dmas Noticias TV",
+        "id": "4DmasNoticiasTV.py",
+        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "C9N",
+        "id": "C9N.py",
+        "logo": "https://i.imgur.com/iXkwP31.png",
+        "url": "https://d1y0t05eznkmpn.cloudfront.net/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
         "name": "Norte Informativo TV",
         "id": "NorteInformativoTV.cr",
         "logo": "https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg",
@@ -4123,6 +4113,28 @@
         "country": "VN"
     },
     {
+        "name": "HTV9",
+        "id": "HTV9.vn",
+        "logo": "",
+        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "RSelvaTV",
         "id": "RSelvaTV.pe",
         "logo": "https://i.imgur.com/DAK5ZnD.png",
@@ -4167,6 +4179,36 @@
         "id": "ATVPlus.pe",
         "logo": "https://i.imgur.com/fY9256H.png",
         "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "RCR",
+        "id": "RCR.pe",
+        "logo": "https://i.imgur.com/A8TRPrF.png",
+        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "TV Peru Noticias",
+        "id": "TVPeruNoticias.pe",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png",
+        "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e47.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "VNP",
+        "id": "VNP.pe",
+        "logo": "https://i.imgur.com/TOnknEW.png",
+        "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
         "categories": [
             "news"
         ],
@@ -4247,6 +4289,16 @@
         "id": "i24NEWSEnglishUSA.il",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
         "url": "https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IL"
+    },
+    {
+        "name": "Makan 33",
+        "id": "Makan33.il",
+        "logo": "https://i.imgur.com/RVtQTed.png",
+        "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -4938,6 +4990,16 @@
         "country": "BR"
     },
     {
+        "name": "TV Sim Sao Mateus",
+        "id": "TVSimSaoMateus.br",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "NH",
         "id": "NH.nl",
         "logo": "https://i.imgur.com/SPkK4md.png",
@@ -5294,6 +5356,16 @@
         "country": "ID"
     },
     {
+        "name": "Huma Betang TV",
+        "id": "HumaBetangTV.id",
+        "logo": "https://i.imgur.com/xBTqOEu.png",
+        "url": "https://v3.siar.us/humabetangtv/live/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "ID"
+    },
+    {
         "name": "News Central",
         "id": "NewsCentral.ng",
         "logo": "https://i.imgur.com/qvCgI8N.png",
@@ -5418,6 +5490,16 @@
         "id": "Noticias16.do",
         "logo": "https://www.lyngsat.com/logo/tv/nn/noticias-16-do.png",
         "url": "https://mlb.essastream.com:8081/noticias16/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "De Ultimo Minuto TV",
+        "id": "DeUltimoMinutoTV.do",
+        "logo": "https://i.imgur.com/6ML2z17.png",
+        "url": "https://soportedvb.click:3620/live/deultimominutomedialive.m3u8",
         "categories": [
             "news"
         ],
