@@ -502,16 +502,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Grande Natal",
-        "id": "TVGrandeNatal.br",
-        "logo": "https://i.imgur.com/MTuErdw.png",
-        "url": "http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Classique TV",
         "id": "ClassiqueTV.br",
         "logo": "https://i.imgur.com/rHxcraT.png",
@@ -885,17 +875,6 @@
         "country": "BR"
     },
     {
-        "name": "NickOnline",
-        "id": "NickOnline.br",
-        "logo": "https://x1co.com.br:8443/logo.png",
-        "url": "https://noproxy.x1co.com.br:9981/live.ts",
-        "categories": [
-            "kids",
-            "animation"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Amazon Sat",
         "id": "AmazonSat.br",
         "logo": "https://i.imgur.com/7rjCS5i.png",
@@ -965,11 +944,43 @@
         "country": "BR"
     },
     {
-        "name": "TV Sul Bahia",
-        "id": "TVSulBahia.br",
-        "logo": "https://i.imgur.com/qM6nMWm.png",
-        "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
+        "name": "NickOnline",
+        "id": "NickOnline.br",
+        "logo": "https://x1co.com.br:8443/logo.png",
+        "url": "https://x1co.com.br:8443/hls/stream.m3u8",
+        "categories": [
+            "kids",
+            "animation"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TVE Bahia",
+        "id": "TVEBahia.br",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png",
+        "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
         "categories": [],
+        "country": "BR"
+    },
+    {
+        "name": "TVE RS",
+        "id": "TVERS.br",
+        "logo": "https://i.imgur.com/MQ6lJpS.png",
+        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "categories": [
+            "culture",
+            "education"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Sim Cachoeiro",
+        "id": "TVSimCachoeiro.br",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
         "country": "BR"
     }
 ]
