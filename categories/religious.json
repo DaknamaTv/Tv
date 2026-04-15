@@ -270,16 +270,6 @@
         "country": "CO"
     },
     {
-        "name": "CMB Television",
-        "id": "CMBTelevision.co",
-        "logo": "https://i.imgur.com/akGKPsk.png",
-        "url": "https://hls-m9hrfayq-livepush.akamaized.net/live_cdn/nsxlDfnVmUyEy/eme2QCj5oX02cY/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CO"
-    },
-    {
         "name": "Cristovision",
         "id": "Cristovision.co",
         "logo": "https://i.imgur.com/XIhCUY9.png",
@@ -384,6 +374,16 @@
         "id": "TVManaArgentina.ar",
         "logo": "https://i.imgur.com/jars0mP.png",
         "url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 13 Jujuy",
+        "id": "Canal13Jujuy.ar",
+        "logo": "https://i.imgur.com/lmKLiJ3.jpg",
+        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
         "categories": [
             "religious"
         ],
@@ -495,16 +495,6 @@
         "id": "LoveworldSAT.ng",
         "logo": "https://i.imgur.com/Fg65XCS.png",
         "url": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "NG"
-    },
-    {
-        "name": "Whole Word TV",
-        "id": "WholeWordTV.ng",
-        "logo": "https://i.imgur.com/71MRtuK.png",
-        "url": "https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8",
         "categories": [
             "religious"
         ],
@@ -1374,6 +1364,16 @@
         "country": "IN"
     },
     {
+        "name": "ZB Bhakti",
+        "id": "ZBBhakti.in",
+        "logo": "https://i.imgur.com/MBaKNPC.jpeg",
+        "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Ertsulovneba",
         "id": "Ertsulovneba.ge",
         "logo": "https://i.imgur.com/KuuODMM.png",
@@ -1788,6 +1788,26 @@
         "id": "MohabatTV.ir",
         "logo": "https://i.imgur.com/Ig0SPev.png",
         "url": "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IR"
+    },
+    {
+        "name": "Quran TV",
+        "id": "QuranTV.ir",
+        "logo": "https://upload.wikimedia.org/wikipedia/fa/d/df/Quarntvlogo.png",
+        "url": "https://ncdn.telewebion.ir/quran/live/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IR"
+    },
+    {
+        "name": "WiseHumanTv",
+        "id": "WiseHumanTv.ir",
+        "logo": "https://i.imgur.com/BT7EtfB.png",
+        "url": "https://avr.host247.net/live/WiseHumanTv/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -2528,16 +2548,6 @@
         "country": "GT"
     },
     {
-        "name": "Amigos TV Chiquimula",
-        "id": "AmigosTVChiquimula.gt",
-        "logo": "https://i.ibb.co/tLhcNTD/amigos-tv-chiquimula.png",
-        "url": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "GT"
-    },
-    {
         "name": "Iglesia Del Camino",
         "id": "IglesiaDelCamino.gt",
         "logo": "https://i.imgur.com/vHfb3Z4.png",
@@ -3016,16 +3026,6 @@
         "id": "NRBTV.us",
         "logo": "https://i.imgur.com/2PL1Au7.png",
         "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "RadioMensaje TV",
-        "id": "RadioMensajeTV.us",
-        "logo": "https://i.imgur.com/TJNXjS2.png",
-        "url": "https://eu1.servers10.com:8081/8230/index.m3u8",
         "categories": [
             "religious"
         ],
@@ -3951,30 +3951,10 @@
         "country": "ID"
     },
     {
-        "name": "Al Wafa Tarim",
-        "id": "AlWafaTarim.id",
-        "logo": "https://i.ibb.co/3yfMjmf/logo-3.png",
-        "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Al-Iman TV",
-        "id": "AlImanTV.id",
-        "logo": "https://i.imgur.com/Qj1EFf1.png",
-        "url": "https://tv.aliman.id/aliman/live.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Fajar TV",
-        "id": "FajarTV.id",
-        "logo": "https://i.imgur.com/mkuXxRK.png",
-        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+        "name": "Izzah TV",
+        "id": "IzzahTV.id",
+        "logo": "https://i.imgur.com/my7aqLc.png",
+        "url": "https://streaming.radiosalamjambi.com/izzahtv.m3u8",
         "categories": [
             "religious"
         ],
@@ -4586,16 +4566,6 @@
         "country": "SV"
     },
     {
-        "name": "Arbol de Vida TV",
-        "id": "ArboldeVidaTV.sv",
-        "logo": "https://i.imgur.com/4sGDc4X.jpg",
-        "url": "https://yupistream.top:19360/livearbol/livearbol.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "SV"
-    },
-    {
         "name": "Josue TV",
         "id": "JosueTV.sv",
         "logo": "https://i.imgur.com/LNWGe1D.jpg",
@@ -4960,16 +4930,6 @@
         "id": "PeaceTVUrdu.ae",
         "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "AE"
-    },
-    {
-        "name": "Peace TV Chinese",
-        "id": "PeaceTVChinese.ae",
-        "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8",
         "categories": [
             "religious"
         ],
