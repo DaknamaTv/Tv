@@ -143,26 +143,6 @@
         "country": "ID"
     },
     {
-        "name": "Metro TV",
-        "id": "MetroTV.id",
-        "logo": "https://i.imgur.com/QnU70NI.png",
-        "url": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Metro Globe Network",
-        "id": "MetroGlobeNetwork.id",
-        "logo": "https://i.imgur.com/aiiinzg.png",
-        "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Rakyat Bengkulu TV",
         "id": "RakyatBengkuluTV.id",
         "logo": "https://i.imgur.com/5L2q081.png",
@@ -862,13 +842,29 @@
         "country": "ID"
     },
     {
-        "name": "Jogja TV",
-        "id": "JogjaTV.id",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
-        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+        "name": "Fajar TV",
+        "id": "FajarTV.id",
+        "logo": "https://i.imgur.com/mkuXxRK.png",
+        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
         "categories": [
-            "general"
+            "religious"
         ],
+        "country": "ID"
+    },
+    {
+        "name": "Sangaji TV",
+        "id": "SangajiTV.id",
+        "logo": "https://i.imgur.com/4rTNT8F.png",
+        "url": "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Selaparang TV",
+        "id": "SelaparangTV.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png",
+        "url": "https://selaparangtv.siar.us/live/selaparangtv.m3u8",
+        "categories": [],
         "country": "ID"
     }
 ]
