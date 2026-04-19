@@ -113,12 +113,17 @@
         "country": "AR"
     },
     {
-        "name": "Cine.Ar",
-        "id": "CineAr.ar",
-        "logo": "https://i.imgur.com/Iozv4tT.png",
-        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-20.playlist.m3u8",
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
         "categories": [
-            "movies"
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
         ],
         "country": "AR"
     },
@@ -483,23 +488,72 @@
         "country": "IN"
     },
     {
-        "name": "Shemaroo Filmi Gaane",
-        "id": "ShemarooFilmiGaane.in",
-        "logo": "https://i.imgur.com/2yOij1b.png",
-        "url": "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8",
-        "categories": [
-            "music",
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "ZB Cinema",
         "id": "ZBCinema.in",
         "logo": "https://i.imgur.com/kUg6WSk.jpeg",
         "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
         "categories": [
             "classic",
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Romedy Now",
+        "id": "RomedyNow.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143729_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.157.248.140:8000/play/a015/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Sony Max",
+        "id": "SonyMax.in",
+        "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.157.248.140:8000/play/a01l/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Gold 2",
+        "id": "StarGold2.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158297_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.157.248.140:8000/play/a00e/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Gold Romance",
+        "id": "StarGoldRomance.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158298_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.157.248.140:8000/play/a01i/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Gold Thrills",
+        "id": "StarGoldThrills.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158822_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.157.248.140:8000/play/a00b/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Cinema",
+        "id": "ZeeCinema.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022HVX3.png?lock=720x540",
+        "url": "http://103.157.248.140:8000/play/a00q/index.m3u8",
+        "categories": [
             "movies"
         ],
         "country": "IN"
@@ -2100,6 +2154,16 @@
             "movies"
         ],
         "country": "MY"
+    },
+    {
+        "name": "Rai Movie",
+        "id": "RaiMovie.it",
+        "logo": "https://i.imgur.com/0FjxXU9.png",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
+        "categories": [
+            "movies"
+        ],
+        "country": "IT"
     },
     {
         "name": "Kinoteatr",
