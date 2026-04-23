@@ -489,14 +489,6 @@
         "country": "ID"
     },
     {
-        "name": "SMTV",
-        "id": "SMTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png",
-        "url": "https://e.siar.us/live/smtv.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "BRTV",
         "id": "BRTV.id",
         "logo": "https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png",
@@ -627,42 +619,6 @@
         "country": "ID"
     },
     {
-        "name": "Dhoho TV",
-        "id": "DhohoTV.id",
-        "logo": "https://i.imgur.com/4Khyyfh.png",
-        "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Ficom Channel",
-        "id": "FicomChannel.id",
-        "logo": "",
-        "url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Radar Tasikmalaya TV",
-        "id": "RadarTasikmalayaTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png",
-        "url": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
-        "name": "TATV",
-        "id": "TATV.id",
-        "logo": "https://i.imgur.com/1f0EC7t.png",
-        "url": "https://v2.siar.us/tatv/live.sdp/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Surabaya TV",
         "id": "SurabayaTV.id",
         "logo": "https://i.imgur.com/jlss2ll.png",
@@ -717,16 +673,6 @@
         "country": "ID"
     },
     {
-        "name": "Jogja TV",
-        "id": "JogjaTV.id",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
-        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "PONTV",
         "id": "PONTV.id",
         "logo": "https://i.imgur.com/P5erWzm.png",
@@ -773,14 +719,6 @@
         "country": "ID"
     },
     {
-        "name": "Atambua TV",
-        "id": "AtambuaTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png",
-        "url": "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Radar Lampung TV",
         "id": "RadarLampungTV.id",
         "logo": "https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png",
@@ -793,6 +731,101 @@
         "id": "UGTV.id",
         "logo": "https://i.imgur.com/iEKDH26.png",
         "url": "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Fajar TV",
+        "id": "FajarTV.id",
+        "logo": "https://i.imgur.com/mkuXxRK.png",
+        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "GTV",
+        "id": "GTV.id",
+        "logo": "https://i.imgur.com/jjuKnYs.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "IDX Channel",
+        "id": "IDXChannel.id",
+        "logo": "https://i.imgur.com/xPvrcsr.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd",
+        "categories": [
+            "business"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "iNews",
+        "id": "iNews.id",
+        "logo": "https://i.imgur.com/M2R3lfg.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd",
+        "categories": [
+            "news"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "MNCTV",
+        "id": "MNCTV.id",
+        "logo": "https://i.imgur.com/SK8pjQy.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "MTA TV",
+        "id": "MTATV.id",
+        "logo": "https://i.imgur.com/3kGs7k0.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Sangaji TV",
+        "id": "SangajiTV.id",
+        "logo": "https://i.imgur.com/4rTNT8F.png",
+        "url": "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Sin Po TV",
+        "id": "SinPoTV.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd",
+        "categories": [
+            "news",
+            "sports"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Sultra TV",
+        "id": "SultraTV.id",
+        "logo": "https://i.imgur.com/cmpbNJz.png",
+        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "TV MUI",
+        "id": "TVMUI.id",
+        "logo": "https://i.imgur.com/vWtViyC.png",
+        "url": "https://cdn10jtedge.indihometv.com/atm/DASH/muitv/manifest.mpd",
         "categories": [],
         "country": "ID"
     }
