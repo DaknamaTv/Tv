@@ -10,16 +10,6 @@
         "country": "AZ"
     },
     {
-        "name": "ARB 24",
-        "id": "ARB24.az",
-        "logo": "https://i.imgur.com/mtvIFyq.png",
-        "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "AZ"
-    },
-    {
         "name": "Baku.TV",
         "id": "BakuTV.az",
         "logo": "https://i.imgur.com/r4FzxSg.png",
@@ -64,6 +54,30 @@
         "id": "DongNaiTV1.vn",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
@@ -170,16 +184,6 @@
             "news"
         ],
         "country": "BY"
-    },
-    {
-        "name": "News 24",
-        "id": "News24.np",
-        "logo": "https://i.imgur.com/7PgAPMU.png",
-        "url": "http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "NP"
     },
     {
         "name": "Guardian Talk Radio",
@@ -341,6 +345,36 @@
         "url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
         "categories": [
             "business",
+            "news"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "C5N",
+        "id": "C5N.ar",
+        "logo": "https://i.imgur.com/5ZNZYjO.png",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Cronica TV",
+        "id": "CronicaTV.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "IP Noticias",
+        "id": "IPNoticias.ar",
+        "logo": "https://i.imgur.com/dbu9nx4.png",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-21_480.m3u8",
+        "categories": [
             "news"
         ],
         "country": "AR"
@@ -2378,6 +2412,16 @@
         "country": "CD"
     },
     {
+        "name": "Geopolis TV",
+        "id": "GeopolisTV.cd",
+        "logo": "https://i.imgur.com/WzGAIYe.jpg",
+        "url": "https://tnt-television.com/Geopolis_tv/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CD"
+    },
+    {
         "name": "Al Masirah",
         "id": "AlMasirah.ye",
         "logo": "https://i.imgur.com/V055t5e.png",
@@ -3145,16 +3189,6 @@
         "country": "RO"
     },
     {
-        "name": "TV La Capitale",
-        "id": "TVLaCapitale.ci",
-        "logo": "https://i.imgur.com/zZJzNjM.jpeg",
-        "url": "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CI"
-    },
-    {
         "name": "Haiti News Channel",
         "id": "HaitiNewsChannel.ht",
         "logo": "https://m.media-amazon.com/images/I/51bJg+c7vRL.png",
@@ -3549,6 +3583,16 @@
         "id": "FinansTurkTV.tr",
         "logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
         "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Life TV",
+        "id": "LifeTV.tr",
+        "logo": "https://i.imgur.com/lWeJxm0.png",
+        "url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -4528,16 +4572,6 @@
         "id": "AmericasVoiceNews.us",
         "logo": "https://i.imgur.com/C4w0eYC.png",
         "url": "https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "KGUN-TV 9.6",
-        "id": "KGUNTV96.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/960px-Scripps_News_logo.svg.png",
-        "url": "https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8",
         "categories": [
             "news"
         ],
@@ -5657,6 +5691,16 @@
             "news"
         ],
         "country": "CR"
+    },
+    {
+        "name": "M-Net Info",
+        "id": "MNetInfo.mk",
+        "logo": "https://i.ibb.co/0fnY2cj/IMG-20230419-161527.jpg",
+        "url": "https://live.mnet.mk/hls/mnet-info.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "MK"
     },
     {
         "name": "Medi1TV Afrique",
