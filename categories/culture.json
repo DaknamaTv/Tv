@@ -117,16 +117,6 @@
         "country": "MX"
     },
     {
-        "name": "El Sonorense",
-        "id": "ElSonorense.mx",
-        "logo": "https://i.imgur.com/aKvPd4g.jpg",
-        "url": "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Telepace 2",
         "id": "Telepace2.it",
         "logo": "https://i.imgur.com/qvcf6QC.png",
@@ -219,26 +209,6 @@
             "culture"
         ],
         "country": "EC"
-    },
-    {
-        "name": "Belarus-3",
-        "id": "Belarus3.by",
-        "logo": "https://i.imgur.com/JkcDycn.png",
-        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "BY"
-    },
-    {
-        "name": "2STV",
-        "id": "2STV.sn",
-        "logo": "https://i.imgur.com/WByVBZf.png",
-        "url": "http://69.64.57.208/2stv/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "SN"
     },
     {
         "name": "EBS",
@@ -449,14 +419,15 @@
         "country": "EE"
     },
     {
-        "name": "Imai TV",
-        "id": "ImaiTV.lk",
-        "logo": "https://i.imgur.com/9tODclu.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8",
+        "name": "Catamarca TV",
+        "id": "CatamarcaTV.ar",
+        "logo": "https://i.imgur.com/CEuPoqG.png",
+        "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
         "categories": [
-            "culture"
+            "culture",
+            "news"
         ],
-        "country": "LK"
+        "country": "AR"
     },
     {
         "name": "Ondambiental TV",
@@ -531,16 +502,6 @@
         "country": "IN"
     },
     {
-        "name": "Odisha TV",
-        "id": "OdishaTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png?lock=720x540",
-        "url": "https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "DD Mizoram",
         "id": "DDMizoram.in",
         "logo": "https://i.imgur.com/I5zT1DG.png",
@@ -556,6 +517,16 @@
         "id": "DDPunjabi.in",
         "logo": "https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540",
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Odisha TV",
+        "id": "OdishaTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143639_ld_h15_aa.png?lock=720x540",
+        "url": "https://cdn-2.pishow.tv/live/1600/master.m3u8",
         "categories": [
             "culture"
         ],
@@ -631,6 +602,19 @@
             "family"
         ],
         "country": "NG"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
     },
     {
         "name": "USMPTV",
@@ -873,6 +857,16 @@
         "country": "BQ"
     },
     {
+        "name": "MRTV NRC",
+        "id": "MRTVNRC.mm",
+        "logo": "https://i.imgur.com/5aLFslk.jpg",
+        "url": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "MM"
+    },
+    {
         "name": "Channel S",
         "id": "ChannelS.uk",
         "logo": "https://i.imgur.com/hJxFLvF.png",
@@ -946,6 +940,16 @@
         "country": "DO"
     },
     {
+        "name": "Guaymate TV",
+        "id": "GuaymateTV.do",
+        "logo": "https://i.imgur.com/PBgQi9a.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "UCV TV",
         "id": "UCVTV.cl",
         "logo": "https://i.postimg.cc/jjGpZf4T/UCV-Logo.png",
@@ -970,6 +974,16 @@
         "id": "HolvoetTV.cl",
         "logo": "https://i.imgur.com/9JKRO3R.png",
         "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Chiloe Red 25",
+        "id": "ChiloeRed25.cl",
+        "logo": "https://i.imgur.com/3tqrImm.png",
+        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
         "categories": [
             "culture"
         ],
