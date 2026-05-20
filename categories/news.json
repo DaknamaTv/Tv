@@ -274,16 +274,6 @@
         "country": "KR"
     },
     {
-        "name": "Gugbang TV",
-        "id": "GugbangTV.kr",
-        "logo": "https://i.imgur.com/f1tz5fg.png",
-        "url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "KR"
-    },
-    {
         "name": "AMX Noticias",
         "id": "AMXNoticias.mx",
         "logo": "https://i.imgur.com/snIU1UA.jpg",
@@ -425,6 +415,16 @@
             "news"
         ],
         "country": "IT"
+    },
+    {
+        "name": "News 24",
+        "id": "News24.np",
+        "logo": "https://i.imgur.com/7PgAPMU.png",
+        "url": "http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "NP"
     },
     {
         "name": "Realitatea TV",
@@ -1101,16 +1101,6 @@
         "country": "US"
     },
     {
-        "name": "The Young Turks",
-        "id": "TheYoungTurks.us",
-        "logo": "https://i.imgur.com/XDNXJCl.png",
-        "url": "https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
         "name": "OAN Encore",
         "id": "OANEncore.us",
         "logo": "https://i.imgur.com/9S4ZbPL.jpg",
@@ -1644,6 +1634,16 @@
         "country": "PY"
     },
     {
+        "name": "4Dmas Noticias TV",
+        "id": "4DmasNoticiasTV.py",
+        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
         "name": "Norte Informativo TV",
         "id": "NorteInformativoTV.cr",
         "logo": "https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg",
@@ -1674,14 +1674,14 @@
         "country": "PH"
     },
     {
-        "name": "Baraka Television",
-        "id": "BarakaTelevision.cd",
-        "logo": "https://i.imgur.com/IKXddHN.png",
-        "url": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
+        "name": "GTV",
+        "id": "GTV.ph",
+        "logo": "https://i.imgur.com/rWhamwh.png",
+        "url": "http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7B:BB:36&stream=1548700&extension=m3u8",
         "categories": [
             "news"
         ],
-        "country": "CD"
+        "country": "PH"
     },
     {
         "name": "Geopolis TV",
@@ -3604,26 +3604,6 @@
         "country": "IN"
     },
     {
-        "name": "HNN 24x7",
-        "id": "HNN24x7.in",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVaHnXsaEt_m9s71ZRgHMPUckFZ8cW87J-AsQh0Q6pA&s",
-        "url": "https://mumt02.tangotv.in/HNN24X7/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Mantavya News",
-        "id": "MantavyaNews.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mantavya_News.png",
-        "url": "https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "ZillarBarta News",
         "id": "ZillarBartaNews.in",
         "logo": "https://i.imgur.com/6uestzY.jpeg",
@@ -3649,6 +3629,16 @@
         "id": "StarBharat.in",
         "logo": "https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png?lock=720x540",
         "url": "http://103.253.18.58:8000/play/a00u",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Prudent Media",
+        "id": "PrudentMedia.in",
+        "logo": "https://i.imgur.com/DG0x4UD.png",
+        "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
         "categories": [
             "news"
         ],
@@ -3916,6 +3906,30 @@
         "country": "VN"
     },
     {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "RSelvaTV",
         "id": "RSelvaTV.pe",
         "logo": "https://i.imgur.com/DAK5ZnD.png",
@@ -3950,16 +3964,6 @@
         "id": "VNP.pe",
         "logo": "https://i.imgur.com/TOnknEW.png",
         "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "ATV+",
-        "id": "ATVPlus.pe",
-        "logo": "https://i.imgur.com/fY9256H.png",
-        "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
         "categories": [
             "news"
         ],
@@ -4482,6 +4486,26 @@
         "country": "CA"
     },
     {
+        "name": "Probashi TV News",
+        "id": "ProbashiTVNews.ca",
+        "logo": "https://i.imgur.com/7oTsfQ4.png",
+        "url": "http://158.69.24.53:8080/probashi_tv/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "The News Forum",
+        "id": "TheNewsForum.ca",
+        "logo": "https://i.imgur.com/hhqqiqg.png",
+        "url": "http://name-port.to/live/Gregory123/Gregory321/2420047.ts",
+        "categories": [
+            "news"
+        ],
+        "country": "CA"
+    },
+    {
         "name": "AL24 News",
         "id": "AL24News.dz",
         "logo": "https://i.imgur.com/vyVEXYL.png",
@@ -4768,16 +4792,6 @@
         "country": "TR"
     },
     {
-        "name": "Finans Turk TV",
-        "id": "FinansTurkTV.tr",
-        "logo": "https://i.ibb.co/wBwmB1T/iY0osc7.png",
-        "url": "https://yayin30.haber100.com/live/finansturk/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "DHA",
         "id": "DHA.tr",
         "logo": "https://i.imgur.com/VZhag2x.png",
@@ -4812,6 +4826,16 @@
         "id": "CanTV.tr",
         "logo": "https://i.imgur.com/oIMtuwB.png",
         "url": "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "Haber61 TV",
+        "id": "Haber61TV.tr",
+        "logo": "https://i.imgur.com/2a2XUKl.png",
+        "url": "https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -5257,16 +5281,6 @@
             "news"
         ],
         "country": "DO"
-    },
-    {
-        "name": "Monaco Info",
-        "id": "MonacoInfo.mc",
-        "logo": "https://i.imgur.com/dIrKYH7.png",
-        "url": "https://webtv.monacoinfo.com/live/prod/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "MC"
     },
     {
         "name": "Haiti News Channel",
