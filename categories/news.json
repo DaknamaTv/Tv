@@ -91,6 +91,16 @@
         "country": "FR"
     },
     {
+        "name": "Euronews Russian",
+        "id": "EuronewsRussian.fr",
+        "logo": "https://i.imgur.com/8t9mdg9.png",
+        "url": "http://tmptv.sunduk.tv/CH31/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "FR"
+    },
+    {
         "name": "Syria TV",
         "id": "SyriaTV.sy",
         "logo": "https://i.imgur.com/FjuVuXF.jpeg",
@@ -397,16 +407,6 @@
         "country": "IT"
     },
     {
-        "name": "Giornale Radio TV",
-        "id": "GiornaleRadioTV.it",
-        "logo": "https://i.imgur.com/2Y5qiao.png",
-        "url": "https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IT"
-    },
-    {
         "name": "Minformo TV",
         "id": "MinformoTV.it",
         "logo": "https://i.imgur.com/9Oq6fLw.png",
@@ -695,16 +695,6 @@
             "news"
         ],
         "country": "BY"
-    },
-    {
-        "name": "Al Masirah",
-        "id": "AlMasirah.ye",
-        "logo": "https://i.imgur.com/V055t5e.png",
-        "url": "https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "YE"
     },
     {
         "name": "CTi News",
@@ -1502,16 +1492,6 @@
         "country": "US"
     },
     {
-        "name": "Payvand TV",
-        "id": "PayvandTV.us",
-        "logo": "https://i.imgur.com/A4gqEmG.png",
-        "url": "https://tgn.bozztv.com/cus01/ucur1/Payvand/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Didgah TV",
         "id": "DidgahTV.us",
         "logo": "https://i.imgur.com/3SeAyBS.png",
@@ -1564,12 +1544,23 @@
         "country": "US"
     },
     {
-        "name": "KGUN-TV 9.6",
-        "id": "KGUNTV96.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Scripps_News_logo.svg/960px-Scripps_News_logo.svg.png",
-        "url": "https://jmp2.uk/plu-5459795fc9f133a519bc0bef.m3u8",
+        "name": "America's Voice News",
+        "id": "AmericasVoiceNews.us",
+        "logo": "https://i.imgur.com/C4w0eYC.png",
+        "url": "https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "NowMedia Television",
+        "id": "NowMediaTelevision.us",
+        "logo": "https://i.imgur.com/8m8gy0n.png",
+        "url": "https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/tracks-v1/index.fmp4.m3u8",
+        "categories": [
+            "news",
+            "lifestyle"
         ],
         "country": "US"
     },
@@ -1618,16 +1609,6 @@
         "id": "C9N.py",
         "logo": "https://i.imgur.com/iXkwP31.png",
         "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "4Dmas Noticias TV",
-        "id": "4DmasNoticiasTV.py",
-        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -2178,16 +2159,6 @@
             "news"
         ],
         "country": "BZ"
-    },
-    {
-        "name": "Burkina Info TV",
-        "id": "BurkinaInfoTV.bf",
-        "logo": "https://i.imgur.com/a9v5CbU.png",
-        "url": "http://69.64.57.208/burkinainfo/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BF"
     },
     {
         "name": "News 7 Tamil",
@@ -3625,21 +3596,23 @@
         "country": "IN"
     },
     {
-        "name": "Janta TV",
-        "id": "JantaTV.in",
-        "logo": "https://i.imgur.com/0nKfwhV.png",
-        "url": "https://live.jswk.online/IK_RTPM/live/index.m3u8",
+        "name": "Awaaz India TV",
+        "id": "AwaazIndiaTV.in",
+        "logo": "https://i.imgur.com/eKQs51V.png",
+        "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
         "categories": [
             "news"
         ],
         "country": "IN"
     },
     {
-        "name": "Awaaz India TV",
-        "id": "AwaazIndiaTV.in",
-        "logo": "https://i.imgur.com/eKQs51V.png",
-        "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+        "name": "MediBizTV",
+        "id": "MediBizTV.in",
+        "logo": "",
+        "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8",
         "categories": [
+            "science",
+            "education",
             "news"
         ],
         "country": "IN"
@@ -3895,45 +3868,20 @@
         "country": "NG"
     },
     {
+        "name": "News Central",
+        "id": "NewsCentral.ng",
+        "logo": "https://i.imgur.com/qvCgI8N.png",
+        "url": "https://wf.newscentral.ng:8443/hls/stream.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "NG"
+    },
+    {
         "name": "Dong Nai TV 1",
         "id": "DongNaiTV1.vn",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "HTV9",
-        "id": "HTV9.vn",
-        "logo": "",
-        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "news",
-            "general"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Vinh Long TV 1",
-        "id": "VinhLongTV1.vn",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
@@ -4487,16 +4435,6 @@
         "country": "CA"
     },
     {
-        "name": "The News Forum",
-        "id": "TheNewsForum.ca",
-        "logo": "https://i.imgur.com/hhqqiqg.png",
-        "url": "http://name-port.to/live/Gregory123/Gregory321/2420047.ts",
-        "categories": [
-            "news"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "Probashi TV News",
         "id": "ProbashiTVNews.ca",
         "logo": "https://i.imgur.com/7oTsfQ4.png",
@@ -4843,16 +4781,6 @@
         "country": "TR"
     },
     {
-        "name": "Al Qanat 9",
-        "id": "AlQanat9.tr",
-        "logo": "https://i.imgur.com/HC91Mho.png",
-        "url": "https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Can TV",
         "id": "CanTV.tr",
         "logo": "https://i.imgur.com/oIMtuwB.png",
@@ -5036,6 +4964,16 @@
         "id": "TVSimSaoMateus.br",
         "logo": "https://i.imgur.com/t5oUK3C.png",
         "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Sim Colatina",
+        "id": "TVSimColatina.br",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -5728,16 +5666,6 @@
         "id": "nbcnewsnow1080p",
         "logo": "https://i.imgur.com/JZt2qh5.png",
         "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003",
-        "categories": [
-            "news"
-        ],
-        "country": ""
-    },
-    {
-        "name": "Payvand TV (720p) [Not 24/7]",
-        "id": "payvandtv720pnot247",
-        "logo": "https://i.imgur.com/A4gqEmG.png",
-        "url": "https://bozztv.com/cus01/ucur1/Payvand/index.m3u8",
         "categories": [
             "news"
         ],
