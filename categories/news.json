@@ -110,16 +110,6 @@
         "country": "CA"
     },
     {
-        "name": "Burkina Info TV",
-        "id": "BurkinaInfoTV.bf",
-        "logo": "https://i.imgur.com/a9v5CbU.png",
-        "url": "http://69.64.57.208/burkinainfo/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BF"
-    },
-    {
         "name": "Observator News",
         "id": "ObservatorNews.ro",
         "logo": "https://i.imgur.com/f6xEIAr.png",
@@ -309,16 +299,6 @@
             "news"
         ],
         "country": "MD"
-    },
-    {
-        "name": "Al Masar TV",
-        "id": "AlMasarTV.ly",
-        "logo": "https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU",
-        "url": "https://starmenajo.com/hls/almasar/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "LY"
     },
     {
         "name": "Egnatia TV",
@@ -603,6 +583,16 @@
         "id": "GiornaleRadioTV.it",
         "logo": "https://i.imgur.com/2Y5qiao.png",
         "url": "https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IT"
+    },
+    {
+        "name": "Telegela 647",
+        "id": "Telegela647.it",
+        "logo": "https://i.imgur.com/ppkX45f.png",
+        "url": "https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -931,16 +921,6 @@
         "country": "KR"
     },
     {
-        "name": "Gugbang TV",
-        "id": "GugbangTV.kr",
-        "logo": "https://i.imgur.com/f1tz5fg.png",
-        "url": "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "KR"
-    },
-    {
         "name": "NPY",
         "id": "NPY.py",
         "logo": "https://i.imgur.com/pUEkaiW.png",
@@ -975,6 +955,16 @@
         "id": "C9N.py",
         "logo": "https://i.imgur.com/iXkwP31.png",
         "url": "https://alba-py-c9n-c9n.stream.mediatiquestream.com/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Suceso TV",
+        "id": "SucesoTV.py",
+        "logo": "https://i.imgur.com/BwRNes1.png",
+        "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
         "categories": [
             "news"
         ],
@@ -1184,18 +1174,6 @@
         "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Natal",
-        "id": "TVNatal.br",
-        "logo": "https://i.imgur.com/wqQmQml.png",
-        "url": "http://185.228.163.146:8000/play/a01y/index.m3u8",
-        "categories": [
-            "general",
-            "news",
-            "entertainment"
         ],
         "country": "BR"
     },
@@ -1450,16 +1428,6 @@
         "country": "TR"
     },
     {
-        "name": "Almahriah TV",
-        "id": "AlmahriahTV.tr",
-        "logo": "https://i.imgur.com/GgEeTNr.png",
-        "url": "https://starmenajo.com/hls/almahriah/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "TR"
-    },
-    {
         "name": "Dim TV",
         "id": "DimTV.tr",
         "logo": "https://i.imgur.com/X4QFDhk.png",
@@ -1646,16 +1614,6 @@
         "id": "AlNajahNews.ps",
         "logo": "https://i.imgur.com/c2bwn4G.png",
         "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PS"
-    },
-    {
-        "name": "Palestine Today",
-        "id": "PalestineToday.ps",
-        "logo": "https://i.imgur.com/BS8XXug.png",
-        "url": "https://live.paltodaytv.com/paltv/live/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -2830,6 +2788,18 @@
         "country": "BO"
     },
     {
+        "name": "UMSA TVU LP",
+        "id": "UMSATVULP.bo",
+        "logo": "https://tvu.umsa.bo/documents/780216/12171558/logo+tvu+icon.png/4367e79e-4541-d340-0e82-3943b73e7b18?t=1747686917412",
+        "url": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "news",
+            "culture",
+            "education"
+        ],
+        "country": "BO"
+    },
+    {
         "name": "Visir",
         "id": "Visir.is",
         "logo": "https://i.imgur.com/07Vlt6i.jpg",
@@ -2973,14 +2943,14 @@
         "country": "MN"
     },
     {
-        "name": "News 24",
-        "id": "News24.np",
-        "logo": "https://i.imgur.com/7PgAPMU.png",
-        "url": "http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8",
+        "name": "TV La Capitale",
+        "id": "TVLaCapitale.ci",
+        "logo": "https://i.imgur.com/zZJzNjM.jpeg",
+        "url": "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8",
         "categories": [
             "news"
         ],
-        "country": "NP"
+        "country": "CI"
     },
     {
         "name": "SABC Lehae",
@@ -3215,16 +3185,6 @@
         "country": "PE"
     },
     {
-        "name": "RCR",
-        "id": "RCR.pe",
-        "logo": "https://i.imgur.com/A8TRPrF.png",
-        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "O'zbekiston 24",
         "id": "Ozbekiston24.uz",
         "logo": "https://i.imgur.com/VRFhKbw.png",
@@ -3407,16 +3367,6 @@
         "country": "LB"
     },
     {
-        "name": "Palestine Al Yawm",
-        "id": "PalestineAlYawm.lb",
-        "logo": "https://i.imgur.com/n8dSgx4.png",
-        "url": "https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "LB"
-    },
-    {
         "name": "ALWifak News TV",
         "id": "ALWifakNewsTV.lb",
         "logo": "https://i.imgur.com/1vqhmNz.png",
@@ -3497,6 +3447,36 @@
         "country": "DO"
     },
     {
+        "name": "Hermanas Mirabal TV",
+        "id": "HermanasMirabalTV.do",
+        "logo": "https://i.imgur.com/cbKgcGh.png",
+        "url": "https://fox.hostlagarto.com:8081/hmtv/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Noticias 16",
+        "id": "Noticias16.do",
+        "logo": "",
+        "url": "https://edge.essastream.com/noticias16/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "RDN",
+        "id": "RDN.do",
+        "logo": "https://i.imgur.com/x02CGSW.png",
+        "url": "https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Hir TV",
         "id": "HirTV.hu",
         "logo": "https://i.imgur.com/xmIUDRN.png",
@@ -3517,10 +3497,10 @@
         "country": "BS"
     },
     {
-        "name": "Geopolis TV",
-        "id": "GeopolisTV.cd",
-        "logo": "https://i.imgur.com/WzGAIYe.jpg",
-        "url": "https://tnt-television.com/Geopolis_tv/index.m3u8",
+        "name": "Baraka Television",
+        "id": "BarakaTelevision.cd",
+        "logo": "https://i.imgur.com/IKXddHN.png",
+        "url": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
         "categories": [
             "news"
         ],
