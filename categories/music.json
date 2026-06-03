@@ -272,6 +272,16 @@
         "country": "RO"
     },
     {
+        "name": "Super TV",
+        "id": "SuperTV.ro",
+        "logo": "https://i.imgur.com/pzxUE0O.png",
+        "url": "http://iptv.supertv.ro:8000/play/a001/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RO"
+    },
+    {
         "name": "Mosaique FM",
         "id": "MosaiqueFM.tn",
         "logo": "https://i.imgur.com/GDUykah.png",
@@ -406,6 +416,16 @@
         "id": "BarazaTV.gr",
         "logo": "https://i.imgur.com/TZ1unwF.png",
         "url": "https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "GR"
+    },
+    {
+        "name": "Ellinikos FM",
+        "id": "EllinikosFM.gr",
+        "logo": "https://i.ibb.co/y0ydCNB/unnamed-4.png",
+        "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
         "categories": [
             "music"
         ],
@@ -585,16 +605,6 @@
         "country": "NL"
     },
     {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "JO"
-    },
-    {
         "name": "Radio Realpolitik",
         "id": "RadioRealpolitik.ar",
         "logo": "https://i.imgur.com/L9KCdTX.png",
@@ -651,21 +661,6 @@
         "url": "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8",
         "categories": [
             "music"
-        ],
-        "country": "AR"
-    },
-    {
-        "name": "AlternaTV",
-        "id": "AlternaTV.ar",
-        "logo": "https://tv.alterna.ar/alternatv.png",
-        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
-        "categories": [
-            "music",
-            "culture",
-            "entertainment",
-            "documentary",
-            "movies",
-            "general"
         ],
         "country": "AR"
     },
@@ -1103,6 +1098,16 @@
         "country": "CZ"
     },
     {
+        "name": "Muzvar",
+        "id": "Muzvar.ua",
+        "logo": "https://i.imgur.com/Klu5k9U.png",
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "UA"
+    },
+    {
         "name": "Myx",
         "id": "Myx.ph",
         "logo": "https://i.imgur.com/pbHuUuV.png",
@@ -1338,6 +1343,16 @@
         "id": "TikTokRadioBrasil.br",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg",
         "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529",
+        "categories": [
+            "music"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "KpopTV Play",
+        "id": "KpopTVPlay.br",
+        "logo": "https://i.imgur.com/Tf0vweF.png",
+        "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -1841,6 +1856,16 @@
         "id": "LiraTV.es",
         "logo": "https://i.imgur.com/hBswXYZ.png",
         "url": "https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "SpektraTV",
+        "id": "SpektraTV.es",
+        "logo": "https://i.imgur.com/0zCt8e4.png",
+        "url": "https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8",
         "categories": [
             "music"
         ],
@@ -2501,19 +2526,6 @@
         "country": "SA"
     },
     {
-        "name": "CEACOM TV",
-        "id": "CEACOMTV.bo",
-        "logo": "https://i.imgur.com/hutdRfk.png",
-        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
-        "categories": [
-            "news",
-            "lifestyle",
-            "music",
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "La Kalle",
         "id": "LaKalle.co",
         "logo": "https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",
@@ -2713,16 +2725,6 @@
             "music"
         ],
         "country": "AW"
-    },
-    {
-        "name": "Play TV",
-        "id": "PlayTV.cm",
-        "logo": "https://i.imgur.com/1dmBqpf.png",
-        "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CM"
     },
     {
         "name": "Isango TV",
@@ -3088,19 +3090,6 @@
         "country": "UZ"
     },
     {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "A2i Music",
         "id": "A2iMusic.sn",
         "logo": "https://i.imgur.com/Fykhzxh.jpg",
@@ -3343,56 +3332,6 @@
         "country": "RU"
     },
     {
-        "name": "City Eden Birma Play",
-        "id": "CityEdenBirmaPlay.ru",
-        "logo": "https://i.imgur.com/38Q5L5W.png",
-        "url": "https://cityeden.catcast.tv/content/34364/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "City Eden Classic Music",
-        "id": "CityEdenClassicMusic.ru",
-        "logo": "https://i.imgur.com/l7BE8l6.png",
-        "url": "https://cityeden.catcast.tv/content/47400/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "City Eden Meditation Music",
-        "id": "CityEdenMeditationMusic.ru",
-        "logo": "https://i.imgur.com/HPWevWb.png",
-        "url": "https://cityeden.catcast.tv/content/47410/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "City Eden Play",
-        "id": "CityEdenPlay.ru",
-        "logo": "https://i.imgur.com/ozEqob9.png",
-        "url": "https://cityeden.catcast.tv/content/34100/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "City Eden Sirtaki TV",
-        "id": "CityEdenSirtakiTV.ru",
-        "logo": "https://i.imgur.com/V3MTfyc.png",
-        "url": "https://cityeden.catcast.tv/content/46421/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "VIVA Russia",
         "id": "VIVARussia.ru",
         "logo": "https://i.imgur.com/OFhQQCD.png",
@@ -3531,6 +3470,16 @@
             "music"
         ],
         "country": "CH"
+    },
+    {
+        "name": "Juice TV",
+        "id": "JuiceTV.nz",
+        "logo": "https://i.imgur.com/WaaaW0w.png",
+        "url": "https://juicex.nz/hls/mystream.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "NZ"
     },
     {
         "name": "Sky Folk TV",
@@ -4256,6 +4205,16 @@
         "country": "CR"
     },
     {
+        "name": "VM Latino",
+        "id": "VMLatino.cr",
+        "logo": "https://i.imgur.com/Dvo1b82.png",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
         "name": "Music Information Channel",
         "id": "MusicInformationChannel.id",
         "logo": "https://i.imgur.com/OUPGCWG.png",
@@ -4352,6 +4311,16 @@
         "id": "CCTV15.cn",
         "logo": "https://i.imgur.com/CCV0eRG.png",
         "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CN"
+    },
+    {
+        "name": "CCTV-Storm Music",
+        "id": "CCTVStormMusic.cn",
+        "logo": "https://i.imgur.com/IiiRmrf.png",
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
         "categories": [
             "music"
         ],

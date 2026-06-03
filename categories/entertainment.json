@@ -274,21 +274,6 @@
         "country": "AR"
     },
     {
-        "name": "AlternaTV",
-        "id": "AlternaTV.ar",
-        "logo": "https://tv.alterna.ar/alternatv.png",
-        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
-        "categories": [
-            "music",
-            "culture",
-            "entertainment",
-            "documentary",
-            "movies",
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "OTV",
         "id": "OTV.gh",
         "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg",
@@ -452,10 +437,30 @@
         "country": "UG"
     },
     {
+        "name": "Belarus-2",
+        "id": "Belarus2.by",
+        "logo": "https://i.imgur.com/BpEHpPS.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BY"
+    },
+    {
         "name": "Lanet.TV",
         "id": "LanetTV.ua",
         "logo": "https://i.imgur.com/Jdy4SoG.png",
         "url": "https://kiev1-cdn.lanet.tv/live/1008.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "UA"
+    },
+    {
+        "name": "Svarozhychy",
+        "id": "Svarozhychy.ua",
+        "logo": "https://i.imgur.com/VnAgQA4.png",
+        "url": "https://iptv.prosto.tv/ch168/tracks-v1a1/mono.m3u8?21yo=1&live=1&ip=178.136.40.86&id=742347&secret=vu2y5m72&e=1783001230&st=qEu2rz6Y32Q9vvupQDSuvA",
         "categories": [
             "entertainment"
         ],
@@ -526,16 +531,6 @@
         "id": "TVCentro272HD.hn",
         "logo": "https://i.imgur.com/Wo2scQf.jpg",
         "url": "https://cloud2.streaminglivehd.com:1936/8004/8004/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "HN"
-    },
-    {
-        "name": "Radio Omega TV",
-        "id": "RadioOmegaTV.hn",
-        "logo": "https://i.ibb.co/nfJhQMx/Bj7qf5-Tb-Z9.jpg",
-        "url": "https://5caf24a595d94.streamlock.net:1937/8142/8142/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -790,16 +785,6 @@
         "id": "InterTV.ve",
         "logo": "https://i.ibb.co/HG2DM8G/IMG-20230705-153952.jpg",
         "url": "https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "VE"
-    },
-    {
-        "name": "Nortena Tv",
-        "id": "NortenaTv.ve",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/nortenatv1234/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1167,16 +1152,6 @@
         "country": "UK"
     },
     {
-        "name": "Zee TV UK",
-        "id": "ZeeTVUK.uk",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Zee_TV_Logo_2025.svg",
-        "url": "https://mini.allinonereborn.fun/tata.php?id=11783",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "UK"
-    },
-    {
         "name": "TV Nova",
         "id": "TVNova.hr",
         "logo": "https://i.imgur.com/gFjJ7YB.png",
@@ -1201,6 +1176,16 @@
         "id": "MaxivisionTV.gt",
         "logo": "https://i.imgur.com/UC8WrEN.jpg",
         "url": "https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "GT"
+    },
+    {
+        "name": "SAS TV",
+        "id": "SASTV.gt",
+        "logo": "https://i.imgur.com/VShjB3o.png",
+        "url": "https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -1903,16 +1888,6 @@
         "country": "US"
     },
     {
-        "name": "Shabakeh 7",
-        "id": "Shabakeh7.us",
-        "logo": "https://i.imgur.com/oHmh5Jb.png",
-        "url": "https://sh7hls.wns.live/hls/stream.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Tele Boston",
         "id": "TeleBoston.us",
         "logo": "https://i.imgur.com/xeTtup8.png",
@@ -2104,16 +2079,6 @@
         "id": "UltraCasanareTV.co",
         "logo": "https://i.imgur.com/1voWgLI.png",
         "url": "https://eu1.servers10.com:8081/8072/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CO"
-    },
-    {
-        "name": "La Cheverisima Radio TV",
-        "id": "LaCheverisimaRadioTV.co",
-        "logo": "https://i.imgur.com/lk5D5kB.png",
-        "url": "https://byecablecluster.ddns.net/neira/neira.stream/index.fmp4.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2390,18 +2355,6 @@
         "country": "MX"
     },
     {
-        "name": "GikTVMX",
-        "id": "GikTVMX.mx",
-        "logo": "https://i.imgur.com/Gwz78jZ.png",
-        "url": "https://pistream.ddns.net/hls/stream.m3u8",
-        "categories": [
-            "culture",
-            "animation",
-            "entertainment"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "IERTBCS Canal 8.2",
         "id": "IERTBCSCanal82.mx",
         "logo": "https://i.imgur.com/R3icGuG.png",
@@ -2564,19 +2517,6 @@
         "url": "https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8",
         "categories": [
             "entertainment"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
         ],
         "country": "VN"
     },
@@ -2955,6 +2895,16 @@
         "country": "DO"
     },
     {
+        "name": "TVS",
+        "id": "TVS.do",
+        "logo": "https://i.imgur.com/a2YX1oj.jpg",
+        "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Citi Hitz",
         "id": "CitiHitz.lk",
         "logo": "https://i.imgur.com/EuYpCRF.png",
@@ -3123,16 +3073,6 @@
             "entertainment"
         ],
         "country": "EC"
-    },
-    {
-        "name": "ETV+",
-        "id": "ETVPlus.ee",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/ETV%2B_logo.png",
-        "url": "https://sb.err.ee/live/etvpluss.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "EE"
     },
     {
         "name": "TVCARiB Latino",
@@ -3585,6 +3525,26 @@
         "country": "IN"
     },
     {
+        "name": "NTC TV",
+        "id": "NTCTV.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ntvtamil.png",
+        "url": "https://galaxyott.live/hls/ntv.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Vissa TV",
+        "id": "VissaTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s144081_ld_h15_aa.png?lock=720x540",
+        "url": "https://mumt02.tangotv.in/VISSATV/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Super Cable",
         "id": "SuperCable.cr",
         "logo": "https://i.imgur.com/KYtJp8F.png",
@@ -3665,36 +3625,6 @@
             "entertainment"
         ],
         "country": "SG"
-    },
-    {
-        "name": "Jim",
-        "id": "Jim.fi",
-        "logo": "https://i.imgur.com/PkMgY0K.png",
-        "url": "https://live-fi.tvkaista.net/jim/live.m3u8?hd=true",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "FI"
-    },
-    {
-        "name": "Liv",
-        "id": "Liv.fi",
-        "logo": "https://i.imgur.com/k6NsXBj.png",
-        "url": "https://live-fi.tvkaista.net/liv/live.m3u8?hd=true",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "FI"
-    },
-    {
-        "name": "MTV Ava",
-        "id": "MTVAva.fi",
-        "logo": "https://i.imgur.com/WxNCiAk.png",
-        "url": "https://live-fi.tvkaista.net/ava/live.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "FI"
     },
     {
         "name": "CCTV-3",
