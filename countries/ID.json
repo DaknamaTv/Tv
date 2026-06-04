@@ -485,14 +485,6 @@
         "country": "ID"
     },
     {
-        "name": "TATV",
-        "id": "TATV.id",
-        "logo": "https://i.imgur.com/1f0EC7t.png",
-        "url": "https://v2.siar.us/tatv/live.sdp/playlist.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Ficom Channel",
         "id": "FicomChannel.id",
         "logo": "",
@@ -615,16 +607,6 @@
         "country": "ID"
     },
     {
-        "name": "Al-Iman TV",
-        "id": "AlImanTV.id",
-        "logo": "https://i.imgur.com/Qj1EFf1.png",
-        "url": "https://tv.aliman.id/aliman/live.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "STV",
         "id": "STV.id",
         "logo": "https://i.imgur.com/EIrXgT8.png",
@@ -699,14 +681,6 @@
         "country": "ID"
     },
     {
-        "name": "Salam TV",
-        "id": "SalamTV.id",
-        "logo": "https://i.imgur.com/00Ifzgo.png",
-        "url": "https://salamtv.siar.us/live/salamtv.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Banjar TV",
         "id": "BanjarTV.id",
         "logo": "https://i.imgur.com/TA76a10.png",
@@ -748,6 +722,76 @@
         "categories": [
             "education"
         ],
+        "country": "ID"
+    },
+    {
+        "name": "Jek TV",
+        "id": "JekTV.id",
+        "logo": "https://i.imgur.com/wh75d1f.png",
+        "url": "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Jogja TV",
+        "id": "JogjaTV.id",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
+        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Radar Tasikmalaya TV",
+        "id": "RadarTasikmalayaTV.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png",
+        "url": "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Sampit TV",
+        "id": "SampitTV.id",
+        "logo": "https://i.imgur.com/8cFJa8G.png",
+        "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Selaparang TV",
+        "id": "SelaparangTV.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png",
+        "url": "https://selaparangtv.siar.us/live/selaparangtv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Semarang TV",
+        "id": "SemarangTV.id",
+        "logo": "https://i.imgur.com/KFC2WSB.png",
+        "url": "http://116.254.112.74/hls/cakralive.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Sriwijaya TV",
+        "id": "SriwijayaTV.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png",
+        "url": "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Sultra TV",
+        "id": "SultraTV.id",
+        "logo": "https://i.imgur.com/cmpbNJz.png",
+        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
+        "categories": [],
         "country": "ID"
     }
 ]
