@@ -292,16 +292,6 @@
         "country": "TN"
     },
     {
-        "name": "Jawhara TV",
-        "id": "JawharaTV.tn",
-        "logo": "https://i.imgur.com/mRSQ5bP.png",
-        "url": "https://streaming.toutech.net/live/jtv/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "TN"
-    },
-    {
         "name": "Tezaur TV",
         "id": "TezaurTV.md",
         "logo": "https://i.imgur.com/eAagwLW.png",
@@ -356,6 +346,16 @@
         "id": "CityTV.bg",
         "logo": "https://i.imgur.com/mFL452f.png",
         "url": "https://tv.city.bg/play/tshls/citytv/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BG"
+    },
+    {
+        "name": "DSTV",
+        "id": "DSTV.bg",
+        "logo": "https://i.imgur.com/YMgzzkf.png",
+        "url": "http://46.249.95.140:8081/hls/data.m3u8",
         "categories": [
             "music"
         ],
@@ -512,16 +512,6 @@
         "country": "NL"
     },
     {
-        "name": "Radio JND",
-        "id": "RadioJND.nl",
-        "logo": "https://i.imgur.com/nyVlZeL.png",
-        "url": "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "NL"
-    },
-    {
         "name": "Salto Brasa Music",
         "id": "SaltoBrasaMusic.nl",
         "logo": "https://i.vimeocdn.com/portrait/31947989_640x640",
@@ -591,6 +581,16 @@
             "music"
         ],
         "country": "NL"
+    },
+    {
+        "name": "Melody FM",
+        "id": "MelodyFM.jo",
+        "logo": "https://i.imgur.com/J8omcNz.png",
+        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "JO"
     },
     {
         "name": "Radio Realpolitik",
@@ -1166,16 +1166,6 @@
         "country": "KR"
     },
     {
-        "name": "HEi Now",
-        "id": "HEiNow.py",
-        "logo": "https://i.imgur.com/oMHiGRN.png",
-        "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
-        "categories": [
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Farra Play",
         "id": "FarraPlay.py",
         "logo": "https://i.imgur.com/bXWzstH.png",
@@ -1222,16 +1212,6 @@
         "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
         "categories": [
             "movies",
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Venus Media",
-        "id": "VenusMedia.py",
-        "logo": "https://i.imgur.com/XwmUbfp.png",
-        "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
-        "categories": [
             "music"
         ],
         "country": "PY"
@@ -1338,16 +1318,6 @@
         "country": "BR"
     },
     {
-        "name": "KpopTV Play",
-        "id": "KpopTVPlay.br",
-        "logo": "https://i.imgur.com/Tf0vweF.png",
-        "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Live99FM",
         "id": "Live99FM.bq",
         "logo": "https://i.imgur.com/U43UrQT.png",
@@ -1432,6 +1402,16 @@
         "id": "DeluxeMusic.de",
         "logo": "https://i.imgur.com/HimuPPb.png",
         "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Finest TV",
+        "id": "FinestTV.de",
+        "logo": "https://i.imgur.com/1uoP10V.png",
+        "url": "https://media.finest.tv/hls/live.m3u8",
         "categories": [
             "music"
         ],
@@ -3092,6 +3072,16 @@
         "country": "UZ"
     },
     {
+        "name": "BIZ Music",
+        "id": "BIZMusic.uz",
+        "logo": "https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg",
+        "url": "https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "UZ"
+    },
+    {
         "name": "A2i Music",
         "id": "A2iMusic.sn",
         "logo": "https://i.imgur.com/Fykhzxh.jpg",
@@ -3328,6 +3318,56 @@
         "id": "RadioShanson.ru",
         "logo": "https://i.imgur.com/lbqM3K2.png",
         "url": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden Birma Play",
+        "id": "CityEdenBirmaPlay.ru",
+        "logo": "https://i.imgur.com/38Q5L5W.png",
+        "url": "https://cityeden.catcast.tv/content/34364/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden Classic Music",
+        "id": "CityEdenClassicMusic.ru",
+        "logo": "https://i.imgur.com/l7BE8l6.png",
+        "url": "https://cityeden.catcast.tv/content/47400/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden Meditation Music",
+        "id": "CityEdenMeditationMusic.ru",
+        "logo": "https://i.imgur.com/HPWevWb.png",
+        "url": "https://cityeden.catcast.tv/content/47410/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden Play",
+        "id": "CityEdenPlay.ru",
+        "logo": "https://i.imgur.com/ozEqob9.png",
+        "url": "https://cityeden.catcast.tv/content/34100/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden Sirtaki TV",
+        "id": "CityEdenSirtakiTV.ru",
+        "logo": "https://i.imgur.com/V3MTfyc.png",
+        "url": "https://cityeden.catcast.tv/content/46421/index.m3u8",
         "categories": [
             "music"
         ],
@@ -4126,17 +4166,6 @@
         "country": "CR"
     },
     {
-        "name": "Gex TV",
-        "id": "GexTV.cr",
-        "logo": "https://gextv.com/LOGO-WHITE.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
-        "categories": [
-            "music",
-            "entertainment"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "Urbano TV",
         "id": "UrbanoTV.cr",
         "logo": "https://i.imgur.com/KVVU9PI.png",
@@ -4191,16 +4220,6 @@
         "id": "VintageMusic.cr",
         "logo": "https://i.imgur.com/KImqYnN.jpeg",
         "url": "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CR"
-    },
-    {
-        "name": "VM Latino",
-        "id": "VMLatino.cr",
-        "logo": "https://i.imgur.com/Dvo1b82.png",
-        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -4303,6 +4322,16 @@
         "id": "CCTV15.cn",
         "logo": "https://i.imgur.com/CCV0eRG.png",
         "url": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CN"
+    },
+    {
+        "name": "CCTV-Storm Music",
+        "id": "CCTVStormMusic.cn",
+        "logo": "https://i.imgur.com/IiiRmrf.png",
+        "url": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
         "categories": [
             "music"
         ],
