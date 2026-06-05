@@ -426,16 +426,6 @@
         "country": "UK"
     },
     {
-        "name": "BBC News",
-        "id": "BBCNews.uk",
-        "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f",
-        "categories": [
-            "news"
-        ],
-        "country": "UK"
-    },
-    {
         "name": "FIFA+",
         "id": "FIFAPlus.uk",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg",
@@ -472,17 +462,6 @@
         "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8",
         "categories": [
             "sports"
-        ],
-        "country": "UK"
-    },
-    {
-        "name": "Top Gear",
-        "id": "TopGear.uk",
-        "logo": "https://i.imgur.com/S6Su6QH.png",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/636adc255bcf470007d6e0e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53184ebc-5f69-44c0-bf0c-94707d648913",
-        "categories": [
-            "entertainment",
-            "auto"
         ],
         "country": "UK"
     },
@@ -602,34 +581,6 @@
         "id": "TBNUK.uk",
         "logo": "https://i.imgur.com/vFllwLd.png",
         "url": "https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8",
-        "categories": [],
-        "country": "UK"
-    },
-    {
-        "name": "Teletubbies",
-        "id": "Teletubbies.uk",
-        "logo": "https://i.imgur.com/J9iWjWL.png",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66a10eeb46762a0008201e85/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false",
-        "categories": [
-            "kids"
-        ],
-        "country": "UK"
-    },
-    {
-        "name": "True Crime",
-        "id": "TrueCrime.uk",
-        "logo": "https://i.imgur.com/LK2NFst.png",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6304fb268bd95300072d2198/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=58898504-2d6e-47f9-81a8-37a5851b40bc&serverSideAds=false",
-        "categories": [
-            "series"
-        ],
-        "country": "UK"
-    },
-    {
-        "name": "RugbyPass TV",
-        "id": "RugbyPassTV.uk",
-        "logo": "",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66f137cb483d460008ece053/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d4f92c58-faad-4b78-b8ec-ed4b48a8b450",
         "categories": [],
         "country": "UK"
     },
@@ -962,12 +913,51 @@
         "country": "UK"
     },
     {
-        "name": "Latest TV",
-        "id": "LatestTV.uk",
-        "logo": "https://i.imgur.com/Cl1iGEb.jpeg",
-        "url": "https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8",
+        "name": "BBC News",
+        "id": "BBCNews.uk",
+        "logo": "https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=720x540",
+        "url": "http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8",
         "categories": [
-            "general"
+            "news"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "RugbyPass TV",
+        "id": "RugbyPassTV.uk",
+        "logo": "",
+        "url": "https://dt1kh32hg3tft.cloudfront.net/v1/world_rugby_rugbypasstv_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+        "categories": [],
+        "country": "UK"
+    },
+    {
+        "name": "Teletubbies",
+        "id": "Teletubbies.uk",
+        "logo": "https://i.imgur.com/J9iWjWL.png",
+        "url": "https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "Top Gear",
+        "id": "TopGear.uk",
+        "logo": "https://i.imgur.com/S6Su6QH.png",
+        "url": "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8",
+        "categories": [
+            "entertainment",
+            "auto"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "True Crime",
+        "id": "TrueCrime.uk",
+        "logo": "https://i.imgur.com/LK2NFst.png",
+        "url": "https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8",
+        "categories": [
+            "series"
         ],
         "country": "UK"
     }

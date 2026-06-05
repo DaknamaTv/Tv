@@ -583,14 +583,14 @@
         "country": "NL"
     },
     {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
+        "name": "Radio JND",
+        "id": "RadioJND.nl",
+        "logo": "https://i.imgur.com/nyVlZeL.png",
+        "url": "https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8",
         "categories": [
             "music"
         ],
-        "country": "JO"
+        "country": "NL"
     },
     {
         "name": "Radio Realpolitik",
@@ -1258,6 +1258,26 @@
         "country": "PY"
     },
     {
+        "name": "HEi Now",
+        "id": "HEiNow.py",
+        "logo": "https://i.imgur.com/oMHiGRN.png",
+        "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
+        "categories": [
+            "music"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Venus Media",
+        "id": "VenusMedia.py",
+        "logo": "https://i.imgur.com/XwmUbfp.png",
+        "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PY"
+    },
+    {
         "name": "Look Thoong TV",
         "id": "LookThoongTV.la",
         "logo": "https://i.imgur.com/eT7iE34.png",
@@ -1312,6 +1332,16 @@
         "id": "TikTokRadioBrasil.br",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TikTok_Radio.svg",
         "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529",
+        "categories": [
+            "music"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "KpopTV Play",
+        "id": "KpopTVPlay.br",
+        "logo": "https://i.imgur.com/Tf0vweF.png",
+        "url": "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -1402,16 +1432,6 @@
         "id": "DeluxeMusic.de",
         "logo": "https://i.imgur.com/HimuPPb.png",
         "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Finest TV",
-        "id": "FinestTV.de",
-        "logo": "https://i.imgur.com/1uoP10V.png",
-        "url": "https://media.finest.tv/hls/live.m3u8",
         "categories": [
             "music"
         ],
@@ -1705,6 +1725,27 @@
         "url": "https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Mezzo",
+        "id": "Mezzo.fr",
+        "logo": "https://i.imgur.com/auNdGeW.png",
+        "url": "http://tmptv.sunduk.tv/CH97/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "My Gospel TV",
+        "id": "MyGospelTV.fr",
+        "logo": "https://mygospeltv.fr/wp-content/uploads/2022/05/MY-GODPEL-TV-e1652783900988.png",
+        "url": "https://streamtv.cmediahosthosting.net:3046/live/mygospeltvlive.m3u8",
+        "categories": [
+            "music",
+            "religious"
         ],
         "country": "FR"
     },
@@ -2083,26 +2124,6 @@
         "country": "US"
     },
     {
-        "name": "Classica",
-        "id": "Classica.us",
-        "logo": "https://i.imgur.com/bLjmQTU.png",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280711-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1c3ac7db-5cfe-4d39-aec3-70a684e58c38",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "CMT Equal Play",
-        "id": "CMTEqualPlay.us",
-        "logo": "https://i.imgur.com/9ysjkkL.png",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280712-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bd328c28-b23b-4f85-9b18-9d73786f7109",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "GMTV",
         "id": "GMTV.us",
         "logo": "https://i.imgur.com/GJYb8c8.png",
@@ -2113,160 +2134,10 @@
         "country": "US"
     },
     {
-        "name": "MTV Biggest Pop",
-        "id": "MTVBiggestPop.us",
-        "logo": "https://i.imgur.com/AOaZmlS.png",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "MTV Spankin' New",
-        "id": "MTVSpankinNew.us",
-        "logo": "https://i.imgur.com/thbvJd1.png",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV MTV Latino",
-        "id": "PlutoTVMTVLatino.us",
-        "logo": "https://i.imgur.com/mioQAZS.png",
-        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Stingray Greatest Holiday Hits",
         "id": "StingrayGreatestHolidayHits.us",
         "logo": "https://i.imgur.com/Hz2d6og.png",
         "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/54947915-6504-4548-aaef-eabd451f8607/1.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Vevo 2K",
-        "id": "Vevo2K.us",
-        "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Vevo '70s",
-        "id": "Vevo70s.us",
-        "logo": "https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Vevo '80s",
-        "id": "Vevo80s.us",
-        "logo": "https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc206-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e72e853c-9c99-4dda-b7b5-22baedf34c42",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Vevo '90s",
-        "id": "Vevo90s.us",
-        "logo": "https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc207-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0728470d-6a7e-40da-b12d-986993b83ec1",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Vevo Country",
-        "id": "VevoCountry.us",
-        "logo": "https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc209-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e6e85b0-154a-4a57-b91f-09965c300dbe",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Vevo Pop",
-        "id": "VevoPop.us",
-        "logo": "https://i.imgur.com/dZHktKR.png",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce912-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48fd2d58-c66f-492e-90a6-986e95bbc2e9",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Vevo Retro Rock",
-        "id": "VevoRetroRock.us",
-        "logo": "https://i.imgur.com/H1Aap4E.png",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Yo! MTV",
-        "id": "YoMTV.us",
-        "logo": "https://i.imgur.com/hzNXDdY.png",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV MTV",
-        "id": "PlutoTVMTV.us",
-        "logo": "https://i.imgur.com/lTBim20.png",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/624edee2d6394a0007efcac4/master.m3u8?terminate=false&appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=deviceId&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=sid&serverSideAds=false",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Shows por Stingray",
-        "id": "PlutoTVShowsporStingray.us",
-        "logo": "https://i.imgur.com/TrG7Y84.png",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&sid=69a8ee66-6f3e-4593-b30e-6cb6cedf03f3&serverSideAds=false",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Karaoke por Stingray",
-        "id": "PlutoTVKaraokeporStingray.us",
-        "logo": "https://i.imgur.com/rWpLepJ.png",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604b99d633a72b00078e05ad/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=0714ce50-3b9e-48e7-a974-1cfe07db5a83",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Vevo R&B",
-        "id": "VevoRB.us",
-        "logo": "https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=14fdd29d-18c0-47bc-8c04-3bb67dd6e25c",
         "categories": [
             "music"
         ],
@@ -2455,14 +2326,84 @@
         "country": "US"
     },
     {
-        "name": "Canal Clave",
-        "id": "CanalClave.cu",
-        "logo": "https://i.imgur.com/7tMkA4Z.png",
-        "url": "https://tv.picta.cu/clave/clave_0.m3u8",
+        "name": "Vevo 2K",
+        "id": "Vevo2K.us",
+        "logo": "https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg",
+        "url": "https://d3150hggbcolbo.cloudfront.net/Vevo_2K.m3u8",
         "categories": [
             "music"
         ],
-        "country": "CU"
+        "country": "US"
+    },
+    {
+        "name": "Vevo '70s",
+        "id": "Vevo70s.us",
+        "logo": "https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",
+        "url": "https://d341pfs1smb2ef.cloudfront.net/Vevo_70s.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Vevo '80s",
+        "id": "Vevo80s.us",
+        "logo": "https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg",
+        "url": "https://d3svsvgc81yfe1.cloudfront.net/Vevo_80s.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Vevo '90s",
+        "id": "Vevo90s.us",
+        "logo": "https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg",
+        "url": "https://d29u7uq3k6xqk0.cloudfront.net/Vevo_90s.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Vevo Country",
+        "id": "VevoCountry.us",
+        "logo": "https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg",
+        "url": "https://pb-xrdbj9zdgm6ez.akamaized.net/Vevo_Country.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Vevo Pop",
+        "id": "VevoPop.us",
+        "logo": "https://i.imgur.com/dZHktKR.png",
+        "url": "https://d2n5ee9u100agb.cloudfront.net/Vevo_Pop.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Vevo R&B",
+        "id": "VevoRB.us",
+        "logo": "https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg",
+        "url": "https://d1hf773q57zx9s.cloudfront.net/Vevo_R_B.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Vevo Retro Rock",
+        "id": "VevoRetroRock.us",
+        "logo": "https://i.imgur.com/H1Aap4E.png",
+        "url": "https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "US"
     },
     {
         "name": "Tarab",
@@ -2506,16 +2447,6 @@
             "general"
         ],
         "country": "BO"
-    },
-    {
-        "name": "La Kalle",
-        "id": "LaKalle.co",
-        "logo": "https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",
-        "url": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CO"
     },
     {
         "name": "La Morada Radio TV",
@@ -3041,16 +2972,6 @@
         "country": "PE"
     },
     {
-        "name": "La Fabulosa TV",
-        "id": "LaFabulosaTV.pe",
-        "logo": "https://i.imgur.com/GjME5H0.png",
-        "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "FTV",
         "id": "FTV.uz",
         "logo": "https://i.imgur.com/7lpISyN.jpg",
@@ -3368,6 +3289,16 @@
         "id": "CityEdenSirtakiTV.ru",
         "logo": "https://i.imgur.com/V3MTfyc.png",
         "url": "https://cityeden.catcast.tv/content/46421/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "VIVA Russia",
+        "id": "VIVARussia.ru",
+        "logo": "https://i.imgur.com/OFhQQCD.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
         "categories": [
             "music"
         ],
@@ -3694,16 +3625,6 @@
         "country": "EE"
     },
     {
-        "name": "Vantage Music",
-        "id": "VantageMusic.ee",
-        "logo": "https://vantagetv.ee/vantage_music.png",
-        "url": "https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "EE"
-    },
-    {
         "name": "Vantage Rock",
         "id": "VantageRock.ee",
         "logo": "https://vantagetv.ee/vantage_rock.png",
@@ -3764,10 +3685,10 @@
         "country": "EE"
     },
     {
-        "name": "Vantage Dance",
-        "id": "VantageDance.ee",
-        "logo": "https://vantagetv.ee/vantage_dance.png",
-        "url": "https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8",
+        "name": "Vantage Music",
+        "id": "VantageMusic.ee",
+        "logo": "https://vantagetv.ee/vantage_music.png",
+        "url": "https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8",
         "categories": [
             "music"
         ],
@@ -3914,17 +3835,6 @@
         "country": "IN"
     },
     {
-        "name": "Shemaroo Filmi Gaane",
-        "id": "ShemarooFilmiGaane.in",
-        "logo": "https://i.imgur.com/2yOij1b.png",
-        "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
-        "categories": [
-            "music",
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Vijay Takkar",
         "id": "VijayTakkar.in",
         "logo": "https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540",
@@ -3939,16 +3849,6 @@
         "id": "AaryaaTV.in",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png",
         "url": "https://stream.ottlive.co.in/aryatvtamil/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Kalika TV",
-        "id": "KalikaTV.in",
-        "logo": "https://i.imgur.com/XWXFoJA.png",
-        "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
         "categories": [
             "music"
         ],
@@ -4226,6 +4126,16 @@
         "country": "CR"
     },
     {
+        "name": "VM Latino",
+        "id": "VMLatino.cr",
+        "logo": "https://i.imgur.com/Dvo1b82.png",
+        "url": "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CR"
+    },
+    {
         "name": "Music Information Channel",
         "id": "MusicInformationChannel.id",
         "logo": "https://i.imgur.com/OUPGCWG.png",
@@ -4336,26 +4246,6 @@
             "music"
         ],
         "country": "CN"
-    },
-    {
-        "name": "CMT Equal Play",
-        "id": "cmtequalplay",
-        "logo": "https://i.imgur.com/9ysjkkL.png",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=7387ced6-9860-42df-ba25-a1e69ff2a476",
-        "categories": [
-            "music"
-        ],
-        "country": ""
-    },
-    {
-        "name": "MTV Biggest Pop",
-        "id": "mtvbiggestpop",
-        "logo": "https://i.imgur.com/AOaZmlS.png",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=bbb6a277-ff47-4b08-8da4-009aa0b73046",
-        "categories": [
-            "music"
-        ],
-        "country": ""
     },
     {
         "name": "Now 70s (720p)",
