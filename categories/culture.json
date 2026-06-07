@@ -265,13 +265,14 @@
         "country": "BR"
     },
     {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "name": "TV UFOP",
+        "id": "TVUFOP.br",
+        "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
+        "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
         "categories": [
-            "culture",
-            "education"
+            "public",
+            "education",
+            "culture"
         ],
         "country": "BR"
     },
@@ -369,6 +370,16 @@
             "culture"
         ],
         "country": "FR"
+    },
+    {
+        "name": "JOS TV HD",
+        "id": "JOSTVHD.cg",
+        "logo": "https://i.imgur.com/Ai9kpuu.jpeg",
+        "url": "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CG"
     },
     {
         "name": "Hamaika Telebista",
@@ -548,6 +559,29 @@
         "country": "BO"
     },
     {
+        "name": "Ondambiental TV",
+        "id": "OndambientalTV.co",
+        "logo": "https://i.imgur.com/u5804Au.jpg",
+        "url": "https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8",
+        "categories": [
+            "music",
+            "culture"
+        ],
+        "country": "CO"
+    },
+    {
+        "name": "Manas TV",
+        "id": "ManasTV.kg",
+        "logo": "https://i.ibb.co/2Kvcj5Q/manas.jpg",
+        "url": "http://212.42.111.152:8080/hls/manas.m3u8",
+        "categories": [
+            "education",
+            "culture",
+            "entertainment"
+        ],
+        "country": "KG"
+    },
+    {
         "name": "MRTV NRC",
         "id": "MRTVNRC.mm",
         "logo": "https://i.imgur.com/5aLFslk.jpg",
@@ -694,17 +728,6 @@
         "country": "MX"
     },
     {
-        "name": "Capital 21",
-        "id": "Capital21.mx",
-        "logo": "https://i.imgur.com/8ign49i.png",
-        "url": "https://video.cdmx.gob.mx/redes/stream.m3u8",
-        "categories": [
-            "culture",
-            "entertainment"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "AsiriTV",
         "id": "AsiriTV.pe",
         "logo": "https://i.imgur.com/7bGVFBa.png",
@@ -723,6 +746,29 @@
             "culture"
         ],
         "country": "PE"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "2STV",
+        "id": "2STV.sn",
+        "logo": "https://i.imgur.com/WByVBZf.png",
+        "url": "http://69.64.57.208/2stv/playlist.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "SN"
     },
     {
         "name": "Russia-K",
