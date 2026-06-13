@@ -509,10 +509,21 @@
         "country": "PY"
     },
     {
-        "name": "Oasis TV",
-        "id": "OasisTV.py",
-        "logo": "https://i.imgur.com/u9umNKp.jpeg",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "name": "GO TV",
+        "id": "GOTV.py",
+        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+        "categories": [
+            "entertainment",
+            "music"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "MiTV",
+        "id": "MiTV.py",
+        "logo": "https://i.imgur.com/sgrEt9z.png",
+        "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -627,6 +638,16 @@
             "entertainment"
         ],
         "country": "FI"
+    },
+    {
+        "name": "Ritmu TV",
+        "id": "RitmuTV.kw",
+        "logo": "https://play-lh.googleusercontent.com/aO-2614npPjbJny21ljgGDRqfixPUG39uLfXwG-xX6fd2y5sxjp_SR6ty92d9l08yt10",
+        "url": "https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "KW"
     },
     {
         "name": "NHK World Premium",
@@ -1048,26 +1069,6 @@
         "country": "DO"
     },
     {
-        "name": "TV Canal Sur",
-        "id": "TVCanalSur.do",
-        "logo": "https://www.lyngsat.com/logo/tv/tt/tv-canal-sur-do.png",
-        "url": "https://streamtvs.tvcanalsur.com.do/hls/stream/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "JARABACOA TV",
-        "id": "JARABACOATV.do",
-        "logo": "https://imgur.com/m9WCrlw.jpg",
-        "url": "https://streaming.jarabacoatv.com/Jarabacoa_tv/playlist.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Vision NDV",
         "id": "VisionNDV.do",
         "logo": "https://i.imgur.com/4gj5NMa.png",
@@ -1202,16 +1203,6 @@
         "id": "NitidaTV.do",
         "logo": "https://i.imgur.com/z9JkxcM.png",
         "url": "https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "Pronems TV",
-        "id": "PronemsTV.do",
-        "logo": "https://i.imgur.com/a9ORO1G.png",
-        "url": "https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2252,6 +2243,17 @@
         "country": "MX"
     },
     {
+        "name": "Capital 21",
+        "id": "Capital21.mx",
+        "logo": "https://i.imgur.com/8ign49i.png",
+        "url": "https://video.cdmx.gob.mx/redes/stream.m3u8",
+        "categories": [
+            "culture",
+            "entertainment"
+        ],
+        "country": "MX"
+    },
+    {
         "name": "Pet Club TV",
         "id": "PetClubTV.hk",
         "logo": "https://i.imgur.com/ykPNNwQ.png",
@@ -2418,6 +2420,16 @@
         "country": "BR"
     },
     {
+        "name": "Belarus-2",
+        "id": "Belarus2.by",
+        "logo": "https://i.imgur.com/BpEHpPS.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "BY"
+    },
+    {
         "name": "KCM",
         "id": "KCM.sg",
         "logo": "https://img1.wsimg.com/isteam/ip/31e9f2fb-aa91-4437-b7ce-f34ad0f7e457/blob-c09ea31.png",
@@ -2494,6 +2506,26 @@
         "country": "CL"
     },
     {
+        "name": "13E",
+        "id": "13E.cl",
+        "logo": "https://i.imgur.com/utI1tJV.png",
+        "url": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "13 Realities",
+        "id": "13Realities.cl",
+        "logo": "https://i.imgur.com/m0SuwMU.png",
+        "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "CL"
+    },
+    {
         "name": "Dong Nai TV 2",
         "id": "DongNaiTV2.vn",
         "logo": "https://i.imgur.com/tNKPSkO.png",
@@ -2525,23 +2557,20 @@
         "country": "VN"
     },
     {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "Fortune TV",
         "id": "FortuneTV.mm",
         "logo": "https://i.imgur.com/MM5evnD.png",
         "url": "http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "MM"
+    },
+    {
+        "name": "MRTV Entertainment",
+        "id": "MRTVEntertainment.mm",
+        "logo": "https://i.imgur.com/c9q6oT0.png",
+        "url": "https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8",
         "categories": [
             "entertainment"
         ],
@@ -2938,6 +2967,36 @@
         "country": "IN"
     },
     {
+        "name": "Enterr 10 Bangla",
+        "id": "Enterr10Bangla.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143018_ld_h15_aa.png?lock=720x540",
+        "url": "https://mumt02.tangotv.in/ENTERR10BANGLA/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Siri Kannada",
+        "id": "SiriKannada.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143790_ld_h9_aa.png?lock=720x540",
+        "url": "https://mumt02.tangotv.in/SIRIKANNADAALLTIME/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Thanthi One",
+        "id": "ThanthiOne.in",
+        "logo": "https://dtil.tmsimg.com/assets/s158791_ld_h15_aa.png?lock=720x540",
+        "url": "https://mumt02.tangotv.in/THANTHIONE/index.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "NDTV LANKA",
         "id": "NDTVLANKA.lk",
         "logo": "https://i.imgur.com/5cyTVRJ.png",
@@ -2998,11 +3057,12 @@
         "country": "NL"
     },
     {
-        "name": "SBS6 Classics",
-        "id": "SBS6Classics.nl",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
-        "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
+        "name": "BEATTV",
+        "id": "BEATTV.nl",
+        "logo": "https://i.imgur.com/egK33Dj.png",
+        "url": "https://tv.beatfm.nl/live.m3u8",
         "categories": [
+            "music",
             "entertainment"
         ],
         "country": "NL"
