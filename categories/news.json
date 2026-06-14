@@ -394,16 +394,6 @@
         "country": "GR"
     },
     {
-        "name": "Start TV",
-        "id": "StartTV.gr",
-        "logo": "https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg",
-        "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "GR"
-    },
-    {
         "name": "Astra TV",
         "id": "AstraTV.gr",
         "logo": "https://i.imgur.com/oYRPfZm.png",
@@ -630,6 +620,16 @@
         "id": "ANC.ph",
         "logo": "https://i.imgur.com/odwRbRk.png",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd",
+        "categories": [
+            "news"
+        ],
+        "country": "PH"
+    },
+    {
+        "name": "GTV",
+        "id": "GTV.ph",
+        "logo": "https://i.imgur.com/rWhamwh.png",
+        "url": "http://pro.reott8k.xyz/play/live.php?extension=m3u8&mac=00:1A:79:7B:BB:36&stream=1548700",
         "categories": [
             "news"
         ],
@@ -1450,6 +1450,16 @@
         "country": "PE"
     },
     {
+        "name": "RCR",
+        "id": "RCR.pe",
+        "logo": "https://i.imgur.com/A8TRPrF.png",
+        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
         "name": "Al-Manar",
         "id": "AlManar.lb",
         "logo": "https://i.imgur.com/sOQLV7L.png",
@@ -2078,20 +2088,30 @@
         "country": "US"
     },
     {
-        "name": "CBS News Sacramento",
-        "id": "CBSNewsSacramento.us",
-        "logo": "https://i.imgur.com/0e1kSGX.png",
-        "url": "https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8",
+        "name": "Free Speech TV",
+        "id": "FreeSpeechTV.us",
+        "logo": "https://i.imgur.com/Qq6heRq.png",
+        "url": "https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8",
         "categories": [
             "news"
         ],
         "country": "US"
     },
     {
-        "name": "Free Speech TV",
-        "id": "FreeSpeechTV.us",
-        "logo": "https://i.imgur.com/Qq6heRq.png",
-        "url": "https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8",
+        "name": "America's Voice News",
+        "id": "AmericasVoiceNews.us",
+        "logo": "https://i.imgur.com/C4w0eYC.png",
+        "url": "https://jmp2.uk/plu-5e1f7da4bc7d740009831259.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CBS News Minnesota",
+        "id": "CBSNewsMinnesota.us",
+        "logo": "https://i.imgur.com/ubxwfMY.png",
+        "url": "https://jmp2.uk/plu-5eb1b0bf2240d8000732a09c.m3u8",
         "categories": [
             "news"
         ],
@@ -2461,6 +2481,16 @@
         "country": "FR"
     },
     {
+        "name": "Euronews Spanish",
+        "id": "EuronewsSpanish.fr",
+        "logo": "https://a.jsrdn.com/hls/22886/euronews-spa/extras/1080_logo.png",
+        "url": "https://jmp2.uk/plu-619d59b7cbef25000728221c.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "FR"
+    },
+    {
         "name": "AMX Noticias",
         "id": "AMXNoticias.mx",
         "logo": "https://i.imgur.com/snIU1UA.jpg",
@@ -2738,16 +2768,6 @@
         "country": "BR"
     },
     {
-        "name": "TV Sim Colatina",
-        "id": "TVSimColatina.br",
-        "logo": "https://i.imgur.com/t5oUK3C.png",
-        "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Sim Cachoeiro",
         "id": "TVSimCachoeiro.br",
         "logo": "https://i.imgur.com/t5oUK3C.png",
@@ -2911,10 +2931,55 @@
         "country": "VN"
     },
     {
+        "name": "HTV9",
+        "id": "HTV9.vn",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp",
+        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
         "name": "DVB TV",
         "id": "DVBTV.mm",
         "logo": "https://i.imgur.com/VdezHOv.png",
         "url": "https://live-stream.dvb.no/hls/stream_src/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "MM"
+    },
+    {
+        "name": "MRTV News",
+        "id": "MRTVNews.mm",
+        "logo": "https://i.imgur.com/5eK8Bc4.png",
+        "url": "https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8",
         "categories": [
             "news"
         ],
@@ -4417,16 +4482,6 @@
         "country": "IN"
     },
     {
-        "name": "HNN 24x7",
-        "id": "HNN24x7.in",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVaHnXsaEt_m9s71ZRgHMPUckFZ8cW87J-AsQh0Q6pA&s",
-        "url": "https://mumt02.tangotv.in/HNN24X7/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "ZillarBarta News",
         "id": "ZillarBartaNews.in",
         "logo": "https://i.imgur.com/6uestzY.jpeg",
@@ -4434,16 +4489,6 @@
         "categories": [
             "news",
             "classic"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Ind 24",
-        "id": "Ind24.in",
-        "logo": "https://i.imgur.com/exRpVmL.png",
-        "url": "https://mumt02.tangotv.in/IND24/index.m3u8",
-        "categories": [
-            "news"
         ],
         "country": "IN"
     },
@@ -4488,50 +4533,10 @@
         "country": "QA"
     },
     {
-        "name": "ATN News",
-        "id": "ATNNews.bd",
-        "logo": "https://i.imgur.com/4qZQKjo.png",
-        "url": "https://bozztv.com/rongo/rongo-ATNNews/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BD"
-    },
-    {
         "name": "Channel 24",
         "id": "Channel24.bd",
         "logo": "https://i.imgur.com/4JLkaF7.png",
         "url": "https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BD"
-    },
-    {
-        "name": "Desh TV",
-        "id": "DeshTV.bd",
-        "logo": "https://i.imgur.com/ItrZok1.png",
-        "url": "https://bozztv.com/rongo/rongo-DeshTV/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BD"
-    },
-    {
-        "name": "Independent TV",
-        "id": "IndependentTV.bd",
-        "logo": "https://i.imgur.com/POXFhGN.png",
-        "url": "https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BD"
-    },
-    {
-        "name": "Jamuna TV",
-        "id": "JamunaTV.bd",
-        "logo": "https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png",
-        "url": "https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8",
         "categories": [
             "news"
         ],
@@ -5242,6 +5247,16 @@
         "id": "PayamTV.iq",
         "logo": "https://i.imgur.com/qySEibb.png",
         "url": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Al Iraqia News",
+        "id": "AlIraqiaNews.iq",
+        "logo": "https://i.imgur.com/feQTXeZ.jpg",
+        "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
         "categories": [
             "news"
         ],
