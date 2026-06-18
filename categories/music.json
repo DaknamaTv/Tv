@@ -200,16 +200,6 @@
         "country": "GR"
     },
     {
-        "name": "Ellinikos FM",
-        "id": "EllinikosFM.gr",
-        "logo": "https://i.ibb.co/y0ydCNB/unnamed-4.png",
-        "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "GR"
-    },
-    {
         "name": "Best of Dance TV",
         "id": "BestofDanceTV.ee",
         "logo": "",
@@ -304,6 +294,16 @@
         "id": "VantageRock.ee",
         "logo": "https://vantagetv.ee/vantage_rock.png",
         "url": "https://hls.vantagetv.ee/vrock_stream/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "EE"
+    },
+    {
+        "name": "Vantage Classic",
+        "id": "VantageClassic.ee",
+        "logo": "https://vantagetv.ee/vantage_classic.png",
+        "url": "https://cdn-backup.lulzy.eu/vclassic_stream/index.m3u8",
         "categories": [
             "music"
         ],
@@ -1210,14 +1210,14 @@
         "country": "VE"
     },
     {
-        "name": "BOKTV",
-        "id": "BOKTV.za",
-        "logo": "https://i.imgur.com/mcNjuuO.png",
-        "url": "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8",
+        "name": "KandelaTV",
+        "id": "KandelaTV.ve",
+        "logo": "https://i.imgur.com/cCFxyIp.jpg",
+        "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
         "categories": [
             "music"
         ],
-        "country": "ZA"
+        "country": "VE"
     },
     {
         "name": "Muz Soyuz",
@@ -1503,10 +1503,10 @@
         "country": "RU"
     },
     {
-        "name": "VIVA Russia",
-        "id": "VIVARussia.ru",
-        "logo": "https://i.imgur.com/OFhQQCD.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
+        "name": "Shanson TV",
+        "id": "ShansonTV.ru",
+        "logo": "https://i.imgur.com/Fk4sd8t.png",
+        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -1547,16 +1547,6 @@
         "id": "SiembraTV.do",
         "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg",
         "url": "https://streamunoapp.com:3809/live/siembratvlive.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
-        "name": "La Voz del Tropico",
-        "id": "LaVozdelTropico.do",
-        "logo": "https://i.imgur.com/DKDFpHt.png",
-        "url": "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -1697,36 +1687,6 @@
         "id": "AghaniAghaniTV.lb",
         "logo": "https://i.imgur.com/o6HSfNg.png",
         "url": "https://cdn.streamlane.tv/hls/aghanitv/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "LB"
-    },
-    {
-        "name": "mfm",
-        "id": "mfm.lb",
-        "logo": "https://www.mtv.com.lb/images/header/mfm-logo.svg",
-        "url": "https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "LB"
-    },
-    {
-        "name": "OneFM",
-        "id": "OneFM.lb",
-        "logo": "https://i.ibb.co/Vp2G9wTz/onefmlb.png",
-        "url": "https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "LB"
-    },
-    {
-        "name": "One TV",
-        "id": "OneTV.lb",
-        "logo": "https://i.imgur.com/O4DuR9G.png",
-        "url": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -1889,16 +1849,6 @@
         "id": "30AMusic.us",
         "logo": "https://i.imgur.com/gNWg9tl.png",
         "url": "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Metaleitor TV",
-        "id": "MetaleitorTV.us",
-        "logo": "https://new.opencaster.com/uploads/logos/logo_14_1752798826.png",
-        "url": "https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8",
         "categories": [
             "music"
         ],
@@ -2107,10 +2057,10 @@
         "country": "US"
     },
     {
-        "name": "Classica",
-        "id": "Classica.us",
-        "logo": "https://i.imgur.com/bLjmQTU.png",
-        "url": "https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8",
+        "name": "MTV Live",
+        "id": "MTVLive.us",
+        "logo": "https://i.imgur.com/3UByLqb.png",
+        "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
         "categories": [
             "music"
         ],
@@ -2350,16 +2300,6 @@
         "country": "ID"
     },
     {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "JO"
-    },
-    {
         "name": "Star 101 FM",
         "id": "Star101FM.gu",
         "logo": "https://star101.gu/images/fb_icon.jpg",
@@ -2512,16 +2452,6 @@
         "country": "TN"
     },
     {
-        "name": "Jawhara TV",
-        "id": "JawharaTV.tn",
-        "logo": "https://i.imgur.com/mRSQ5bP.png",
-        "url": "https://streaming.toutech.net/live/jtv/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "TN"
-    },
-    {
         "name": "LRT Opus",
         "id": "LRTOpus.lt",
         "logo": "https://i.imgur.com/oLuZTMH.png",
@@ -2580,6 +2510,16 @@
             "music"
         ],
         "country": "NG"
+    },
+    {
+        "name": "Live99FM",
+        "id": "Live99FM.bq",
+        "logo": "https://i.imgur.com/U43UrQT.png",
+        "url": "https://media.streambrothers.com:1936/8014/8014/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BQ"
     },
     {
         "name": "TikTok Radio Brasil",
@@ -2784,17 +2724,54 @@
         "country": "CL"
     },
     {
-        "name": "Tra Vinh TV",
-        "id": "TraVinhTV.vn",
-        "logo": "https://i.imgur.com/F12VdKO.png",
-        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "name": "Maqui TV",
+        "id": "MaquiTV.cl",
+        "logo": "https://i.imgur.com/U849xvX.png",
+        "url": "https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8",
         "categories": [
-            "culture",
-            "entertainment",
-            "music",
-            "news"
+            "music"
         ],
-        "country": "VN"
+        "country": "CL"
+    },
+    {
+        "name": "Portalfoxmix",
+        "id": "Portalfoxmix.cl",
+        "logo": "https://i.imgur.com/ZEBOeGe.png",
+        "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Ritoque TV",
+        "id": "RitoqueTV.cl",
+        "logo": "https://i.imgur.com/nTVJcFA.png",
+        "url": "https://streaming.purum.cl/ritoquetv/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Ruidos FM",
+        "id": "RuidosFM.cl",
+        "logo": "https://i.imgur.com/avIcT83.png",
+        "url": "https://tv1.ruidosfm.cl/ruidostv/stream.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Sensacion Costa",
+        "id": "SensacionCosta.cl",
+        "logo": "https://i.imgur.com/oYQoWAB.png",
+        "url": "https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CL"
     },
     {
         "name": "9X Jhakaas",
@@ -3107,26 +3084,6 @@
             "music"
         ],
         "country": "IN"
-    },
-    {
-        "name": "RC Music",
-        "id": "RCMusic.in",
-        "logo": "https://rctv.in/logo_s.png",
-        "url": "https://view.rcserver.in/tmp_hls2/stream/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "ATN Music",
-        "id": "ATNMusic.bd",
-        "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BD"
     },
     {
         "name": "XITE Rock x Metal",
@@ -3921,16 +3878,6 @@
         "country": "EC"
     },
     {
-        "name": "La Perla Radio TV",
-        "id": "LaPerlaRadioTV.ec",
-        "logo": "https://i.imgur.com/8wDMgmB.jpg",
-        "url": "https://eu1.servers10.com:8081/8068/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "EC"
-    },
-    {
         "name": "Radio Hit FM TV",
         "id": "RadioHitFMTV.rs",
         "logo": "https://i.imgur.com/gP2OT4S.png",
@@ -4059,6 +4006,16 @@
             "music"
         ],
         "country": "TR"
+    },
+    {
+        "name": "Flex Studio Radio TV",
+        "id": "FlexStudioRadioTV.bz",
+        "logo": "https://i.imgur.com/tZjqtxd.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "BZ"
     },
     {
         "name": "VoiceOver Radio TV",
@@ -4332,10 +4289,10 @@
         "country": "CO"
     },
     {
-        "name": "Memorias FM Pop Latino",
-        "id": "MemoriasFMPopLatino.co",
-        "logo": "https://imgs1.e-droid.net/srv/imgs/seccs/34751581_ico.png",
-        "url": "https://video.xtrematv.com:3891/live/memoriaspoplatinolive.m3u8",
+        "name": "Memorias TV Tropical",
+        "id": "MemoriasTVTropical.co",
+        "logo": "https://i.imgur.com/Y9GFDcV.png",
+        "url": "https://video.xtrematv.com:3361/live/memoriastropicallive.m3u8",
         "categories": [
             "music"
         ],
