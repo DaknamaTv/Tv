@@ -784,16 +784,6 @@
         "country": "US"
     },
     {
-        "name": "Nickelodeon",
-        "id": "Nickelodeon.us",
-        "logo": "https://i.imgur.com/E84jnP8.png",
-        "url": "http://79.127.207.193/Nickelodeon/playlist.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Aghapy Kids",
         "id": "AghapyKids.us",
         "logo": "https://i.imgur.com/8ariztD.png",
@@ -838,6 +828,16 @@
         "id": "StarzKidsFamily.us",
         "logo": "https://i.imgur.com/eE9FzEP.png",
         "url": "http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Little Stars Universe",
+        "id": "LittleStarsUniverse.us",
+        "logo": "https://i.imgur.com/RasrA0s.png",
+        "url": "https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8",
         "categories": [
             "kids"
         ],
@@ -939,6 +939,16 @@
         "id": "DisneyJunior.pl",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
         "url": "http://81.15.109.89:8001/play/DisneyJunior",
+        "categories": [
+            "kids"
+        ],
+        "country": "PL"
+    },
+    {
+        "name": "TeenNick",
+        "id": "TeenNick.pl",
+        "logo": "https://i.imgur.com/KZq73CE.png",
+        "url": "http://91.146.94.234:10001/play/a08o",
         "categories": [
             "kids"
         ],
@@ -1089,31 +1099,10 @@
         "country": "BR"
     },
     {
-        "name": "Slime",
-        "id": "Slime.br",
-        "logo": "https://x1co.com.br/slimelogo.png",
-        "url": "https://slime.x1co.com.br/hls/stream.m3u8",
-        "categories": [
-            "animation",
-            "kids"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "ZooMoo",
         "id": "ZooMoo.sg",
         "logo": "https://i.imgur.com/ciTJrnl.png",
         "url": "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "SG"
-    },
-    {
-        "name": "Nickelodeon Asia",
-        "id": "NickelodeonAsia.sg",
-        "logo": "https://i.imgur.com/E84jnP8.png",
-        "url": "http://202.169.224.202:8800/udp/239.9.1.17:1234",
         "categories": [
             "kids"
         ],
@@ -1148,6 +1137,27 @@
             "kids"
         ],
         "country": "SK"
+    },
+    {
+        "name": "Disney Channel",
+        "id": "DisneyChannel.nl",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+        "url": "http://86.87.15.10:8004/play/a02g/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "NL"
+    },
+    {
+        "name": "Veronica / Disney Jr.",
+        "id": "VeronicaDisneyJr.nl",
+        "logo": "https://i.imgur.com/5L5TcYz.png",
+        "url": "http://86.87.15.10:8003/play/a01x/index.m3u8",
+        "categories": [
+            "entertainment",
+            "kids"
+        ],
+        "country": "NL"
     },
     {
         "name": "ADO TV",
@@ -1278,6 +1288,16 @@
         "id": "MinikaGo.tr",
         "logo": "https://i.imgur.com/qIoipDq.png",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "TR"
+    },
+    {
+        "name": "TRT Cocuk",
+        "id": "TRTCocuk.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
         "categories": [
             "kids"
         ],
