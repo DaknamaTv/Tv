@@ -190,6 +190,16 @@
         "country": "BO"
     },
     {
+        "name": "Tigo Sports",
+        "id": "TigoSports.bo",
+        "logo": "https://i.imgur.com/6wkmgGM.png",
+        "url": "https://master.tucableip.com/Amistoso/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BO"
+    },
+    {
         "name": "Premier Sports",
         "id": "PremierSports.ph",
         "logo": "https://i.imgur.com/BURPHzI.png",
@@ -358,16 +368,6 @@
             "sports"
         ],
         "country": "PY"
-    },
-    {
-        "name": "Tele Rebelde",
-        "id": "TeleRebelde.cu",
-        "logo": "https://i.imgur.com/M6wZzuz.png",
-        "url": "https://tv.picta.cu/telerebelde/telerebelde_1.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "CU"
     },
     {
         "name": "FUEL TV",
@@ -1192,6 +1192,59 @@
         "country": "US"
     },
     {
+        "name": "ESPNU",
+        "id": "ESPNU.us",
+        "logo": "https://i.imgur.com/HiBrysh.png",
+        "url": "http://23.237.104.106:8080/USA_ESPNU/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "MSG",
+        "id": "MSG.us",
+        "logo": "https://i.imgur.com/SEQFh0P.png",
+        "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Competition",
+        "id": "PlutoTVCompetition.us",
+        "logo": "https://images.pluto.tv/channels/603fde9026ecbf0007752c2c/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Esportes",
+        "id": "PlutoTVEsportes.us",
+        "logo": "",
+        "url": "https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "USA Network",
+        "id": "USANetwork.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+        "url": "http://185.246.209.113/DISCOVERYHD/index.m3u8",
+        "categories": [
+            "movies",
+            "series",
+            "sports",
+            "comedy"
+        ],
+        "country": "US"
+    },
+    {
         "name": "QazSport",
         "id": "QazSport.kz",
         "logo": "https://i.imgur.com/UDJ0P5Q.png",
@@ -1485,26 +1538,6 @@
         "country": "VN"
     },
     {
-        "name": "VTV6",
-        "id": "VTV6.vn",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",
-        "url": "https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "VN"
-    },
-    {
-        "name": "HTV Sports",
-        "id": "HTVSports.vn",
-        "logo": "https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png",
-        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "VN"
-    },
-    {
         "name": "DD Sports",
         "id": "DDSports.in",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png",
@@ -1533,6 +1566,26 @@
             "sports"
         ],
         "country": "IN"
+    },
+    {
+        "name": "Arena Sport 1",
+        "id": "ArenaSport1.sk",
+        "logo": "https://i.imgur.com/2qf67zW.png",
+        "url": "http://88.212.15.19/live/test_arenasport/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
+    },
+    {
+        "name": "Arena Sport 2",
+        "id": "ArenaSport2.sk",
+        "logo": "https://i.imgur.com/Yq3Jf19.png",
+        "url": "http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "SK"
     },
     {
         "name": "Talent TV",
@@ -2107,6 +2160,46 @@
             "sports"
         ],
         "country": "BG"
+    },
+    {
+        "name": "Max Sport 1",
+        "id": "MaxSport1.bg",
+        "logo": "https://i.imgur.com/0ohnpql.png",
+        "url": "http://77.46.130.252:99/maxsport1",
+        "categories": [
+            "sports"
+        ],
+        "country": "BG"
+    },
+    {
+        "name": "Max Sport 2",
+        "id": "MaxSport2.bg",
+        "logo": "https://i.imgur.com/33m1wPN.png",
+        "url": "http://77.46.130.252:99/maxsport2",
+        "categories": [
+            "sports"
+        ],
+        "country": "BG"
+    },
+    {
+        "name": "Max Sport 3",
+        "id": "MaxSport3.bg",
+        "logo": "https://i.imgur.com/eGiGgZ2.png",
+        "url": "http://77.46.130.252:99/maxsport3",
+        "categories": [
+            "sports"
+        ],
+        "country": "BG"
+    },
+    {
+        "name": "Win Sports",
+        "id": "WinSports.co",
+        "logo": "https://i.imgur.com/DuSSrHV.png",
+        "url": "http://138.121.15.230:9002/WIN-SPORT/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "CO"
     },
     {
         "name": "Realitatea Sportiva",

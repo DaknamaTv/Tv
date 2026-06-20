@@ -71,17 +71,6 @@
         "country": "CN"
     },
     {
-        "name": "ETV 2",
-        "id": "ETV2.ee",
-        "logo": "https://i.imgur.com/fUjGHDa.png",
-        "url": "https://sb.err.ee/live/etv2.m3u8",
-        "categories": [
-            "kids",
-            "culture"
-        ],
-        "country": "EE"
-    },
-    {
         "name": "Sat 7 Kids",
         "id": "Sat7Kids.cy",
         "logo": "https://i.imgur.com/M0ik0i2.png",
@@ -242,6 +231,40 @@
         "id": "Teletubbies.uk",
         "logo": "https://i.imgur.com/J9iWjWL.png",
         "url": "https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "BBC Four/CBeebies",
+        "id": "BBCFourCBeebies.uk",
+        "logo": "https://i.imgur.com/aH0PCPy.png",
+        "url": "http://193.46.58.239:8080/CbeebiesHD/index.m3u8",
+        "categories": [
+            "kids",
+            "general",
+            "animation"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "BBC Three/CBBC",
+        "id": "BBCThreeCBBC.uk",
+        "logo": "https://i.imgur.com/CGXC5fp.png",
+        "url": "http://193.46.58.239:8080/CBBCHD/index.m3u8",
+        "categories": [
+            "family",
+            "kids",
+            "animation"
+        ],
+        "country": "UK"
+    },
+    {
+        "name": "JimJam Europe",
+        "id": "JimJamEurope.uk",
+        "logo": "https://i.imgur.com/ODhkYyx.png",
+        "url": "http://158.160.149.81:8080/269/index.m3u8",
         "categories": [
             "kids"
         ],
@@ -824,57 +847,6 @@
         "country": "US"
     },
     {
-        "name": "Forever Kids",
-        "id": "ForeverKids.us",
-        "logo": "https://i.imgur.com/deeQqYZ.png",
-        "url": "https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Garfield and Friends",
-        "id": "GarfieldandFriends.us",
-        "logo": "https://i.imgur.com/evzfe9C.png",
-        "url": "https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "LEGO Kids TV",
-        "id": "LEGOKidsTV.us",
-        "logo": "https://i.imgur.com/tMfEsVr.png",
-        "url": "https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Nickelodeon Pluto TV",
-        "id": "NickelodeonPlutoTV.us",
-        "logo": "https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8",
-        "categories": [
-            "animation",
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Nick en Espanol",
-        "id": "NickenEspanol.us",
-        "logo": "https://i.imgur.com/G1J4IsT.png",
-        "url": "https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8",
-        "categories": [
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Junior",
         "id": "PlutoTVJunior.us",
         "logo": "https://i.imgur.com/7sApMZS.png",
@@ -885,10 +857,50 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Kids Club",
-        "id": "PlutoTVKidsClub.us",
-        "logo": "https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8",
+        "name": "Kids Street",
+        "id": "KidsStreet.us",
+        "logo": "https://i.imgur.com/gUwRl6Q.png",
+        "url": "http://181.78.121.15:8000/play/a00a/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Nickelodeon",
+        "id": "Nickelodeon.us",
+        "logo": "https://i.imgur.com/E84jnP8.png",
+        "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Nick Jr.",
+        "id": "NickJr.us",
+        "logo": "https://i.imgur.com/KT4tdQs.png",
+        "url": "http://84.17.50.102/nickjr/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Nicktoons",
+        "id": "Nicktoons.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/960px-Nicktoons_Network_logo_2009.svg.png",
+        "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Rugrats",
+        "id": "Rugrats.us",
+        "logo": "https://i.imgur.com/l5XmvM1.png",
+        "url": "https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8",
         "categories": [
             "kids"
         ],
@@ -1180,6 +1192,16 @@
         "country": "CL"
     },
     {
+        "name": "Nick HD+",
+        "id": "NickHDPlus.in",
+        "logo": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
+        "url": "http://116.90.120.157:8000/play/a0i3/index.m3u8",
+        "categories": [
+            "kids"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "ducktv",
         "id": "ducktv.sk",
         "logo": "https://i.imgur.com/gRFQ35W.png",
@@ -1237,6 +1259,17 @@
         "id": "DisneyJrLatinAmerica.ar",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
         "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+        "categories": [
+            "animation",
+            "kids"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Disney Channel Latin America",
+        "id": "DisneyChannelLatinAmerica.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+        "url": "http://190.11.225.124:5000/live/disney_hd/playlist.m3u8",
         "categories": [
             "animation",
             "kids"
@@ -1355,14 +1388,14 @@
         "country": "TR"
     },
     {
-        "name": "Afarin Baxcha",
-        "id": "AfarinBaxcha.iq",
-        "logo": "https://afarin.tv/images/baxcha.png",
-        "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+        "name": "TRT Cocuk",
+        "id": "TRTCocuk.tr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",
+        "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
         "categories": [
             "kids"
         ],
-        "country": "IQ"
+        "country": "TR"
     },
     {
         "name": "Afarin TV",
@@ -1384,6 +1417,26 @@
             "kids"
         ],
         "country": "CR"
+    },
+    {
+        "name": "Disney Channel",
+        "id": "DisneyChannel.bg",
+        "logo": "https://i.imgur.com/UxrAiAe.png",
+        "url": "http://213.91.179.28:8000/play/a059",
+        "categories": [
+            "kids"
+        ],
+        "country": "BG"
+    },
+    {
+        "name": "Nickelodeon",
+        "id": "Nickelodeon.bg",
+        "logo": "https://i.imgur.com/E84jnP8.png",
+        "url": "http://213.91.179.28:8000/play/a056",
+        "categories": [
+            "kids"
+        ],
+        "country": "BG"
     },
     {
         "name": "Koogi TV",
