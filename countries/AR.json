@@ -114,16 +114,6 @@
         "country": "AR"
     },
     {
-        "name": "NET TV",
-        "id": "NETTV.ar",
-        "logo": "https://i.imgur.com/IhJ0BjF.png",
-        "url": "https://unlimited6-cl.dps.live/nettv/nettv.smil/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Canal 4 Jujuy",
         "id": "Canal4Jujuy.ar",
         "logo": "https://i.imgur.com/qB6I274.png",
@@ -332,16 +322,6 @@
         "logo": "https://i.imgur.com/bd2afET.png",
         "url": "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8",
         "categories": [],
-        "country": "AR"
-    },
-    {
-        "name": "Beats Radio",
-        "id": "BeatsRadio.ar",
-        "logo": "https://i.imgur.com/zkNUO5p.png",
-        "url": "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8",
-        "categories": [
-            "music"
-        ],
         "country": "AR"
     },
     {
@@ -617,16 +597,6 @@
         "country": "AR"
     },
     {
-        "name": "Aire de Santa Fe",
-        "id": "AiredeSantaFe.ar",
-        "logo": "https://i.imgur.com/60vSWW0.png",
-        "url": "https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "ABTV Bariloche",
         "id": "ABTVBariloche.ar",
         "logo": "https://i.imgur.com/l4TSfDr.png",
@@ -870,16 +840,6 @@
         "country": "AR"
     },
     {
-        "name": "TV Publica Marcos Paz",
-        "id": "TVPublicaMarcosPaz.ar",
-        "logo": "https://i.imgur.com/CRmY4Oi.png",
-        "url": "https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "AR"
-    },
-    {
         "name": "Villa Mantero TV",
         "id": "VillaManteroTV.ar",
         "logo": "https://i.imgur.com/mmEenTm.png",
@@ -961,14 +921,6 @@
         "id": "Telecreativa.ar",
         "logo": "https://i.imgur.com/PjlAB6x.jpg",
         "url": "https://panel.host-live.com:19360/8012/8012.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
-        "name": "VTV",
-        "id": "VTV.ar",
-        "logo": "https://i.imgur.com/TLaausJ.png",
-        "url": "https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8",
         "categories": [],
         "country": "AR"
     },
@@ -1086,22 +1038,6 @@
         "country": "AR"
     },
     {
-        "name": "Radio TV Neuquen",
-        "id": "RadioTVNeuquen.ar",
-        "logo": "https://i.imgur.com/HXBLozl.png",
-        "url": "https://media.neuquen.gov.ar/rtn/television/playlist.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
-        "name": "RTN",
-        "id": "RTN.ar",
-        "logo": "https://i.imgur.com/8xqYg4C.png",
-        "url": "https://media.neuquen.gov.ar/rtn/television/media.m3u8",
-        "categories": [],
-        "country": "AR"
-    },
-    {
         "name": "Chaco TV",
         "id": "ChacoTV.ar",
         "logo": "https://i.imgur.com/b6RerDw.png",
@@ -1126,6 +1062,55 @@
         "url": "https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8",
         "categories": [
             "culture"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Catamarca TV",
+        "id": "CatamarcaTV.ar",
+        "logo": "https://i.imgur.com/CEuPoqG.png",
+        "url": "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=",
+        "categories": [
+            "culture",
+            "news"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "El Nueve",
+        "id": "ElNueve.ar",
+        "logo": "https://i.imgur.com/cJHP7bU.png",
+        "url": "http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "La Nacion +",
+        "id": "LaNacionPlus.ar",
+        "logo": "https://i.imgur.com/Gj1kqH5.png",
+        "url": "http://playcom.trapemn.tv:1935/transcoderip/lanacionplus.stream/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Telefe",
+        "id": "Telefe.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png",
+        "url": "http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8",
+        "categories": [],
+        "country": "AR"
+    },
+    {
+        "name": "TN",
+        "id": "TN.ar",
+        "logo": "https://i.imgur.com/vFwPhPS.png",
+        "url": "http://playcom.trapemn.tv:1935/transcoderip/tn.stream/playlist.m3u8",
+        "categories": [
+            "news"
         ],
         "country": "AR"
     }
