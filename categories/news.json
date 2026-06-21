@@ -90,16 +90,6 @@
         "country": "UA"
     },
     {
-        "name": "Kapaz TV",
-        "id": "KapazTV.az",
-        "logo": "https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/500px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png",
-        "url": "http://85.132.78.122:8050/hls/stream/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "AZ"
-    },
-    {
         "name": "Baku.TV",
         "id": "BakuTV.az",
         "logo": "https://i.imgur.com/r4FzxSg.png",
@@ -404,20 +394,20 @@
         "country": "GR"
     },
     {
-        "name": "Start TV",
-        "id": "StartTV.gr",
-        "logo": "https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg",
-        "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "GR"
-    },
-    {
         "name": "Burkina Info TV",
         "id": "BurkinaInfoTV.bf",
         "logo": "https://i.imgur.com/a9v5CbU.png",
         "url": "http://69.64.57.208/burkinainfo/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BF"
+    },
+    {
+        "name": "Filinfo TV",
+        "id": "FilinfoTV.bf",
+        "logo": "https://i.imgur.com/KG93Tvn.png",
+        "url": "https://d2iqjnqfr8pv3b.cloudfront.net/out/v1/d09d2fc718404cd8bccd3eba2444dd70/index.m3u8",
         "categories": [
             "news"
         ],
@@ -624,6 +614,16 @@
         "country": "BO"
     },
     {
+        "name": "Erbol",
+        "id": "Erbol.bo",
+        "logo": "https://i.imgur.com/hn1KI7t.png",
+        "url": "https://twitch-m3u8.bastypro112.workers.dev/erboldigital/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BO"
+    },
+    {
         "name": "Abante TV",
         "id": "AbanteTV.ph",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg",
@@ -638,6 +638,16 @@
         "id": "ANC.ph",
         "logo": "https://i.imgur.com/odwRbRk.png",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd",
+        "categories": [
+            "news"
+        ],
+        "country": "PH"
+    },
+    {
+        "name": "GTV",
+        "id": "GTV.ph",
+        "logo": "https://i.imgur.com/rWhamwh.png",
+        "url": "http://pro.reott8k.xyz/play/live.php?extension=m3u8&mac=00:1A:79:7B:BB:36&stream=1548700",
         "categories": [
             "news"
         ],
@@ -1196,16 +1206,6 @@
         "country": "RU"
     },
     {
-        "name": "Crimea 24",
-        "id": "Crimea24.ru",
-        "logo": "https://i.imgur.com/k4C0uvp.png",
-        "url": "https://streaming.televizor-24-tochka.ru/live/28.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "Millet",
         "id": "Millet.ru",
         "logo": "https://i.imgur.com/hUjLRLy.png",
@@ -1462,6 +1462,16 @@
         "id": "PBO.pe",
         "logo": "https://i.imgur.com/vBpxX4S.png",
         "url": "https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "RCR",
+        "id": "RCR.pe",
+        "logo": "https://i.imgur.com/A8TRPrF.png",
+        "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -2448,16 +2458,6 @@
         "country": "HN"
     },
     {
-        "name": "Maya TV",
-        "id": "MayaTV.hn",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png",
-        "url": "https://media.streambrothers.com:19360/8036/8036.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "HN"
-    },
-    {
         "name": "Radio Isla TV",
         "id": "RadioIslaTV.pr",
         "logo": "https://i.ibb.co/PDThYr5/Logo-Radio-Isla.png",
@@ -2494,18 +2494,6 @@
         "url": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Lingkar TV",
-        "id": "LingkarTV.id",
-        "logo": "https://lingkartv.com/assets/img/logo-square.png",
-        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
-        "categories": [
-            "news",
-            "music",
-            "religious"
         ],
         "country": "ID"
     },
@@ -2668,6 +2656,16 @@
         "url": "https://srspsn.live/live/livestream.m3u8",
         "categories": [
             "entertainment",
+            "news"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "ADN 40",
+        "id": "ADN40.mx",
+        "logo": "https://i.imgur.com/Og17U9N.png",
+        "url": "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8",
+        "categories": [
             "news"
         ],
         "country": "MX"
@@ -2972,6 +2970,16 @@
         "country": "BR"
     },
     {
+        "name": "TCM 10 HD",
+        "id": "TCM10HD.br",
+        "logo": "https://i.imgur.com/aMuMVvB.png",
+        "url": "https://live.tcm10.com.br/tcm10hd/stream.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "BR"
+    },
+    {
         "name": "Perviy Informationniy",
         "id": "PerviyInformationniy.by",
         "logo": "https://i.imgur.com/eIiXRAI.png",
@@ -3096,6 +3104,41 @@
         "id": "DongNaiTV1.vn",
         "logo": "https://i.imgur.com/oQyioVa.png",
         "url": "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "HTV9",
+        "id": "HTV9.vn",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/HTV9_logo.webp",
+        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "news",
+            "general"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Tra Vinh TV",
+        "id": "TraVinhTV.vn",
+        "logo": "https://i.imgur.com/F12VdKO.png",
+        "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
+        "categories": [
+            "culture",
+            "entertainment",
+            "music",
+            "news"
+        ],
+        "country": "VN"
+    },
+    {
+        "name": "Vinh Long TV 1",
+        "id": "VinhLongTV1.vn",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8",
         "categories": [
             "news",
             "general"
@@ -4619,20 +4662,20 @@
         "country": "IN"
     },
     {
-        "name": "K News India",
-        "id": "KNewsIndia.in",
-        "logo": "https://i.imgur.com/LeBL7ML.png",
-        "url": "https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8",
+        "name": "Star Bharat",
+        "id": "StarBharat.in",
+        "logo": "https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png?lock=720x540",
+        "url": "http://103.253.18.58:8000/play/a00u",
         "categories": [
             "news"
         ],
         "country": "IN"
     },
     {
-        "name": "Star Bharat",
-        "id": "StarBharat.in",
-        "logo": "https://dtil.tmsimg.com/assets/s159101_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.253.18.58:8000/play/a00u",
+        "name": "Prime News",
+        "id": "PrimeNews.in",
+        "logo": "https://i.imgur.com/RQoDzpN.png",
+        "url": "https://mumt02.tangotv.in/PRIMENEWS/index.m3u8",
         "categories": [
             "news"
         ],
@@ -5068,6 +5111,16 @@
         "country": "CD"
     },
     {
+        "name": "Baraka Television",
+        "id": "BarakaTelevision.cd",
+        "logo": "https://i.imgur.com/IKXddHN.png",
+        "url": "https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "CD"
+    },
+    {
         "name": "Radio Ancon",
         "id": "RadioAncon.pa",
         "logo": "https://i.imgur.com/xum8PNe.jpg",
@@ -5359,6 +5412,16 @@
         "country": "TR"
     },
     {
+        "name": "Can TV",
+        "id": "CanTV.tr",
+        "logo": "https://i.imgur.com/oIMtuwB.png",
+        "url": "https://livetv.canbroadcast.com:7443/canlican/tv.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "Kurdsat News",
         "id": "KurdsatNews.iq",
         "logo": "https://i.imgur.com/F3XRwkt.png",
@@ -5423,6 +5486,16 @@
         "id": "PayamTV.iq",
         "logo": "https://i.imgur.com/qySEibb.png",
         "url": "https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IQ"
+    },
+    {
+        "name": "Al Iraqia News",
+        "id": "AlIraqiaNews.iq",
+        "logo": "https://i.imgur.com/feQTXeZ.jpg",
+        "url": "https://imn-live.esite-lab.com/hls/iraqia-news.m3u8",
         "categories": [
             "news"
         ],
@@ -5916,6 +5989,26 @@
         "id": "payvandtv720pnot247",
         "logo": "https://i.imgur.com/A4gqEmG.png",
         "url": "https://bozztv.com/cus01/ucur1/Payvand/index.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": ""
+    },
+    {
+        "name": "America's Voice News",
+        "id": "americasvoicenews",
+        "logo": "https://i.imgur.com/C4w0eYC.png",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=7a4cee7a-706c-4569-97bd-1a52116b9868",
+        "categories": [
+            "news"
+        ],
+        "country": ""
+    },
+    {
+        "name": "Blaze Live",
+        "id": "blazelive",
+        "logo": "https://i.imgur.com/GwxneSQ.png",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ad4935a7-782c-43c0-b77c-c50e14727f50",
         "categories": [
             "news"
         ],
