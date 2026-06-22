@@ -355,10 +355,30 @@
         "country": "PT"
     },
     {
+        "name": "AXN Movies",
+        "id": "AXNMovies.pt",
+        "logo": "https://i.imgur.com/tJQckal.png",
+        "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "PT"
+    },
+    {
         "name": "Viasat Film",
         "id": "ViasatFilm.hu",
         "logo": "https://i.imgur.com/5CoP6ex.png",
         "url": "http://46.149.191.217:9009/play/a028",
+        "categories": [
+            "movies"
+        ],
+        "country": "HU"
+    },
+    {
+        "name": "Film Mania",
+        "id": "FilmMania.hu",
+        "logo": "https://i.imgur.com/crhsomk.png",
+        "url": "https://dokagents.site/live/filmmania/mono.m3u8",
         "categories": [
             "movies"
         ],
@@ -435,16 +455,6 @@
             "family",
             "classic",
             "animation"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "Kino TV",
-        "id": "KinoTV.ru",
-        "logo": "https://i.imgur.com/sMpamNO.png",
-        "url": "https://vod.tuva.ru/kinotv/index.m3u8",
-        "categories": [
-            "movies"
         ],
         "country": "RU"
     },
@@ -745,20 +755,100 @@
         "country": "RU"
     },
     {
-        "name": "Cinema",
-        "id": "Cinema.ru",
-        "logo": "https://i.imgur.com/b5e9qUA.png",
-        "url": "https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8",
+        "name": "Mosfilm Gold Collection",
+        "id": "MosfilmGoldCollection.ru",
+        "logo": "https://i.imgur.com/95Y8jb6.png",
+        "url": "http://31.222.235.15/mosfilm/index.m3u8",
         "categories": [
             "movies"
         ],
         "country": "RU"
     },
     {
-        "name": "Mosfilm Gold Collection",
-        "id": "MosfilmGoldCollection.ru",
-        "logo": "https://i.imgur.com/95Y8jb6.png",
-        "url": "http://31.222.235.15/mosfilm/index.m3u8",
+        "name": "City Eden KinoAction",
+        "id": "CityEdenKinoAction.ru",
+        "logo": "https://i.imgur.com/uuzuvD0.png",
+        "url": "https://cityeden.catcast.tv/content/41333/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden KinoArt",
+        "id": "CityEdenKinoArt.ru",
+        "logo": "https://i.imgur.com/67CWCtz.png",
+        "url": "https://cityeden.catcast.tv/content/38398/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden KinoAsia",
+        "id": "CityEdenKinoAsia.ru",
+        "logo": "https://i.imgur.com/gaket4B.png",
+        "url": "https://cityeden.catcast.tv/content/34393/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden KinoDrama",
+        "id": "CityEdenKinoDrama.ru",
+        "logo": "https://i.imgur.com/29ddffh.png",
+        "url": "https://cityeden.catcast.tv/content/45269/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden KinoFantastika",
+        "id": "CityEdenKinoFantastika.ru",
+        "logo": "https://i.imgur.com/I64FeIO.png",
+        "url": "https://cityeden.catcast.tv/content/45268/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden KinoKlassika",
+        "id": "CityEdenKinoKlassika.ru",
+        "logo": "https://i.imgur.com/0qGCS1S.png",
+        "url": "https://cityeden.catcast.tv/content/34185/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden KinoKomediya",
+        "id": "CityEdenKinoKomediya.ru",
+        "logo": "https://i.imgur.com/Aga2XVA.png",
+        "url": "https://cityeden.catcast.tv/content/41331/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "City Eden KinoMistika",
+        "id": "CityEdenKinoMistika.ru",
+        "logo": "https://i.imgur.com/s1Pid0K.png",
+        "url": "https://cityeden.catcast.tv/content/40783/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Kino TV",
+        "id": "KinoTV.ru",
+        "logo": "https://i.imgur.com/sMpamNO.png",
+        "url": "http://31.148.48.15/Kino_TV/index.m3u8",
         "categories": [
             "movies"
         ],
@@ -1193,30 +1283,50 @@
         "country": "US"
     },
     {
-        "name": "Cine Adrenalina",
-        "id": "CineAdrenalina.us",
-        "logo": "https://i.imgur.com/njCKaMv.png",
-        "url": "https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8",
+        "name": "80s Rewind",
+        "id": "80sRewind.us",
+        "logo": "https://i.imgur.com/nkEeYfI.png",
+        "url": "https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8",
         "categories": [
             "movies"
         ],
         "country": "US"
     },
     {
-        "name": "Pluto TV Spotlight",
-        "id": "PlutoTVSpotlight.us",
-        "logo": "https://i.imgur.com/UmuJkVB.png",
-        "url": "https://jmp2.uk/plu-5ba3fb9c4b078e0f37ad34e8.m3u8",
+        "name": "AXN Adria",
+        "id": "AXNAdria.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+        "url": "http://5.57.74.130:8000/play/a0at/index.m3u8",
         "categories": [
             "movies"
         ],
         "country": "US"
     },
     {
-        "name": "Pluto TV Staff Picks",
-        "id": "PlutoTVStaffPicks.us",
-        "logo": "https://i.imgur.com/JzwO8IO.png",
-        "url": "https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8",
+        "name": "Pluto TV Cine Accion",
+        "id": "PlutoTVCineAccion.us",
+        "logo": "https://i.imgur.com/PXhCzXn.png",
+        "url": "https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Runtime",
+        "id": "Runtime.us",
+        "logo": "https://i.imgur.com/2USCMvP.png",
+        "url": "https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Sony Movies Latin America",
+        "id": "SonyMoviesLatinAmerica.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
+        "url": "https://cdn-5.nxplay.com.br/SONY_MOVIES/index.m3u8",
         "categories": [
             "movies"
         ],
@@ -1335,16 +1445,6 @@
         "country": "FR"
     },
     {
-        "name": "Action",
-        "id": "Action.fr",
-        "logo": "https://i.imgur.com/Zv9VsVq.png",
-        "url": "http://rezofoot.tv/Action/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "FR"
-    },
-    {
         "name": "Filmex",
         "id": "Filmex.mx",
         "logo": "https://i.imgur.com/Hiz2OyC.png",
@@ -1452,6 +1552,17 @@
         "categories": [
             "movies",
             "entertainment"
+        ],
+        "country": "SG"
+    },
+    {
+        "name": "AXN Asia",
+        "id": "AXNAsia.sg",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",
+        "url": "http://54.37.19.157/axn/playlist.m3u8",
+        "categories": [
+            "movies",
+            "series"
         ],
         "country": "SG"
     },
@@ -1858,6 +1969,47 @@
         "country": "IN"
     },
     {
+        "name": "ZB Cinema",
+        "id": "ZBCinema.in",
+        "logo": "https://i.imgur.com/kUg6WSk.jpeg",
+        "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+        "categories": [
+            "classic",
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Zee Action",
+        "id": "ZeeAction.in",
+        "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
+        "url": "http://103.175.73.12:8080/live/270/master.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Star Channel",
+        "id": "StarChannel.si",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+        "url": "http://92.36.202.5:10001/play/a01s",
+        "categories": [
+            "movies"
+        ],
+        "country": "SI"
+    },
+    {
+        "name": "Star Movies",
+        "id": "StarMovies.si",
+        "logo": "https://i.imgur.com/JcoAgDF.png",
+        "url": "http://92.36.202.5:10001/play/a01o",
+        "categories": [
+            "movies"
+        ],
+        "country": "SI"
+    },
+    {
         "name": "Movie Bangla",
         "id": "MovieBangla.bd",
         "logo": "https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681",
@@ -2009,6 +2161,26 @@
         "id": "GrjngoWesternMovies.de",
         "logo": "https://i.imgur.com/wFqhK3p.png",
         "url": "https://amogonetworx-grjngo-3-se.samsung.wurl.tv/playlist.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Paramount Network de Pluto TV",
+        "id": "ParamountNetworkdePlutoTV.de",
+        "logo": "https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png",
+        "url": "https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Psycho",
+        "id": "PlutoTVPsycho.de",
+        "logo": "https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-65ce480a78df2200131c597b.m3u8",
         "categories": [
             "movies"
         ],
@@ -2171,6 +2343,36 @@
         "id": "TV1000.ro",
         "logo": "https://i.imgur.com/GHNsctR.png",
         "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6944/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "CineMaraton",
+        "id": "CineMaraton.ro",
+        "logo": "https://i.imgur.com/BY8UZa0.png",
+        "url": "https://dokagents.site/live/cinemaraton/mono.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Film Now",
+        "id": "FilmNow.ro",
+        "logo": "https://i.imgur.com/sSoRvGz.png",
+        "url": "https://dokagents.site/live/filmnow/mono.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "RO"
+    },
+    {
+        "name": "Pro Cinema",
+        "id": "ProCinema.ro",
+        "logo": "https://i.imgur.com/TvHFGwZ.png",
+        "url": "https://dokagents.site/live/procinema/mono.m3u8",
         "categories": [
             "movies"
         ],
