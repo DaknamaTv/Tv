@@ -32,6 +32,17 @@
         "country": "UA"
     },
     {
+        "name": "Bolt",
+        "id": "Bolt.ua",
+        "logo": "https://i.imgur.com/YdIHXOR.png",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/BoltUA.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "UA"
+    },
+    {
         "name": "TVE Star",
         "id": "TVEStar.es",
         "logo": "https://i.ibb.co/j98NY8Mr/starcolor.png",
@@ -56,6 +67,16 @@
         "id": "XPTVUS.es",
         "logo": "https://i.imgur.com/1m7kDmc.png",
         "url": "https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Atreseries",
+        "id": "Atreseries.es",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/960px-Atreseries_2020_logo.svg.png",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/A3Series.m3u8",
         "categories": [
             "series"
         ],
@@ -121,6 +142,16 @@
             "series"
         ],
         "country": "UK"
+    },
+    {
+        "name": "TVI Ficcao",
+        "id": "TVIFiccao.pt",
+        "logo": "https://cdn.iol.pt/img/logostvi/branco/tvificcao.png",
+        "url": "https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "PT"
     },
     {
         "name": "A2",
@@ -204,6 +235,27 @@
             "series"
         ],
         "country": "RU"
+    },
+    {
+        "name": "Bolt",
+        "id": "Bolt.ru",
+        "logo": "https://i.imgur.com/YdIHXOR.png",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/BoltRussia.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Latina Clasicos",
+        "id": "LatinaClasicos.pe",
+        "logo": "https://i.imgur.com/q0dAWyj.png",
+        "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "PE"
     },
     {
         "name": "Duck Dynasty",
@@ -680,17 +732,6 @@
         "country": "US"
     },
     {
-        "name": "Paramount Network",
-        "id": "ParamountNetwork.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
-        "url": "http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8",
-        "categories": [
-            "series",
-            "movies"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Star Channel Latin America",
         "id": "StarChannelLatinAmerica.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
@@ -803,32 +844,11 @@
         "country": "US"
     },
     {
-        "name": "Jersey Shore",
-        "id": "JerseyShore.us",
-        "logo": "https://i.imgur.com/SssCaj1.png",
-        "url": "https://jmp2.uk/plu-609bfa51fbecc1000733152e.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Telemundo Telenovelas Clasicas",
         "id": "TelemundoTelenovelasClasicas.us",
         "logo": "https://i.imgur.com/9bPcYIN.png",
         "url": "https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8",
         "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Horror",
-        "id": "PlutoTVHorror.us",
-        "logo": "https://i.imgur.com/k6qttca.png",
-        "url": "https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8",
-        "categories": [
-            "movies",
             "series"
         ],
         "country": "US"
@@ -845,27 +865,6 @@
         "country": "US"
     },
     {
-        "name": "50 Cent Action",
-        "id": "50CentAction.us",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png",
-        "url": "https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8",
-        "categories": [
-            "movies",
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Acapulco Shore",
-        "id": "AcapulcoShore.us",
-        "logo": "https://i.imgur.com/D2jgGOi.png",
-        "url": "https://jmp2.uk/plu-64dab1f835425100080e1e7b.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Alerte a Malibu",
         "id": "AlerteaMalibu.us",
         "logo": "https://i.imgur.com/hBiB6uk.png",
@@ -876,60 +875,10 @@
         "country": "US"
     },
     {
-        "name": "Andromeda",
-        "id": "Andromeda.us",
-        "logo": "https://i.imgur.com/6ot2lmd.png",
-        "url": "https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Black Ink Crew",
-        "id": "BlackInkCrew.us",
-        "logo": "https://i.imgur.com/QnuIVB6.png",
-        "url": "https://jmp2.uk/plu-5d51e2bceca5b4b2c0e06c50.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "CSI",
-        "id": "CSI.us",
-        "logo": "https://i.imgur.com/xLLNEfA.png",
-        "url": "https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "El Comisario",
-        "id": "ElComisario.us",
-        "logo": "https://i.imgur.com/XYt8utn.png",
-        "url": "https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "El encantador de perros",
         "id": "Elencantadordeperros.us",
         "logo": "https://i.imgur.com/hYqjQ1n.png",
         "url": "https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Family Ties",
-        "id": "FamilyTies.us",
-        "logo": "https://i.imgur.com/WJEkKCb.png",
-        "url": "https://jmp2.uk/plu-5f77939a630f530007dde654.m3u8",
         "categories": [
             "series"
         ],
@@ -956,16 +905,6 @@
         "country": "US"
     },
     {
-        "name": "Happy Days",
-        "id": "HappyDays.us",
-        "logo": "https://i.imgur.com/LPjoORg.png",
-        "url": "https://jmp2.uk/plu-5f7794162a4559000781fc12.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Highway to Heaven",
         "id": "HighwaytoHeaven.us",
         "logo": "https://i.imgur.com/e6pvibn.png",
@@ -986,40 +925,10 @@
         "country": "US"
     },
     {
-        "name": "iCarly",
-        "id": "iCarly.us",
-        "logo": "https://i.imgur.com/R6jWcqz.png",
-        "url": "https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Investiga",
-        "id": "Investiga.us",
-        "logo": "https://i.imgur.com/Sb5adD7.png",
-        "url": "https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Judge Nosey",
         "id": "JudgeNosey.us",
         "logo": "https://i.imgur.com/S4r98AB.png",
         "url": "https://jmp2.uk/plu-5e9decb953e157000752321c.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Kenan & Kel",
-        "id": "KenanKel.us",
-        "logo": "https://i.imgur.com/h9dpcgN.png",
-        "url": "https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8",
         "categories": [
             "series"
         ],
@@ -1066,57 +975,6 @@
         "country": "US"
     },
     {
-        "name": "MTV Are you the One?",
-        "id": "MTVAreyoutheOne.us",
-        "logo": "https://i.imgur.com/kMB42wV.png",
-        "url": "https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "MTV Com o Ex",
-        "id": "MTVComoEx.us",
-        "logo": "https://i.imgur.com/sWqnNPm.png",
-        "url": "https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "MTV Originals",
-        "id": "MTVOriginals.us",
-        "logo": "https://i.imgur.com/qWf8Zku.png",
-        "url": "https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Nashville",
-        "id": "Nashville.us",
-        "logo": "https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV 80's Action",
-        "id": "PlutoTV80sAction.us",
-        "logo": "https://images.pluto.tv/channels/66d717c6abec540008ba7eb5/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-66d717c6abec540008ba7eb5.m3u8",
-        "categories": [
-            "movies",
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Aventura",
         "id": "PlutoTVAventura.us",
         "logo": "https://i.imgur.com/ae5cMo9.png",
@@ -1157,40 +1015,10 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Lives",
-        "id": "PlutoTVLives.us",
-        "logo": "https://i.imgur.com/laupYwG.png",
-        "url": "https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Military",
-        "id": "PlutoTVMilitary.us",
-        "logo": "https://i.imgur.com/O8VXZB4.png",
-        "url": "https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Minuto Para Ganar",
         "id": "PlutoTVMinutoParaGanar.us",
         "logo": "https://i.imgur.com/go5o1gB.png",
         "url": "https://jmp2.uk/plu-5e46e64dc73db400094b5f0b.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Novelas",
-        "id": "PlutoTVNovelas.us",
-        "logo": "https://i.imgur.com/R44LypS.png",
-        "url": "https://jmp2.uk/plu-5cf96c0222df39f1a338d163.m3u8",
         "categories": [
             "series"
         ],
@@ -1207,17 +1035,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Romance",
-        "id": "PlutoTVRomance.us",
-        "logo": "https://i.imgur.com/GJBxfyf.png",
-        "url": "https://jmp2.uk/plu-5a66795ef91fef2c7031c599.m3u8",
-        "categories": [
-            "movies",
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Sci-Fi",
         "id": "PlutoTVSciFi.us",
         "logo": "https://i.imgur.com/vSzd5m7.png",
@@ -1229,111 +1046,10 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Series Acao",
-        "id": "PlutoTVSeriesAcao.us",
-        "logo": "https://images.pluto.tv/channels/6474ab1da51cb80008bfb5f4/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6474ab1da51cb80008bfb5f4.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Series Comedia",
-        "id": "PlutoTVSeriesComedia.us",
-        "logo": "https://i.imgur.com/INcTSkj.png",
-        "url": "https://jmp2.uk/plu-655e5bc94261ca000810cb17.m3u8",
-        "categories": [
-            "series",
-            "comedy"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Series Criminais",
-        "id": "PlutoTVSeriesCriminais.us",
-        "logo": "https://images.pluto.tv/channels/6474ab5cdc7a760008745008/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Series Drama",
-        "id": "PlutoTVSeriesDrama.us",
-        "logo": "https://images.pluto.tv/channels/65f060d84e01740008d7421f/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Series Sci-Fi",
-        "id": "PlutoTVSeriesSciFi.us",
-        "logo": "https://images.pluto.tv/channels/63d2ba2f60bc8f0008981a0e/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Pluto TV Wipeout",
-        "id": "PlutoTVWipeout.us",
-        "logo": "https://i.imgur.com/KVTNBFr.png",
-        "url": "https://jmp2.uk/plu-604f8125c6669b00077f7699.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "The Addams Family",
         "id": "TheAddamsFamily.us",
         "logo": "https://i.imgur.com/Bl8X7EW.png",
         "url": "https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "The Amazing Race",
-        "id": "TheAmazingRace.us",
-        "logo": "https://i.imgur.com/5yzPhRo.png",
-        "url": "https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "The Challenge",
-        "id": "TheChallenge.us",
-        "logo": "https://i.imgur.com/MIXPSvC.png",
-        "url": "https://jmp2.uk/plu-5d48685da7e9f476aa8a1888.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "The Good Wife",
-        "id": "TheGoodWife.us",
-        "logo": "https://images.pluto.tv/channels/66df70cd61dbf00008fa26ff/colorLogoSVG.svg",
-        "url": "https://jmp2.uk/plu-685a995b460ac82fa504342c.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "The New Detectives",
-        "id": "TheNewDetectives.us",
-        "logo": "https://i.imgur.com/GLXg9ge.png",
-        "url": "https://jmp2.uk/plu-5aea40b35126c2157123aa64.m3u8",
         "categories": [
             "series"
         ],
@@ -1383,36 +1099,6 @@
         "country": "US"
     },
     {
-        "name": "Weeds & Nurse Jackie",
-        "id": "WeedsNurseJackie.us",
-        "logo": "https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png",
-        "url": "https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Wild 'N Out",
-        "id": "WildNOut.us",
-        "logo": "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/08182020/Wild%20N%20Out_190x190.png?raw=true",
-        "url": "https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "MTV Teen Mom",
-        "id": "MTVTeenMom.us",
-        "logo": "https://i.imgur.com/6EzdThG.png",
-        "url": "https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Star Trek",
         "id": "StarTrek.us",
         "logo": "https://i.imgur.com/8cvXYiT.png",
@@ -1423,10 +1109,30 @@
         "country": "US"
     },
     {
-        "name": "The Judge Judy Channel",
-        "id": "TheJudgeJudyChannel.us",
-        "logo": "https://i.imgur.com/RhD7gIW.png",
-        "url": "https://jmp2.uk/plu-6283d51144ad8f0007fa382d.m3u8",
+        "name": "5 Cops",
+        "id": "5Cops.us",
+        "logo": "https://i.imgur.com/QFPRaXK.png",
+        "url": "https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Cheers",
+        "id": "Cheers.us",
+        "logo": "https://i.imgur.com/xIlF92v.png",
+        "url": "https://jmp2.uk/plu-63e389dcc111bc0008ee5b8c.m3u8",
+        "categories": [
+            "series"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Walker Texas Ranger",
+        "id": "WalkerTexasRanger.us",
+        "logo": "https://i.imgur.com/0N7EhuD.png",
+        "url": "https://jmp2.uk/plu-62a0b114a1c8650007e93688.m3u8",
         "categories": [
             "series"
         ],
@@ -1451,6 +1157,17 @@
             "series"
         ],
         "country": "MX"
+    },
+    {
+        "name": "Pluto TV Sci-Fi",
+        "id": "PlutoTVSciFi.se",
+        "logo": "https://images.pluto.tv/channels/61f9598588f86000078ee7d6/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8",
+        "categories": [
+            "movies",
+            "series"
+        ],
+        "country": "SE"
     },
     {
         "name": "AWTV",
@@ -1608,16 +1325,6 @@
         "country": "DE"
     },
     {
-        "name": "Pluto TV Drama",
-        "id": "PlutoTVDrama.de",
-        "logo": "https://images.pluto.tv/channels/5ddf91149880d60009d35d27/colorLogoPNG_1764596004853.png",
-        "url": "https://jmp2.uk/plu-5ddf91149880d60009d35d27.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "Pluto TV Horror",
         "id": "PlutoTVHorror.de",
         "logo": "https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png",
@@ -1660,34 +1367,13 @@
         "country": "DE"
     },
     {
-        "name": "Pluto TV Series",
-        "id": "PlutoTVSeries.de",
-        "logo": "https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8",
-        "categories": [
-            "series"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Sitcoms",
-        "id": "PlutoTVSitcoms.de",
-        "logo": "https://i.imgur.com/YzrUL8P.png",
-        "url": "https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8",
+        "name": "Pluto TV True Crime",
+        "id": "PlutoTVTrueCrime.de",
+        "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8",
         "categories": [
             "series",
-            "comedy"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Pluto TV Star Trek",
-        "id": "PlutoTVStarTrek.de",
-        "logo": "https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8",
-        "categories": [
-            "movies",
-            "series"
+            "documentary"
         ],
         "country": "DE"
     },
