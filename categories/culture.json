@@ -349,6 +349,26 @@
         "country": "PE"
     },
     {
+        "name": "Cultura 24",
+        "id": "Cultura24.pe",
+        "logo": "https://i.imgur.com/h0LxXsx.png",
+        "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Diaspora TV",
+        "id": "DiasporaTV.pe",
+        "logo": "https://i.imgur.com/lppmyxD.png",
+        "url": "https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "PE"
+    },
+    {
         "name": "EBS",
         "id": "EBS.us",
         "logo": "https://i.imgur.com/zqbK2IB.png",
@@ -567,14 +587,16 @@
         "country": "MX"
     },
     {
-        "name": "Nigbati",
-        "id": "Nigbati.ng",
-        "logo": "https://www.lyngsat.com/logo/tv/nn/nigbati-ng.png",
-        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8",
+        "name": "GikTVMX",
+        "id": "GikTVMX.mx",
+        "logo": "https://i.imgur.com/Gwz78jZ.png",
+        "url": "https://pistream.ddns.net/hls/stream.m3u8",
         "categories": [
-            "culture"
+            "culture",
+            "animation",
+            "entertainment"
         ],
-        "country": "NG"
+        "country": "MX"
     },
     {
         "name": "Superscreen TV",
@@ -1078,10 +1100,32 @@
         "country": "TR"
     },
     {
+        "name": "Sercem TV",
+        "id": "SercemTV.tr",
+        "logo": "https://sercemtv.com.tr/sercemlogo.jpg",
+        "url": "https://canli.sercemtv.com.tr/hls/0/stream.m3u8",
+        "categories": [
+            "religious",
+            "culture",
+            "general"
+        ],
+        "country": "TR"
+    },
+    {
         "name": "Ev-tele",
         "id": "Evtele.cg",
         "logo": "https://i.imgur.com/iBlXl2T.png",
         "url": "https://playtv4k.live/live/EVTELE/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CG"
+    },
+    {
+        "name": "JOS TV HD",
+        "id": "JOSTVHD.cg",
+        "logo": "https://i.imgur.com/Ai9kpuu.jpeg",
+        "url": "https://stream.berosat.live:19360/jos-tv-stream/jos-tv-stream.m3u8",
         "categories": [
             "culture"
         ],
