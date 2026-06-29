@@ -440,16 +440,6 @@
         "country": "ES"
     },
     {
-        "name": "Music TV Granada",
-        "id": "MusicTVGranada.es",
-        "logo": "https://i.ibb.co/Swd9NP7n/music-tv-granada.png",
-        "url": "https://cloudvideo.servers10.com:8081/8032/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Onda Valencia TV",
         "id": "OndaValenciaTV.es",
         "logo": "https://i.imgur.com/6HxLUQd.png",
@@ -548,6 +538,17 @@
         "url": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "Onda 15 TV",
+        "id": "Onda15TV.es",
+        "logo": "https://i.imgur.com/mUrZz9O.png",
+        "url": "https://cloudvideo.servers10.com:8081/8034/index.m3u8",
+        "categories": [
+            "music",
+            "news"
         ],
         "country": "ES"
     },
@@ -887,17 +888,6 @@
         "country": "PY"
     },
     {
-        "name": "GO TV",
-        "id": "GOTV.py",
-        "logo": "https://i.ibb.co/jkvYVyz/Captura.png",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
-        "categories": [
-            "entertainment",
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
         "name": "Los Angeles TV Radio",
         "id": "LosAngelesTVRadio.py",
         "logo": "https://i.imgur.com/CaNdkpJ.jpeg",
@@ -912,6 +902,16 @@
         "id": "RadioColmenar925FM.py",
         "logo": "https://i.imgur.com/LniNLO1.jpeg",
         "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PY"
+    },
+    {
+        "name": "Venus Media",
+        "id": "VenusMedia.py",
+        "logo": "https://i.imgur.com/XwmUbfp.png",
+        "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -972,16 +972,6 @@
         "id": "FolkKlubTV.au",
         "logo": "https://i.imgur.com/Seq7Od7.png",
         "url": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "AU"
-    },
-    {
-        "name": "INTV Australia",
-        "id": "INTVAustralia.au",
-        "logo": "https://i.imgur.com/1nJl0Pv.png",
-        "url": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
         "categories": [
             "music"
         ],
@@ -1300,16 +1290,6 @@
         "country": "VE"
     },
     {
-        "name": "LaPuraCrema Television",
-        "id": "LaPuraCremaTelevision.ve",
-        "logo": "https://i.imgur.com/EJf1eRt.png",
-        "url": "https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "BOKTV",
         "id": "BOKTV.za",
         "logo": "https://i.imgur.com/mcNjuuO.png",
@@ -1592,16 +1572,6 @@
         "country": "RU"
     },
     {
-        "name": "Shanson TV",
-        "id": "ShansonTV.ru",
-        "logo": "https://i.imgur.com/Fk4sd8t.png",
-        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
         "name": "98.1 Pearl FM",
         "id": "981PearlFM.sx",
         "logo": "https://i.imgur.com/GY750xh.jpg",
@@ -1672,10 +1642,40 @@
         "country": "DO"
     },
     {
+        "name": "Fuego TV",
+        "id": "FuegoTV.do",
+        "logo": "https://i.imgur.com/T9vWjeB.png",
+        "url": "https://streamunoapp.com:3553/live/cromtvlive.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "DO"
+    },
+    {
+        "name": "Tele Dominicana TV",
+        "id": "TeleDominicanaTV.do",
+        "logo": "https://dominicanchannels.com/wp-content/uploads/teledominicana.png",
+        "url": "https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "Tezaur TV",
         "id": "TezaurTV.md",
         "logo": "https://i.imgur.com/eAagwLW.png",
         "url": "https://tezaurtv.md/stream/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "MD"
+    },
+    {
+        "name": "Radio Moldova Muzical",
+        "id": "RadioMoldovaMuzical.md",
+        "logo": "https://i.imgur.com/ZFHWst4.png",
+        "url": "https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8",
         "categories": [
             "music"
         ],
@@ -1826,6 +1826,26 @@
         "id": "PrattelTV.pe",
         "logo": "https://new.opencaster.com/uploads/logos/logo_244_1761928734.png",
         "url": "https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Galactica TV",
+        "id": "GalacticaTV.pe",
+        "logo": "https://i.imgur.com/byL1zCV.jpeg",
+        "url": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Metropolitana del Cuzco",
+        "id": "MetropolitanadelCuzco.pe",
+        "logo": "https://i.imgur.com/0B04qgM.png",
+        "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -2236,6 +2256,16 @@
         "country": "US"
     },
     {
+        "name": "Isango TV",
+        "id": "IsangoTV.rw",
+        "logo": "https://i.imgur.com/EfsHaMQ.png",
+        "url": "http://80.241.215.175:1935/isangostar/isangostar/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RW"
+    },
+    {
         "name": "AlbKanale Music TV",
         "id": "AlbKanaleMusicTV.al",
         "logo": "https://i.imgur.com/JdKxscs.png",
@@ -2254,16 +2284,6 @@
             "music"
         ],
         "country": "KZ"
-    },
-    {
-        "name": "VAM TV",
-        "id": "VAMTV.cw",
-        "logo": "https://i.imgur.com/CD1PffA.png",
-        "url": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CW"
     },
     {
         "name": "Sky Folk TV",
@@ -2477,6 +2497,16 @@
             "religious"
         ],
         "country": "ID"
+    },
+    {
+        "name": "Melody FM",
+        "id": "MelodyFM.jo",
+        "logo": "https://i.imgur.com/J8omcNz.png",
+        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "JO"
     },
     {
         "name": "Star 101 FM",
@@ -3383,26 +3413,6 @@
         "country": "IN"
     },
     {
-        "name": "Kalika TV",
-        "id": "KalikaTV.in",
-        "logo": "https://i.imgur.com/XWXFoJA.png",
-        "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "ZB Music",
-        "id": "ZBMusic.in",
-        "logo": "https://i.imgur.com/k1nb8u1.jpeg",
-        "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Shemaroo Filmi Gaane",
         "id": "ShemarooFilmiGaane.in",
         "logo": "https://i.imgur.com/2yOij1b.png",
@@ -3971,6 +3981,16 @@
         "country": "IT"
     },
     {
+        "name": "Radio Piter Pan TV",
+        "id": "RadioPiterPanTV.it",
+        "logo": "https://i.imgur.com/hbqVWV4.png",
+        "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IT"
+    },
+    {
         "name": "Gugak TV",
         "id": "GugakTV.kr",
         "logo": "https://i.imgur.com/Ey7Htm8.png",
@@ -3979,6 +3999,16 @@
             "music"
         ],
         "country": "KR"
+    },
+    {
+        "name": "A2i Music",
+        "id": "A2iMusic.sn",
+        "logo": "https://i.imgur.com/Fykhzxh.jpg",
+        "url": "https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "SN"
     },
     {
         "name": "Lausitzwelle",
@@ -4441,17 +4471,6 @@
         "country": "CR"
     },
     {
-        "name": "Gex TV",
-        "id": "GexTV.cr",
-        "logo": "https://gextv.com/LOGO-WHITE.png",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
-        "categories": [
-            "music",
-            "entertainment"
-        ],
-        "country": "CR"
-    },
-    {
         "name": "Tiankov Folk",
         "id": "TiankovFolk.bg",
         "logo": "https://i.imgur.com/VKY4q64.png",
@@ -4657,16 +4676,6 @@
         "id": "ElRadio9090FM.eg",
         "logo": "https://www.9090.fm/images/logo.png",
         "url": "https://9090video.mobtada.com/hls/stream.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "EG"
-    },
-    {
-        "name": "NogoumFMTV",
-        "id": "NogoumFMTV.eg",
-        "logo": "https://i.imgur.com/krp3kgv.png",
-        "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
         "categories": [
             "music"
         ],

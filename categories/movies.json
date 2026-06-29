@@ -446,16 +446,6 @@
         "country": "HU"
     },
     {
-        "name": "Viasat Film",
-        "id": "ViasatFilm.hu",
-        "logo": "https://i.imgur.com/5CoP6ex.png",
-        "url": "http://46.149.191.217:9009/play/a028",
-        "categories": [
-            "movies"
-        ],
-        "country": "HU"
-    },
-    {
         "name": "Hero",
         "id": "Hero.fi",
         "logo": "https://i.imgur.com/4t5JQLY.png",
@@ -1498,30 +1488,30 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV A La Mexicana",
-        "id": "PlutoTVALaMexicana.us",
-        "logo": "https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8",
+        "name": "AMC Latin America",
+        "id": "AMCLatinAmerica.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
+        "url": "https://cdn-5.nxplay.com.br/AMC_BRASIL/index.m3u8",
         "categories": [
             "movies"
         ],
         "country": "US"
     },
     {
-        "name": "Pluto TV Cine Suspenso",
-        "id": "PlutoTVCineSuspenso.us",
-        "logo": "https://i.imgur.com/GnUmEZn.png",
-        "url": "https://jmp2.uk/plu-5ddc4e8bcbb9010009b4e84f.m3u8",
+        "name": "Moviedome",
+        "id": "Moviedome.us",
+        "logo": "https://i.imgur.com/8c54ycg.png",
+        "url": "https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8",
         "categories": [
             "movies"
         ],
         "country": "US"
     },
     {
-        "name": "Pluto TV Estrellas de Accion",
-        "id": "PlutoTVEstrellasdeAccion.us",
-        "logo": "https://i.imgur.com/GVOYX4L.png",
-        "url": "https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8",
+        "name": "Pluto TV Cine Romance",
+        "id": "PlutoTVCineRomance.us",
+        "logo": "https://i.imgur.com/WXMD53u.png",
+        "url": "https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8",
         "categories": [
             "movies"
         ],
@@ -1619,6 +1609,16 @@
         "country": "FR"
     },
     {
+        "name": "Cine+ Frisson",
+        "id": "CinePlusFrisson.fr",
+        "logo": "https://i.imgur.com/MwFtbnR.jpeg",
+        "url": "http://99.27.51.147:8080/CineFrisson/index.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "FR"
+    },
+    {
         "name": "Filmex",
         "id": "Filmex.mx",
         "logo": "https://i.imgur.com/Hiz2OyC.png",
@@ -1667,6 +1667,16 @@
             "movies"
         ],
         "country": "MY"
+    },
+    {
+        "name": "Itage TV",
+        "id": "ItageTV.ng",
+        "logo": "https://i.imgur.com/FP1aUPw.jpg",
+        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8",
+        "categories": [
+            "movies"
+        ],
+        "country": "NG"
     },
     {
         "name": "Komsan TV",
@@ -2101,31 +2111,10 @@
         "country": "IN"
     },
     {
-        "name": "ZB Cinema",
-        "id": "ZBCinema.in",
-        "logo": "https://i.imgur.com/kUg6WSk.jpeg",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-        "categories": [
-            "classic",
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Vijay Super",
         "id": "VijaySuper.in",
         "logo": "https://dtil.tmsimg.com/assets/s158319_ld_h15_aa.png?lock=720x540",
         "url": "http://202.70.146.135:8000/play/a008/index.m3u8",
-        "categories": [
-            "movies"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Suriyan TV",
-        "id": "SuriyanTV.in",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2025-11-06/2511063356010.jpg",
-        "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
         "categories": [
             "movies"
         ],
@@ -2143,14 +2132,15 @@
         "country": "IN"
     },
     {
-        "name": "TV1000",
-        "id": "TV1000.si",
-        "logo": "https://i.imgur.com/GHNsctR.png",
-        "url": "https://lb.dstvmultimedia.com/NovaMax/index.m3u8",
+        "name": "Indywood TV",
+        "id": "IndywoodTV.in",
+        "logo": "https://i.ibb.co/jT3NCPp/logo-tv.png",
+        "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
         "categories": [
-            "movies"
+            "movies",
+            "news"
         ],
-        "country": "SI"
+        "country": "IN"
     },
     {
         "name": "Movie Bangla",
@@ -2301,12 +2291,33 @@
         "country": "AR"
     },
     {
+        "name": "Rai Movie",
+        "id": "RaiMovie.it",
+        "logo": "https://i.imgur.com/0FjxXU9.png",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002",
+        "categories": [
+            "movies"
+        ],
+        "country": "IT"
+    },
+    {
         "name": "Grjngo Western Movies",
         "id": "GrjngoWesternMovies.de",
         "logo": "https://i.imgur.com/wFqhK3p.png",
         "url": "https://amogonetworx-grjngo-3-se.samsung.wurl.tv/playlist.m3u8",
         "categories": [
             "movies"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV 80's Action",
+        "id": "PlutoTV80sAction.de",
+        "logo": "https://images.pluto.tv/channels/66d717d2abec540008ba7ec4/colorLogoPNG_1731066705631.png",
+        "url": "https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8",
+        "categories": [
+            "movies",
+            "series"
         ],
         "country": "DE"
     },
