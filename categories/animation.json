@@ -147,6 +147,16 @@
         "country": "DO"
     },
     {
+        "name": "Anime Zone TV",
+        "id": "AnimeZoneTV.do",
+        "logo": "https://i.imgur.com/AHaXlCh.png",
+        "url": "http://animezonetv.net/hls/stream.m3u8",
+        "categories": [
+            "animation"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "3ABN Kids",
         "id": "3ABNKids.us",
         "logo": "https://i.imgur.com/z3npqO1.png",
@@ -261,49 +271,6 @@
         "country": "US"
     },
     {
-        "name": "Naruto Shippuden",
-        "id": "NarutoShippuden.us",
-        "logo": "https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-64c92fea3c3344000869e8a9.m3u8",
-        "categories": [
-            "animation"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "South Park: Coleccion Cartman",
-        "id": "SouthParkColeccionCartman.us",
-        "logo": "https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65df731cec9fda0008b7aa8d.m3u8",
-        "categories": [
-            "animation",
-            "comedy"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "South Park: Coleccion Stan",
-        "id": "SouthParkColeccionStan.us",
-        "logo": "https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65df72db18036500081a8292.m3u8",
-        "categories": [
-            "animation",
-            "comedy"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Comedy Central South Park",
-        "id": "ComedyCentralSouthPark.us",
-        "logo": "https://i.imgur.com/7GKO6Fp.png",
-        "url": "https://jmp2.uk/plu-609ae5cd48d3200007b0a98e.m3u8",
-        "categories": [
-            "animation",
-            "comedy"
-        ],
-        "country": "US"
-    },
-    {
         "name": "MeTV Toons",
         "id": "MeTVToons.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png",
@@ -311,27 +278,6 @@
         "categories": [
             "animation",
             "kids"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "South Park: Coleccion Kenny",
-        "id": "SouthParkColeccionKenny.us",
-        "logo": "https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65df7272ec9fda0008b7a970.m3u8",
-        "categories": [
-            "animation",
-            "comedy"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Tokusato",
-        "id": "Tokusato.us",
-        "logo": "https://i.imgur.com/tWpjXtl.png",
-        "url": "https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8",
-        "categories": [
-            "animation"
         ],
         "country": "US"
     },
@@ -401,17 +347,6 @@
         "country": "MX"
     },
     {
-        "name": "South Park: Kyle Collection",
-        "id": "SouthParkKyleCollection.se",
-        "logo": "https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65d882394e01740008a36768.m3u8",
-        "categories": [
-            "animation",
-            "comedy"
-        ],
-        "country": "SE"
-    },
-    {
         "name": "Avatar",
         "id": "Avatar.se",
         "logo": "https://images.pluto.tv/channels/61c09b48d6d97900076e91c5/colorLogoPNG.png",
@@ -420,17 +355,6 @@
             "kids",
             "animation",
             "series"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "South Park: Into the Stars",
-        "id": "SouthParkIntotheStars.se",
-        "logo": "https://images.pluto.tv/channels/664f0eaa8ce31100088036bd/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8",
-        "categories": [
-            "animation",
-            "comedy"
         ],
         "country": "SE"
     },
@@ -444,28 +368,6 @@
             "comedy"
         ],
         "country": "SE"
-    },
-    {
-        "name": "South Park: Stan Collection",
-        "id": "SouthParkStanCollection.se",
-        "logo": "https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-65d881914e01740008a36603.m3u8",
-        "categories": [
-            "animation",
-            "comedy"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "JapanimTV",
-        "id": "JapanimTV.be",
-        "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b97e19f-4243-4d48-b794-ff8cf54d795f-profile_image-300x300.png",
-        "url": "https://foxkidstv.be:3369/stream/play.m3u8",
-        "categories": [
-            "animation",
-            "kids"
-        ],
-        "country": "BE"
     },
     {
         "name": "NickOnline",
@@ -606,12 +508,13 @@
         "country": "AR"
     },
     {
-        "name": "Pluto TV Anime",
-        "id": "PlutoTVAnime.de",
-        "logo": "https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG_1747395463053.png",
-        "url": "https://jmp2.uk/plu-65b90daed77d450008a43345.m3u8",
+        "name": "South Park: Cartman Collection",
+        "id": "SouthParkCartmanCollection.de",
+        "logo": "https://images.pluto.tv/channels/646b14747cb4b1000875724d/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8",
         "categories": [
-            "animation"
+            "animation",
+            "comedy"
         ],
         "country": "DE"
     },
