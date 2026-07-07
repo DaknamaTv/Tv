@@ -867,6 +867,16 @@
         "country": "PY"
     },
     {
+        "name": "4Dmas Noticias TV",
+        "id": "4DmasNoticiasTV.py",
+        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "PY"
+    },
+    {
         "name": "Prensa Latina TV",
         "id": "PrensaLatinaTV.cu",
         "logo": "https://i.imgur.com/jbm2S9O.jpg",
@@ -951,16 +961,6 @@
         "id": "7Info.ci",
         "logo": "https://i.imgur.com/jcl1nNR.png",
         "url": "https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CI"
-    },
-    {
-        "name": "TV La Capitale",
-        "id": "TVLaCapitale.ci",
-        "logo": "https://i.imgur.com/zZJzNjM.jpeg",
-        "url": "https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8",
         "categories": [
             "news"
         ],
@@ -2349,16 +2349,6 @@
         "country": "US"
     },
     {
-        "name": "News12 Westchester",
-        "id": "News12Westchester.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
-        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
         "name": "ESPNews",
         "id": "ESPNews.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png",
@@ -2400,26 +2390,6 @@
         "country": "US"
     },
     {
-        "name": "CBS News Bay Area",
-        "id": "CBSNewsBayArea.us",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/Logo-cbsn-bayarea-1920x1080.jpg/revision/latest/scale-to-width-down/512",
-        "url": "https://jmp2.uk/plu-5eb1afb21486df0007abc57c.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "CBS News Colorado",
-        "id": "CBSNewsColorado.us",
-        "logo": "https://i.imgur.com/2oyYwBw.png",
-        "url": "https://jmp2.uk/plu-5eb1b12146cba40007aa7e5d.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "US"
-    },
-    {
         "name": "CBS News Detroit",
         "id": "CBSNewsDetroit.us",
         "logo": "https://i.imgur.com/cMels2Y.png",
@@ -2440,20 +2410,110 @@
         "country": "US"
     },
     {
-        "name": "CBS News Sacramento",
-        "id": "CBSNewsSacramento.us",
-        "logo": "https://i.imgur.com/0e1kSGX.png",
-        "url": "https://jmp2.uk/plu-60cb6df2b2ad610008cd5bea.m3u8",
+        "name": "OAN Plus",
+        "id": "OANPlus.us",
+        "logo": "https://i.imgur.com/0xW69iu.png",
+        "url": "https://jmp2.uk/plu-5e7cf6c7b156d500078c5f44.m3u8",
         "categories": [
             "news"
         ],
         "country": "US"
     },
     {
-        "name": "OAN Plus",
-        "id": "OANPlus.us",
-        "logo": "https://i.imgur.com/0xW69iu.png",
-        "url": "https://jmp2.uk/plu-5e7cf6c7b156d500078c5f44.m3u8",
+        "name": "CBS News Los Angeles",
+        "id": "CBSNewsLosAngeles.us",
+        "logo": "https://i.imgur.com/klULxMV.png",
+        "url": "https://jmp2.uk/plu-5dc481cda1d430000948a1b4.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CBS News New York",
+        "id": "CBSNewsNewYork.us",
+        "logo": "https://i.imgur.com/bpc4v0u.png",
+        "url": "https://jmp2.uk/plu-5dc48170e280c80009a861ab.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "News12 Brooklyn",
+        "id": "News12Brooklyn.us",
+        "logo": "https://i.imgur.com/fvcOzzK.png",
+        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "News12 Conneticut",
+        "id": "News12Conneticut.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "News12 Hudson Valley",
+        "id": "News12HudsonValley.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "News12 Long Island",
+        "id": "News12LongIsland.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png",
+        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "News12+ Connecticut",
+        "id": "News12PlusConnecticut.us",
+        "logo": "https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg",
+        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "News12+ Hudson Valley",
+        "id": "News12PlusHudsonValley.us",
+        "logo": "https://i.ibb.co/cKkdC203/news12plus-HV.jpg",
+        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "News12+ New Jersey",
+        "id": "News12PlusNewJersey.us",
+        "logo": "https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg",
+        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "News12+ New York",
+        "id": "News12PlusNewYork.us",
+        "logo": "https://i.ibb.co/tThKYM09/news12plus-NYC.jpg",
+        "url": "https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8",
         "categories": [
             "news"
         ],
@@ -2574,6 +2634,16 @@
         "id": "i24NEWSFrench.il",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png",
         "url": "https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IL"
+    },
+    {
+        "name": "Makan 33",
+        "id": "Makan33.il",
+        "logo": "https://i.imgur.com/RVtQTed.png",
+        "url": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -2728,18 +2798,6 @@
         "url": "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8",
         "categories": [
             "news"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Lingkar TV",
-        "id": "LingkarTV.id",
-        "logo": "https://lingkartv.com/assets/img/logo-square.png",
-        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
-        "categories": [
-            "news",
-            "music",
-            "religious"
         ],
         "country": "ID"
     },
@@ -3077,6 +3135,16 @@
         "country": "KH"
     },
     {
+        "name": "EAC News TV",
+        "id": "EACNewsTV.kh",
+        "logo": "https://i.imgur.com/EuYhS9Z.png",
+        "url": "https://live.eac-news.com/LiveApp/streams/eacnews.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "KH"
+    },
+    {
         "name": "First Channel News",
         "id": "FirstChannelNews.am",
         "logo": "https://i.imgur.com/RlYJUH4.png",
@@ -3264,16 +3332,6 @@
         "country": "BR"
     },
     {
-        "name": "Jovem Pan News",
-        "id": "JovemPanNews.br",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
-        "url": "https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Sim Cachoeiro",
         "id": "TVSimCachoeiro.br",
         "logo": "https://i.imgur.com/t5oUK3C.png",
@@ -3388,16 +3446,6 @@
         "id": "Opinionsur.cl",
         "logo": "https://i.imgur.com/4IjhXKm.png",
         "url": "https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "TeleCauquenes",
-        "id": "TeleCauquenes.cl",
-        "logo": "https://i.imgur.com/cNYDqhp.png",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8",
         "categories": [
             "news"
         ],
@@ -4891,30 +4939,10 @@
         "country": "IN"
     },
     {
-        "name": "K News India",
-        "id": "KNewsIndia.in",
-        "logo": "https://i.imgur.com/LeBL7ML.png",
-        "url": "https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "Malabar News",
         "id": "MalabarNews.in",
         "logo": "https://i.imgur.com/Un2gxt4.png",
         "url": "http://cloud.logichost.in:1935/live/malabarnews/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Ind 24",
-        "id": "Ind24.in",
-        "logo": "https://i.imgur.com/exRpVmL.png",
-        "url": "https://mumt02.tangotv.in/IND24/index.m3u8",
         "categories": [
             "news"
         ],
@@ -4927,6 +4955,47 @@
         "url": "https://mumt02.tangotv.in/HNN24X7/index.m3u8",
         "categories": [
             "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "22Scope News",
+        "id": "22ScopeNews.in",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
+        "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Gulistan News",
+        "id": "GulistanNews.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540",
+        "url": "https://live.gulistannews.in/hls/gul.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Kannur Vision",
+        "id": "KannurVision.in",
+        "logo": "https://i.imgur.com/FCXqPer.png",
+        "url": "https://stream.logichost.in/kannurvision/live/playlist.m3u8",
+        "categories": [
+            "news"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "ZillarBarta News",
+        "id": "ZillarBartaNews.in",
+        "logo": "https://i.imgur.com/6uestzY.jpeg",
+        "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
+        "categories": [
+            "news",
+            "classic"
         ],
         "country": "IN"
     },
