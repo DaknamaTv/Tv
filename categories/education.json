@@ -287,26 +287,6 @@
         "country": "PY"
     },
     {
-        "name": "Canal Educativo",
-        "id": "CanalEducativo.cu",
-        "logo": "https://i.imgur.com/huBxZpP.png",
-        "url": "https://tv.picta.cu/educativo/educativo_0.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "CU"
-    },
-    {
-        "name": "Canal Educativo 2",
-        "id": "CanalEducativo2.cu",
-        "logo": "https://i.imgur.com/nOl3H5X.png",
-        "url": "https://tv.picta.cu/educativo2/educativo2_0.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "CU"
-    },
-    {
         "name": "ABC Entertains",
         "id": "ABCEntertains.au",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ABC_Entertains_logo.svg/960px-ABC_Entertains_logo.svg.png",
@@ -682,17 +662,6 @@
         "country": "US"
     },
     {
-        "name": "PBS Kids 24/7",
-        "id": "PBSKids247.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg",
-        "url": "http://206.212.244.63/672/index.m3u8",
-        "categories": [
-            "education",
-            "kids"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Misterios",
         "id": "PlutoTVMisterios.us",
         "logo": "https://i.imgur.com/gwxX1Y3.png",
@@ -707,6 +676,36 @@
         "id": "PlutoTVVidaReal.us",
         "logo": "https://i.imgur.com/dRbBbxP.png",
         "url": "https://jmp2.uk/plu-5df265697ec3510009df1ef0.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Minha Obsessao Favorita",
+        "id": "PlutoTVMinhaObsessaoFavorita.us",
+        "logo": "https://i.imgur.com/ZZuaiqb.png",
+        "url": "https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Paisagens por Stingray",
+        "id": "PlutoTVPaisagensporStingray.us",
+        "logo": "https://i.imgur.com/6kElzw7.png",
+        "url": "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pronto-socorro: Historias De Emergencia",
+        "id": "ProntosocorroHistoriasDeEmergencia.us",
+        "logo": "https://i.imgur.com/0PkyJ3U.png",
+        "url": "https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8",
         "categories": [
             "education"
         ],
@@ -749,16 +748,6 @@
         "url": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8",
         "categories": [
             "culture",
-            "education"
-        ],
-        "country": "ID"
-    },
-    {
-        "name": "Rinjani TV",
-        "id": "RinjaniTV.id",
-        "logo": "https://lombokindustries.com/assunnah/zone/img/rinjanitv.png",
-        "url": "https://rinjanitv.cloud/hls/tvkabel.m3u8",
-        "categories": [
             "education"
         ],
         "country": "ID"
@@ -991,12 +980,32 @@
         "country": "BR"
     },
     {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
+        "name": "AgroCanal",
+        "id": "AgroCanal.br",
+        "logo": "https://i.imgur.com/5XyopHf.png",
+        "url": "http://45.162.64.114/AGRO_CANAL/index.m3u8",
         "categories": [
-            "culture",
+            "education",
+            "outdoor"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Canal Futura",
+        "id": "CanalFutura.br",
+        "logo": "https://i.imgur.com/LgynEBC.png",
+        "url": "http://45.162.64.114/FUTURA/index.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Futura",
+        "id": "Futura.br",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png",
+        "url": "http://45.162.231.38:7779/Futura/index.m3u8",
+        "categories": [
             "education"
         ],
         "country": "BR"

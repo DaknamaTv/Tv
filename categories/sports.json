@@ -250,16 +250,6 @@
         "country": "UK"
     },
     {
-        "name": "DAZN Combat",
-        "id": "DAZNCombat.uk",
-        "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
-        "url": "https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UK"
-    },
-    {
         "name": "Tigo Sports+",
         "id": "TigoSportsPlus.py",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
@@ -268,16 +258,6 @@
             "sports"
         ],
         "country": "PY"
-    },
-    {
-        "name": "Tele Rebelde",
-        "id": "TeleRebelde.cu",
-        "logo": "https://i.imgur.com/M6wZzuz.png",
-        "url": "https://tv.picta.cu/telerebelde/telerebelde_1.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "CU"
     },
     {
         "name": "FUEL TV",
@@ -575,6 +555,16 @@
         "id": "ExtremeSportsChannel.ru",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Extreme_Sports_Channel.svg/960px-Extreme_Sports_Channel.svg.png",
         "url": "http://46.32.176.50/extremesport/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Okko Futbol",
+        "id": "OkkoFutbol.ru",
+        "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8986.png",
+        "url": "http://178.124.179.122:8080/Setanta1/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1209,76 +1199,6 @@
         "country": "US"
     },
     {
-        "name": "DSports",
-        "id": "DSports.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
-        "url": "https://streamvidex.qzz.io/videx/dsportsar/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "DSports 2",
-        "id": "DSports2.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",
-        "url": "https://streamvidex.qzz.io/videx/dsports2/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "DSports+",
-        "id": "DSportsPlus.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",
-        "url": "https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Fox Sports 1",
-        "id": "FoxSports1.us",
-        "logo": "https://i.imgur.com/O9BapV9.png",
-        "url": "https://streamvidex.qzz.io/videx/fox1usa/index.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Golazo Network",
-        "id": "GolazoNetwork.us",
-        "logo": "https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png",
-        "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "PBR RidePass",
-        "id": "PBRRidePass.us",
-        "logo": "https://i.imgur.com/gUxH97E.png",
-        "url": "https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Bellator MMA",
-        "id": "BellatorMMA.us",
-        "logo": "https://i.imgur.com/VBKoLHk.png",
-        "url": "https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Monster Jam",
         "id": "MonsterJam.us",
         "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
@@ -1320,10 +1240,30 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Futbol",
-        "id": "PlutoTVFutbol.us",
-        "logo": "https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG_1777492822828.png",
-        "url": "https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8",
+        "name": "Golf Channel Latin America",
+        "id": "GolfChannelLatinAmerica.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png",
+        "url": "http://72.1.184.5:8089/play/a0cw/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "GolTV Latin America",
+        "id": "GolTVLatinAmerica.us",
+        "logo": "https://i.imgur.com/pypul3s.png",
+        "url": "http://177.234.249.178:8888/GOLTV/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Deportes",
+        "id": "PlutoTVDeportes.us",
+        "logo": "https://i.imgur.com/0pDy6f4.png",
+        "url": "https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8",
         "categories": [
             "sports"
         ],
@@ -1562,26 +1502,6 @@
         "country": "SE"
     },
     {
-        "name": "Pluto TV Snooker 900",
-        "id": "PlutoTVSnooker900.se",
-        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
-        "url": "https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "Pluto TV Sport",
-        "id": "PlutoTVSport.se",
-        "logo": "https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png",
-        "url": "https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "SE"
-    },
-    {
         "name": "El-Heddaf TV",
         "id": "ElHeddafTV.dz",
         "logo": "https://i.imgur.com/cDkIDIA.png",
@@ -1656,6 +1576,16 @@
         "id": "SportTV.by",
         "logo": "https://www.beltelecom.by/sites/default/files/styles/200200/public/tv-channels/2025-10/sporttv.png",
         "url": "http://178.124.179.122:8080/SportTV/mpegts",
+        "categories": [
+            "sports"
+        ],
+        "country": "BY"
+    },
+    {
+        "name": "Belarus-5",
+        "id": "Belarus5.by",
+        "logo": "https://i.imgur.com/NJsRFud.png",
+        "url": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
         "categories": [
             "sports"
         ],
@@ -1893,17 +1823,6 @@
             "sports"
         ],
         "country": "NL"
-    },
-    {
-        "name": "ADO TV",
-        "id": "ADOTV.bj",
-        "logo": "https://i.imgur.com/pxFamLr.png",
-        "url": "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8",
-        "categories": [
-            "kids",
-            "sports"
-        ],
-        "country": "BJ"
     },
     {
         "name": "Arryadia HD1",
