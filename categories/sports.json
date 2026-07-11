@@ -80,16 +80,6 @@
         "country": "CN"
     },
     {
-        "name": "CCTV-16",
-        "id": "CCTV16.cn",
-        "logo": "https://i.imgur.com/ZzV6JQp.png",
-        "url": "http://74.91.26.218:82/live/cctv16hd.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "CN"
-    },
-    {
         "name": "CCTV-5",
         "id": "CCTV5.cn",
         "logo": "https://i.imgur.com/nbmnGwE.png",
@@ -250,16 +240,6 @@
         "country": "UK"
     },
     {
-        "name": "DAZN Combat",
-        "id": "DAZNCombat.uk",
-        "logo": "https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png",
-        "url": "https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "UK"
-    },
-    {
         "name": "Tigo Sports+",
         "id": "TigoSportsPlus.py",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
@@ -320,6 +300,17 @@
         "country": "AU"
     },
     {
+        "name": "RTI La 3",
+        "id": "RTILa3.ci",
+        "logo": "https://i.imgur.com/HdNshgF.png",
+        "url": "http://69.64.57.208/la3/index.m3u8",
+        "categories": [
+            "music",
+            "sports"
+        ],
+        "country": "CI"
+    },
+    {
         "name": "Hard Knocks",
         "id": "HardKnocks.ca",
         "logo": "https://i.imgur.com/nt9B6jx.png",
@@ -334,6 +325,56 @@
         "id": "TSNTheOcho.ca",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png",
         "url": "https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "TSN1",
+        "id": "TSN1.ca",
+        "logo": "https://i.imgur.com/eRFE0jZ.png",
+        "url": "http://40.160.24.55/TSN_1/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "TSN2",
+        "id": "TSN2.ca",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/960px-TSN2.svg.png",
+        "url": "http://40.160.24.55/TSN_2/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "TSN3",
+        "id": "TSN3.ca",
+        "logo": "https://i.imgur.com/AYza8KO.png",
+        "url": "http://40.160.24.55/TSN_3/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "TSN4",
+        "id": "TSN4.ca",
+        "logo": "https://i.imgur.com/qJyAWU8.png",
+        "url": "http://40.160.24.55/TSN_4/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "CA"
+    },
+    {
+        "name": "TSN5",
+        "id": "TSN5.ca",
+        "logo": "https://i.imgur.com/HEzHpzz.png",
+        "url": "http://40.160.24.55/TSN_5/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1298,10 +1339,20 @@
         "country": "US"
     },
     {
-        "name": "Golazo Network",
-        "id": "GolazoNetwork.us",
-        "logo": "https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png",
-        "url": "https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8",
+        "name": "Altitude Sports",
+        "id": "AltitudeSports.us",
+        "logo": "https://i.imgur.com/TzWflKZ.png",
+        "url": "http://206.212.244.63/6153/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CBS Sports Network USA",
+        "id": "CBSSportsNetworkUSA.us",
+        "logo": "https://i.imgur.com/A8CnA8g.png",
+        "url": "http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1311,7 +1362,7 @@
         "name": "DSports",
         "id": "DSports.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
-        "url": "https://streamvidex.qzz.io/videx/dsportsar/index.m3u8",
+        "url": "http://200.91.32.158:8080/dsportshd/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1321,17 +1372,147 @@
         "name": "DSports 2",
         "id": "DSports2.us",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",
-        "url": "https://streamvidex.qzz.io/videx/dsports2/index.m3u8",
+        "url": "http://200.91.32.158:8080/dsports2hd/index.m3u8",
         "categories": [
             "sports"
         ],
         "country": "US"
     },
     {
-        "name": "DSports+",
-        "id": "DSportsPlus.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png",
-        "url": "https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8",
+        "name": "ESPN Deportes",
+        "id": "ESPNDeportes.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png",
+        "url": "http://40.160.24.58/ESPN_DEPORTES/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "FanDuel Racing",
+        "id": "FanDuelRacing.us",
+        "logo": "https://i.imgur.com/84lMjSj.png",
+        "url": "http://206.212.244.63/6139/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Fox Soccer Plus",
+        "id": "FoxSoccerPlus.us",
+        "logo": "https://i.imgur.com/gR7u8DM.png",
+        "url": "http://40.160.24.52/FOX_SOCCER_PLUS/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Marquee Sports Network",
+        "id": "MarqueeSportsNetwork.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/960px-Marquee_Sports_Network_Logo.svg.png",
+        "url": "http://40.160.24.52/MARQUEE_SPORTS_NETWORK/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "MLB Network",
+        "id": "MLBNetwork.us",
+        "logo": "https://i.imgur.com/sA5V39D.png",
+        "url": "http://40.160.24.52/MLB_Network/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "MSG 2",
+        "id": "MSG2.us",
+        "logo": "https://i.imgur.com/ErJUkYD.png",
+        "url": "http://40.160.24.52/MSG_2/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "MSG Plus",
+        "id": "MSGPlus.us",
+        "logo": "https://i.imgur.com/7suDpSK.png",
+        "url": "http://40.160.24.52/MSG_PLUS/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "NBCSN",
+        "id": "NBCSN.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/960px-NBCSN_logo_%28flat%29.svg.png",
+        "url": "http://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "NBC Sports Chicago",
+        "id": "NBCSportsChicago.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Chicago_Logo.svg/500px-NBC_Sports_Chicago_Logo.svg.png",
+        "url": "http://206.212.244.63/6141/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "NESN",
+        "id": "NESN.us",
+        "logo": "https://i.imgur.com/Lv1bUG5.png",
+        "url": "http://40.160.24.52/NESN/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PBR RidePass",
+        "id": "PBRRidePass.us",
+        "logo": "https://i.imgur.com/gUxH97E.png",
+        "url": "https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Snooker 900",
+        "id": "PlutoTVSnooker900.us",
+        "logo": "https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png",
+        "url": "https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Sportsman Channel",
+        "id": "SportsmanChannel.us",
+        "logo": "https://i.imgur.com/CXauv8M.png",
+        "url": "http://40.160.24.55/Sportsman_Channel/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "SportsNet New York",
+        "id": "SportsNetNewYork.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/960px-SNY_logo.svg.png",
+        "url": "http://40.160.24.55/SNY/index.m3u8",
         "categories": [
             "sports"
         ],
@@ -1428,14 +1609,14 @@
         "country": "PL"
     },
     {
-        "name": "Tigo Sports",
-        "id": "TigoSports.gt",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
-        "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8",
+        "name": "Polsat Sport Premium 2",
+        "id": "PolsatSportPremium2.pl",
+        "logo": "https://i.imgur.com/myyWeXY.png",
+        "url": "http://91.146.94.234:10001/play/a05b",
         "categories": [
             "sports"
         ],
-        "country": "GT"
+        "country": "PL"
     },
     {
         "name": "Multivision Sports",
@@ -1544,6 +1725,16 @@
         "id": "PlutoTVSnooker900.se",
         "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
         "url": "https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "SE"
+    },
+    {
+        "name": "Pluto TV Sport",
+        "id": "PlutoTVSport.se",
+        "logo": "https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png",
+        "url": "https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8",
         "categories": [
             "sports"
         ],
@@ -1928,6 +2119,56 @@
         "id": "TyCSportsUSA.ar",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",
         "url": "http://45.170.130.224:8000/play/a020/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "America Sports",
+        "id": "AmericaSports.ar",
+        "logo": "https://i.imgur.com/GOQ9zOI.png",
+        "url": "http://200.91.32.158:8080/americasports/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "DeporTV",
+        "id": "DeporTV.ar",
+        "logo": "https://i.imgur.com/THk9ARS.png",
+        "url": "http://200.91.32.158:8080/deportv/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Fox Sports 2",
+        "id": "FoxSports2.ar",
+        "logo": "https://i.imgur.com/oG7HzEf.png",
+        "url": "http://200.91.32.158:8080/foxsports2/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Fox Sports 3",
+        "id": "FoxSports3.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png",
+        "url": "http://200.91.32.158:8080/foxsports3/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "TyC Sports 2",
+        "id": "TyCSports2.ar",
+        "logo": "https://i.imgur.com/HyFYv06.png",
+        "url": "http://200.91.32.158:8080/tyc2hd/index.m3u8",
         "categories": [
             "sports"
         ],
