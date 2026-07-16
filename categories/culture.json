@@ -20,6 +20,16 @@
         "country": "CN"
     },
     {
+        "name": "Nei Monggol TV 2 Mongolian Culture Channel",
+        "id": "NeiMonggolTV2MongolianCultureChannel.cn",
+        "logo": "https://i.imgur.com/kpsjahG.png",
+        "url": "http://play1-qk.nmtv.cn/live/1769652109096027.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CN"
+    },
+    {
         "name": "ART",
         "id": "ART.gr",
         "logo": "https://i.imgur.com/mNeLu04.png",
@@ -38,17 +48,6 @@
             "culture"
         ],
         "country": "BF"
-    },
-    {
-        "name": "ETV 2",
-        "id": "ETV2.ee",
-        "logo": "https://i.imgur.com/fUjGHDa.png",
-        "url": "https://sb.err.ee/live/etv2.m3u8",
-        "categories": [
-            "kids",
-            "culture"
-        ],
-        "country": "EE"
     },
     {
         "name": "Hamaika Telebista",
@@ -79,6 +78,18 @@
             "news",
             "culture",
             "education"
+        ],
+        "country": "BO"
+    },
+    {
+        "name": "Radio Universitaria San Andres",
+        "id": "RadioUniversitariaSanAndres.bo",
+        "logo": "https://tvu.umsa.bo/documents/780216/0/LogoRUSA+%283%29.jpg",
+        "url": "https://edge.enhdtv.com/8054/index.m3u8",
+        "categories": [
+            "culture",
+            "education",
+            "entertainment"
         ],
         "country": "BO"
     },
@@ -586,18 +597,6 @@
         "country": "MX"
     },
     {
-        "name": "GikTVMX",
-        "id": "GikTVMX.mx",
-        "logo": "https://i.imgur.com/Gwz78jZ.png",
-        "url": "https://pistream.ddns.net/hls/stream.m3u8",
-        "categories": [
-            "culture",
-            "animation",
-            "entertainment"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Jalisco TV",
         "id": "JaliscoTV.mx",
         "logo": "https://i.imgur.com/N4meE8I.png",
@@ -609,6 +608,27 @@
         "country": "MX"
     },
     {
+        "name": "Capital 21",
+        "id": "Capital21.mx",
+        "logo": "https://i.imgur.com/8ign49i.png",
+        "url": "https://video.cdmx.gob.mx/redes/stream.m3u8",
+        "categories": [
+            "culture",
+            "entertainment"
+        ],
+        "country": "MX"
+    },
+    {
+        "name": "Hakka TV",
+        "id": "HakkaTV.tw",
+        "logo": "https://i.imgur.com/1CdGSbU.png",
+        "url": "https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "TW"
+    },
+    {
         "name": "Superscreen TV",
         "id": "SuperscreenTV.ng",
         "logo": "https://i.imgur.com/uTNmSWE.png",
@@ -616,26 +636,6 @@
         "categories": [
             "culture",
             "family"
-        ],
-        "country": "NG"
-    },
-    {
-        "name": "Qausain TV",
-        "id": "QausainTV.ng",
-        "logo": "https://i.ibb.co/N70QyQ7/Qausain-TV-logo.png",
-        "url": "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8",
-        "categories": [
-            "culture"
-        ],
-        "country": "NG"
-    },
-    {
-        "name": "Nigbati",
-        "id": "Nigbati.ng",
-        "logo": "",
-        "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8",
-        "categories": [
-            "culture"
         ],
         "country": "NG"
     },
@@ -688,17 +688,6 @@
         "categories": [
             "education",
             "culture"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-        "categories": [
-            "culture",
-            "education"
         ],
         "country": "BR"
     },
@@ -838,14 +827,24 @@
         "country": "CL"
     },
     {
-        "name": "Verso TV",
-        "id": "VersoTV.cl",
-        "logo": "https://i.imgur.com/zdv4IF8.png",
-        "url": "https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8",
+        "name": "Chiloe Red 25",
+        "id": "ChiloeRed25.cl",
+        "logo": "https://i.imgur.com/3tqrImm.png",
+        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
         "categories": [
             "culture"
         ],
         "country": "CL"
+    },
+    {
+        "name": "MRTV NRC",
+        "id": "MRTVNRC.mm",
+        "logo": "https://i.imgur.com/5aLFslk.jpg",
+        "url": "https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "MM"
     },
     {
         "name": "DD Mizoram",
@@ -886,6 +885,16 @@
         "categories": [
             "culture",
             "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "DD Bharati",
+        "id": "DDBharati.in",
+        "logo": "https://dtil.tmsimg.com/assets/s142779_ld_h15_aa.png?lock=720x540",
+        "url": "https://cdn-1.pishow.tv/live/10/master.m3u8",
+        "categories": [
+            "culture"
         ],
         "country": "IN"
     },
@@ -957,6 +966,21 @@
         "url": "https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8",
         "categories": [
             "culture"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
         ],
         "country": "AR"
     },
