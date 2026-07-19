@@ -630,16 +630,6 @@
         "country": "GR"
     },
     {
-        "name": "Start TV",
-        "id": "StartTV.gr",
-        "logo": "https://i.ibb.co/4PrPG5j/Start-TV-Corfu-Radio-100-1-www-startmedia-gr-1.jpg",
-        "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "GR"
-    },
-    {
         "name": "Baraza TV",
         "id": "BarazaTV.gr",
         "logo": "https://i.imgur.com/TZ1unwF.png",
@@ -660,13 +650,21 @@
         "country": "GR"
     },
     {
-        "name": "ERT3",
-        "id": "ERT3.gr",
-        "logo": "https://i.imgur.com/f2l9bDR.png",
-        "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.m3u8",
+        "name": "Ellinikos FM",
+        "id": "EllinikosFM.gr",
+        "logo": "https://i.ibb.co/y0ydCNB/unnamed-4.png",
+        "url": "https://rtmp.win:3603/live/ellinikosfmlive.m3u8",
         "categories": [
-            "entertainment"
+            "music"
         ],
+        "country": "GR"
+    },
+    {
+        "name": "Faros TV2",
+        "id": "FarosTV2.gr",
+        "logo": "https://i.imgur.com/7xtz1Jo.png",
+        "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
+        "categories": [],
         "country": "GR"
     }
 ]
