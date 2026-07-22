@@ -964,16 +964,6 @@
         "country": "BR"
     },
     {
-        "name": "Canal Sete",
-        "id": "CanalSete.br",
-        "logo": "https://i.imgur.com/0cq0BPp.png",
-        "url": "http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Unisul TV",
         "id": "UnisulTV.br",
         "logo": "https://i.imgur.com/N0TvAFz.png",
@@ -1021,16 +1011,6 @@
         "url": "http://181.78.197.59:8000/play/a07n/index.m3u8",
         "categories": [
             "sports"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "SBT Interior",
-        "id": "SBTInterior.br",
-        "logo": "https://i.imgur.com/IkZfa4j.png",
-        "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
-        "categories": [
-            "general"
         ],
         "country": "BR"
     },
@@ -1820,33 +1800,6 @@
         "country": "BR"
     },
     {
-        "name": "TVE Bahia",
-        "id": "TVEBahia.br",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png",
-        "url": "http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-        "categories": [
-            "culture",
-            "education"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "TV Cultura",
-        "id": "TVCultura.br",
-        "logo": "https://i.ibb.co/nm0jXMM/cultura-3x.png",
-        "url": "https://jmp2.uk/plu-62e010e6cd663f0007e57dc8.m3u8",
-        "categories": [],
-        "country": "BR"
-    },
-    {
         "name": "KpopTV Play",
         "id": "KpopTVPlay.br",
         "logo": "https://i.imgur.com/Tf0vweF.png",
@@ -1990,32 +1943,98 @@
         "country": "BR"
     },
     {
-        "name": "Jovem Pan News",
-        "id": "JovemPanNews.br",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/960px-Jovem_Pan_logo_2018.svg.png",
-        "url": "https://jmp2.uk/plu-6317ba014d4d040007227f72.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "BR"
-    },
-    {
-        "name": "Rede Seculo 21",
-        "id": "RedeSeculo21.br",
-        "logo": "",
-        "url": "http://45.162.64.114/REDE_SECULO_21/index.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "TV Metropole",
         "id": "TVMetropole.br",
         "logo": "https://i.imgur.com/bJyjLpg.png",
         "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
         "categories": [
             "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "1001 Noites",
+        "id": "1001Noites.br",
+        "logo": "https://i.imgur.com/dWA9y2J.png",
+        "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
+        "categories": [
+            "shop"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Cultura Para",
+        "id": "CulturaPara.br",
+        "logo": "https://i.imgur.com/5jPEI5c.png",
+        "url": "http://170.84.165.204:80/CANAL_21_HD/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Futura",
+        "id": "Futura.br",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png",
+        "url": "http://170.83.49.66:8083/FUTURAHD/index.m3u8",
+        "categories": [
+            "education"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "Rede Familia",
+        "id": "RedeFamilia.br",
+        "logo": "https://i.imgur.com/7KVFCrQ.png",
+        "url": "http://168.197.104.22:80/REDE_FAMILIA/index.m3u8",
+        "categories": [],
+        "country": "BR"
+    },
+    {
+        "name": "Rede Seculo 21",
+        "id": "RedeSeculo21.br",
+        "logo": "",
+        "url": "http://138.255.2.6:8084/REDESECULO21/index.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "SporTV 3",
+        "id": "SporTV3.br",
+        "logo": "https://i.imgur.com/mWOR8pi.png",
+        "url": "http://170.83.49.66:8083/SPORTV3HD/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV Globo Sao Paulo",
+        "id": "TVGloboSaoPaulo.br",
+        "logo": "https://i.imgur.com/OoSUg78.png",
+        "url": "http://170.84.165.204:80/Globo_HD/index.m3u8",
+        "categories": [],
+        "country": "BR"
+    },
+    {
+        "name": "TV Profissao",
+        "id": "TVProfissao.br",
+        "logo": "https://i.imgur.com/c33suOT.png",
+        "url": "https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8",
+        "categories": [],
+        "country": "BR"
+    },
+    {
+        "name": "TV UFOP",
+        "id": "TVUFOP.br",
+        "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
+        "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+        "categories": [
+            "public",
+            "education",
+            "culture"
         ],
         "country": "BR"
     }
