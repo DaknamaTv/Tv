@@ -180,38 +180,6 @@
         "country": "CL"
     },
     {
-        "name": "EnerGeek",
-        "id": "EnerGeek.cl",
-        "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
-        "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
-        "categories": [
-            "animation"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "EnerGeek FAN",
-        "id": "EnerGeekFAN.cl",
-        "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
-        "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
-        "categories": [
-            "animation"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "PRIDEtv LATAM",
-        "id": "PRIDEtvLATAM.cl",
-        "logo": "https://neotv.cl/img/pridetv-512.png",
-        "url": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH",
-        "categories": [
-            "entertainment",
-            "lifestyle",
-            "music"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Vision Plus TV",
         "id": "VisionPlusTV.cl",
         "logo": "https://i.imgur.com/mpNcG5F.png",
@@ -447,16 +415,6 @@
         "country": "CL"
     },
     {
-        "name": "Nada Es Imposible TV",
-        "id": "NadaEsImposibleTV.cl",
-        "logo": "https://i.imgur.com/cGNgvOD.png",
-        "url": "https://vdochile.com:3194/live/mvqutymylive.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Nuevo Tiempo TV",
         "id": "NuevoTiempoTV.cl",
         "logo": "https://i.imgur.com/eCPzibM.png",
@@ -499,16 +457,6 @@
         "id": "SensacionCosta.cl",
         "logo": "https://i.imgur.com/oYQoWAB.png",
         "url": "https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CL"
-    },
-    {
-        "name": "EnerGeek Radio",
-        "id": "EnerGeekRadio.cl",
-        "logo": "https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png",
-        "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH",
         "categories": [
             "music"
         ],
@@ -948,14 +896,6 @@
         "categories": [
             "general"
         ],
-        "country": "CL"
-    },
-    {
-        "name": "TVM",
-        "id": "TVM.cl",
-        "logo": "https://i.imgur.com/9dwZoxz.png",
-        "url": "https://streams.kanade.cl/canaltvm/index.m3u8",
-        "categories": [],
         "country": "CL"
     },
     {
@@ -1485,14 +1425,6 @@
         "country": "CL"
     },
     {
-        "name": "Canal Latino 54",
-        "id": "CanalLatino54.cl",
-        "logo": "https://i.imgur.com/mKUQoX7.png",
-        "url": "https://videostream.chileservidores.com:8081/latina/index.m3u8",
-        "categories": [],
-        "country": "CL"
-    },
-    {
         "name": "Opinionsur",
         "id": "Opinionsur.cl",
         "logo": "https://i.imgur.com/4IjhXKm.png",
@@ -1620,14 +1552,6 @@
         "categories": [
             "religious"
         ],
-        "country": "CL"
-    },
-    {
-        "name": "Campo Abierto TV",
-        "id": "CampoAbiertoTV.cl",
-        "logo": "https://i.imgur.com/KL6pgaL.png",
-        "url": "https://v2.tustreaming.cl/catvlive/index.m3u8",
-        "categories": [],
         "country": "CL"
     },
     {
@@ -1917,16 +1841,6 @@
         "country": "CL"
     },
     {
-        "name": "Radio UC",
-        "id": "RadioUC.cl",
-        "logo": "https://cdn.m3u.cl/logo/1467_Radio_UC.png",
-        "url": "https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "13 Realities",
         "id": "13Realities.cl",
         "logo": "https://i.imgur.com/m0SuwMU.png",
@@ -2072,6 +1986,44 @@
         "categories": [
             "general"
         ],
+        "country": "CL"
+    },
+    {
+        "name": "ChileVision",
+        "id": "ChileVision.cl",
+        "logo": "https://i.imgur.com/PRijvR0.png",
+        "url": "http://15.204.246.24:8080/CHVHD/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Chiloe Red 25",
+        "id": "ChiloeRed25.cl",
+        "logo": "https://i.imgur.com/3tqrImm.png",
+        "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+        "categories": [
+            "culture"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "ISA TV",
+        "id": "ISATV.cl",
+        "logo": "https://i.imgur.com/24qGdyn.jpeg",
+        "url": "https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CL"
+    },
+    {
+        "name": "Radio Ritmo FM",
+        "id": "RadioRitmoFM.cl",
+        "logo": "https://i.imgur.com/qU3E0kX.png",
+        "url": "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8",
+        "categories": [],
         "country": "CL"
     }
 ]
