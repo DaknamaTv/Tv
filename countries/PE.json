@@ -184,14 +184,6 @@
         "country": "PE"
     },
     {
-        "name": "SolTV",
-        "id": "SolTV.pe",
-        "logo": "https://i.imgur.com/GtNkuAc.png",
-        "url": "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8",
-        "categories": [],
-        "country": "PE"
-    },
-    {
         "name": "USMPTV",
         "id": "USMPTV.pe",
         "logo": "https://i.imgur.com/9cmIv3q.png",
@@ -798,26 +790,6 @@
         "country": "PE"
     },
     {
-        "name": "Canal N",
-        "id": "CanalN.pe",
-        "logo": "https://i.imgur.com/Xytvw3J.png",
-        "url": "http://8.243.126.131:8000/play/a058/index.m3u8",
-        "categories": [
-            "news"
-        ],
-        "country": "PE"
-    },
-    {
-        "name": "La Tele",
-        "id": "LaTele.pe",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
-        "url": "http://8.243.126.131:8000/play/a01v/index.m3u8",
-        "categories": [
-            "entertainment"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Vision",
         "id": "Vision.pe",
         "logo": "https://i.imgur.com/gyuoNZk.png",
@@ -1112,6 +1084,34 @@
         "id": "TVenLinea.pe",
         "logo": "https://i.imgur.com/txV8lw0.png",
         "url": "https://srt.tvdatta.com/tvenlinea/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Latina Podcast",
+        "id": "LatinaPodcast.pe",
+        "logo": "https://assets.rudo.video/assets/latina/live/backgroundApi_347d1f0b8f6b597bc08abeb60c975c471769447202.png",
+        "url": "https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "SolTV",
+        "id": "SolTV.pe",
+        "logo": "https://i.imgur.com/GtNkuAc.png",
+        "url": "https://live20.bozztv.com/giatv/giatv-soltvenvivo/soltvenvivo/chunks.m3u8",
+        "categories": [],
+        "country": "PE"
+    },
+    {
+        "name": "Wayra TV",
+        "id": "WayraTV.pe",
+        "logo": "https://i.imgur.com/eQLRVFp.png",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8",
         "categories": [
             "general"
         ],
