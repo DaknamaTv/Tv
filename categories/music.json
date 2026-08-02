@@ -120,6 +120,16 @@
         "country": "DO"
     },
     {
+        "name": "La Voz del Tropico",
+        "id": "LaVozdelTropico.do",
+        "logo": "https://i.imgur.com/DKDFpHt.png",
+        "url": "https://ss2.tvrdomi.com:1936/lavozdeltropico/lavozdeltropico/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "DO"
+    },
+    {
         "name": "AMusic Channel",
         "id": "AMusicChannel.ng",
         "logo": "https://i.imgur.com/06zuf64.png",
@@ -734,16 +744,6 @@
         "country": "CL"
     },
     {
-        "name": "Sabor TV",
-        "id": "SaborTV.cl",
-        "logo": "https://cdn.m3u.cl/logo/416_Sabor_TV.png",
-        "url": "https://v1.tustreaming.cl/sabortv/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CL"
-    },
-    {
         "name": "Ruidos FM",
         "id": "RuidosFM.cl",
         "logo": "https://i.imgur.com/avIcT83.png",
@@ -1037,16 +1037,6 @@
         "country": "CA"
     },
     {
-        "name": "Stingray Naturescape",
-        "id": "StingrayNaturescape.ca",
-        "logo": "https://i.imgur.com/882kd90.png",
-        "url": "https://jmp2.uk/plu-5812bd9f249444e05d09cc4e.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CA"
-    },
-    {
         "name": "Stingray Cityscapes",
         "id": "StingrayCityscapes.ca",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlXPCl4ze9lr2DnadYazKxuyyEEWmgO1O1Q&s",
@@ -1061,16 +1051,6 @@
         "id": "StingrayCozyCafe.ca",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-PtqqxxfI0SgHcNO5YJqxdufqnVtPFwpDvQ&s",
         "url": "https://aka-live1050.delivery.roku.com/372c813e-1fb9-41d4-a4d0-5fbd803659c5/t2-origin/out/v1/live.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "CA"
-    },
-    {
-        "name": "Stingray DJAZZ",
-        "id": "StingrayDJAZZ.ca",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/960px-Stingray_Djazz.png",
-        "url": "https://jmp2.uk/plu-696689d13b9ce349c9be3a18.m3u8",
         "categories": [
             "music"
         ],
@@ -1387,12 +1367,17 @@
         "country": "AR"
     },
     {
-        "name": "Cumbia Mix",
-        "id": "CumbiaMix.ar",
-        "logo": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6901dfd41a05195b77301d7b/b306e57e4_Logo-TV-C.png",
-        "url": "https://cloud.tvomix.com/CUMBIAMIX/index.m3u8",
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
         "categories": [
-            "music"
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
         ],
         "country": "AR"
     },
@@ -1561,16 +1546,6 @@
         "id": "AfrobeatTVEntertainment.uk",
         "logo": "https://i.imgur.com/232ndRK.png",
         "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "UK"
-    },
-    {
-        "name": "That's 80s",
-        "id": "Thats80s.uk",
-        "logo": "",
-        "url": "https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8",
         "categories": [
             "music"
         ],
@@ -2362,6 +2337,16 @@
         "country": "DE"
     },
     {
+        "name": "Deluxe Dance",
+        "id": "DeluxeDance.de",
+        "logo": "https://i.imgur.com/Qu7t15Y.png",
+        "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "DE"
+    },
+    {
         "name": "Scorch TV",
         "id": "ScorchTV.tt",
         "logo": "https://i.imgur.com/CNszwj1.png",
@@ -2493,16 +2478,6 @@
         "country": "ES"
     },
     {
-        "name": "TVOMIX",
-        "id": "TVOMIX.es",
-        "logo": "https://ugc.production.linktr.ee/7ef61237-c46d-456b-afe3-a42ef49a979e_Mejorado2.png",
-        "url": "https://cloud.tvomix.com/TVOMIX/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "ES"
-    },
-    {
         "name": "Cadena Elite",
         "id": "CadenaElite.es",
         "logo": "https://i.imgur.com/3yeGDTP.png",
@@ -2620,26 +2595,6 @@
         "id": "RadioSanCristobal887FM.py",
         "logo": "https://i.imgur.com/zaJhBdj.png",
         "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "Dismar Radio TV",
-        "id": "DismarRadioTV.py",
-        "logo": "https://i.imgur.com/KOuxdMD.png",
-        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "PY"
-    },
-    {
-        "name": "HEi Now",
-        "id": "HEiNow.py",
-        "logo": "https://i.imgur.com/oMHiGRN.png",
-        "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "categories": [
             "music"
         ],
@@ -3652,16 +3607,6 @@
         "country": "VE"
     },
     {
-        "name": "KandelaTV",
-        "id": "KandelaTV.ve",
-        "logo": "https://i.imgur.com/cCFxyIp.jpg",
-        "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "LaPuraCrema Television",
         "id": "LaPuraCremaTelevision.ve",
         "logo": "https://i.imgur.com/EJf1eRt.png",
@@ -4194,36 +4139,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Karaoke por Stingray",
-        "id": "PlutoTVKaraokeporStingray.us",
-        "logo": "https://i.imgur.com/rWpLepJ.png",
-        "url": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "Classica",
-        "id": "Classica.us",
-        "logo": "https://i.imgur.com/bLjmQTU.png",
-        "url": "https://jmp2.uk/plu-5f779951372da90007fd45e8.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "MTV Biggest Pop",
-        "id": "MTVBiggestPop.us",
-        "logo": "https://i.imgur.com/AOaZmlS.png",
-        "url": "https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "HMI PROMZ NEWS",
         "id": "HMIPROMZNEWS.us",
         "logo": "https://i.imgur.com/gwPaw3v.png",
@@ -4266,10 +4181,10 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Shows por Stingray",
-        "id": "PlutoTVShowsporStingray.us",
-        "logo": "https://i.imgur.com/TrG7Y84.png",
-        "url": "https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8",
+        "name": "BPX TV Radio",
+        "id": "BPXTVRadio.us",
+        "logo": "https://i.imgur.com/86VXni8.jpeg",
+        "url": "https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -4804,6 +4719,16 @@
         "id": "ZBMusic.in",
         "logo": "https://i.imgur.com/k1nb8u1.jpeg",
         "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Kalika TV",
+        "id": "KalikaTV.in",
+        "logo": "https://i.imgur.com/XWXFoJA.png",
+        "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
         "categories": [
             "music"
         ],
