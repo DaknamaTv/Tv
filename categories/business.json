@@ -187,6 +187,16 @@
         "country": "ES"
     },
     {
+        "name": "Canal Pro",
+        "id": "CanalPro.py",
+        "logo": "https://i.imgur.com/ah8n7jL.png",
+        "url": "https://www.desde-paraguay.com/pro.m3u8",
+        "categories": [
+            "business"
+        ],
+        "country": "PY"
+    },
+    {
         "name": "Class CNBC",
         "id": "ClassCNBC.it",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Class_CNBC_2026.svg",
@@ -317,36 +327,6 @@
         "country": "US"
     },
     {
-        "name": "Fox Business Network",
-        "id": "FoxBusinessNetwork.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png",
-        "url": "http://206.212.244.63/66/index.m3u8",
-        "categories": [
-            "business"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "CNBC",
-        "id": "CNBC.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
-        "url": "http://206.212.244.63/41/index.m3u8",
-        "categories": [
-            "business"
-        ],
-        "country": "US"
-    },
-    {
-        "name": "CNBC World",
-        "id": "CNBCWorld.us",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ee/CNBC_World_2025.svg",
-        "url": "http://206.212.244.63/42/index.m3u8",
-        "categories": [
-            "business"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Business Rockstars",
         "id": "BusinessRockstars.us",
         "logo": "https://i.imgur.com/vfAMWLJ.png",
@@ -361,6 +341,36 @@
         "id": "CheddarBusiness.us",
         "logo": "https://dn721901.ca.archive.org/0/items/cheddar-business/cheddar%20business.png",
         "url": "https://gpuserver3.tier1streams.com/CHEDDAR_BUSINESS/index.m3u8",
+        "categories": [
+            "business"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CNBC",
+        "id": "CNBC.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/CNBC_2025.svg",
+        "url": "https://gpuserver3.tier1streams.com/CNBC/index.m3u8",
+        "categories": [
+            "business"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "CNBC World",
+        "id": "CNBCWorld.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ee/CNBC_World_2025.svg",
+        "url": "https://gpuserver3.tier1streams.com/CNBC_WORLD/index.m3u8",
+        "categories": [
+            "business"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Fox Business Network",
+        "id": "FoxBusinessNetwork.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png",
+        "url": "https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8",
         "categories": [
             "business"
         ],

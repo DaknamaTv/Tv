@@ -324,14 +324,6 @@
         "country": "ID"
     },
     {
-        "name": "U Channel",
-        "id": "UChannel.id",
-        "logo": "https://i.imgur.com/qxkb0cy.png",
-        "url": "https://srs.u-channel.tv/live/uchannel-tv.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Al-Bahjah TV",
         "id": "AlBahjahTV.id",
         "logo": "https://i.imgur.com/52dlDZk.png",
@@ -534,14 +526,6 @@
         "country": "ID"
     },
     {
-        "name": "Radar Lampung TV",
-        "id": "RadarLampungTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png",
-        "url": "https://www.streaming.radartv.co.id/hls/test.m3u8",
-        "categories": [],
-        "country": "ID"
-    },
-    {
         "name": "Banjar TV",
         "id": "BanjarTV.id",
         "logo": "https://i.imgur.com/TA76a10.png",
@@ -602,16 +586,6 @@
         "country": "ID"
     },
     {
-        "name": "Al-Iman TV",
-        "id": "AlImanTV.id",
-        "logo": "https://i.imgur.com/Qj1EFf1.png",
-        "url": "https://tv.aliman.id/aliman/live.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "dTVi",
         "id": "dTVi.id",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_DTVI.png",
@@ -629,14 +603,6 @@
         "categories": [
             "legislative"
         ],
-        "country": "ID"
-    },
-    {
-        "name": "Sangaji TV",
-        "id": "SangajiTV.id",
-        "logo": "https://i.imgur.com/4rTNT8F.png",
-        "url": "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8",
-        "categories": [],
         "country": "ID"
     },
     {
@@ -732,16 +698,6 @@
         "country": "ID"
     },
     {
-        "name": "Fajar TV",
-        "id": "FajarTV.id",
-        "logo": "https://i.imgur.com/mkuXxRK.png",
-        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "ID"
-    },
-    {
         "name": "Izzah TV",
         "id": "IzzahTV.id",
         "logo": "https://i.imgur.com/my7aqLc.png",
@@ -752,28 +708,70 @@
         "country": "ID"
     },
     {
-        "name": "Sampit TV",
-        "id": "SampitTV.id",
-        "logo": "https://i.imgur.com/8cFJa8G.png",
-        "url": "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
+        "name": "Timor TV",
+        "id": "TimorTV.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png",
+        "url": "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8",
+        "categories": [],
+        "country": "ID"
+    },
+    {
+        "name": "Dhoho TV",
+        "id": "DhohoTV.id",
+        "logo": "https://i.imgur.com/4Khyyfh.png",
+        "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
         "categories": [
             "general"
         ],
         "country": "ID"
     },
     {
-        "name": "Sultra TV",
-        "id": "SultraTV.id",
-        "logo": "https://i.imgur.com/cmpbNJz.png",
-        "url": "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
-        "categories": [],
+        "name": "Ficom Channel",
+        "id": "FicomChannel.id",
+        "logo": "",
+        "url": "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
+        "categories": [
+            "entertainment"
+        ],
         "country": "ID"
     },
     {
-        "name": "Timor TV",
-        "id": "TimorTV.id",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png",
-        "url": "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8",
+        "name": "Jogja TV",
+        "id": "JogjaTV.id",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png",
+        "url": "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Lingkar TV",
+        "id": "LingkarTV.id",
+        "logo": "https://lingkartv.com/assets/img/logo-square.png",
+        "url": "https://lingkartv.my.id/hls/lingkartv.m3u8",
+        "categories": [
+            "news",
+            "music",
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Madu TV",
+        "id": "MaduTV.id",
+        "logo": "https://i.imgur.com/cKpgbgW.png",
+        "url": "https://re1.siar.us/madutv/hd720/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "SMTV",
+        "id": "SMTV.id",
+        "logo": "https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png",
+        "url": "https://e.siar.us/live/smtv.m3u8",
         "categories": [],
         "country": "ID"
     }
