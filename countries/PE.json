@@ -914,16 +914,6 @@
         "country": "PE"
     },
     {
-        "name": "TV MAR",
-        "id": "TVMAR.pe",
-        "logo": "https://i.imgur.com/VXvbNjT.png",
-        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Foro TV",
         "id": "ForoTV.pe",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw&s",
@@ -1000,16 +990,6 @@
         "country": "PE"
     },
     {
-        "name": "Amazonica TV",
-        "id": "AmazonicaTV.pe",
-        "logo": "https://i.imgur.com/22ebHAX.jpeg",
-        "url": "https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8",
-        "categories": [
-            "general"
-        ],
-        "country": "PE"
-    },
-    {
         "name": "Huacho Peru TV",
         "id": "HuachoPeruTV.pe",
         "logo": "https://i.imgur.com/PevmfqK.png",
@@ -1050,21 +1030,73 @@
         "country": "PE"
     },
     {
-        "name": "Latina Podcast",
-        "id": "LatinaPodcast.pe",
-        "logo": "https://assets.rudo.video/assets/latina/live/backgroundApi_347d1f0b8f6b597bc08abeb60c975c471769447202.png",
-        "url": "https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8",
+        "name": "ATV Sur",
+        "id": "ATVSur.pe",
+        "logo": "https://i.imgur.com/LnyVa5H.png",
+        "url": "http://190.93.224.42/ATV-SUR/index.m3u8",
         "categories": [
             "general"
         ],
         "country": "PE"
     },
     {
-        "name": "SelvaTV",
-        "id": "SelvaTV.pe",
-        "logo": "https://i.imgur.com/CVgix1C.png",
-        "url": "https://videoserver.tmcreativos.com:19360/selvatv/selvatv.m3u8",
-        "categories": [],
+        "name": "Congreso TV",
+        "id": "CongresoTV.pe",
+        "logo": "https://i.imgur.com/r0foZ5t.png",
+        "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/canalelcongreso.stream/playlist.m3u8",
+        "categories": [
+            "legislative"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Galactica TV",
+        "id": "GalacticaTV.pe",
+        "logo": "https://i.imgur.com/byL1zCV.jpeg",
+        "url": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Justicia TV",
+        "id": "JusticiaTV.pe",
+        "logo": "https://i.imgur.com/VOjLXJd.png",
+        "url": "http://190.93.224.42/JUSTICIA-TV/index.m3u8",
+        "categories": [
+            "legislative"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Kora TV",
+        "id": "KoraTV.pe",
+        "logo": "https://i.imgur.com/ahBYv4x.png",
+        "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
+        "categories": [
+            "entertainment"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "L1 Max",
+        "id": "L1Max.pe",
+        "logo": "https://i.imgur.com/2fziU2B.png",
+        "url": "http://190.93.224.42/LIGA-1-MAX/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "PE"
+    },
+    {
+        "name": "Uchu TV",
+        "id": "UchuTV.pe",
+        "logo": "https://i.imgur.com/xYGkUR9.png",
+        "url": "https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8",
+        "categories": [
+            "general"
+        ],
         "country": "PE"
     }
 ]
