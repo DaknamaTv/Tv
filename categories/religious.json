@@ -210,16 +210,6 @@
         "country": "NG"
     },
     {
-        "name": "LoveworldSAT",
-        "id": "LoveworldSAT.ng",
-        "logo": "https://i.imgur.com/Fg65XCS.png",
-        "url": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "NG"
-    },
-    {
         "name": "Approval TV",
         "id": "ApprovalTV.ng",
         "logo": "https://storage.approvaltv.com/2026/03/approvallogo.png",
@@ -269,16 +259,6 @@
             "religious"
         ],
         "country": "BO"
-    },
-    {
-        "name": "Sangkem TV",
-        "id": "SangkemTV.kh",
-        "logo": "https://i.imgur.com/728fAcC.png",
-        "url": "https://live.sangkemtv.com/memfs/sangkem.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "KH"
     },
     {
         "name": "Shalom TV",
@@ -712,6 +692,16 @@
         "country": "JO"
     },
     {
+        "name": "Divya Darshan TV",
+        "id": "DivyaDarshanTV.np",
+        "logo": "https://i.imgur.com/EwDQ12F.png",
+        "url": "http://live.divyadarshantv.com/hls/stream.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "NP"
+    },
+    {
         "name": "Nesiha TV",
         "id": "NesihaTV.et",
         "logo": "https://i.imgur.com/rqEyzjE.png",
@@ -943,6 +933,16 @@
         "country": "CH"
     },
     {
+        "name": "Sivan TV",
+        "id": "SivanTV.ch",
+        "logo": "https://i.ibb.co/b3HG9wm/Logo-site.png",
+        "url": "http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "CH"
+    },
+    {
         "name": "Guadalupe Media",
         "id": "GuadalupeMedia.bz",
         "logo": "https://i.imgur.com/EfaOwRE.png",
@@ -1019,6 +1019,16 @@
         "id": "TVManaArgentina.ar",
         "logo": "https://i.imgur.com/jars0mP.png",
         "url": "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "Canal 13 Jujuy",
+        "id": "Canal13Jujuy.ar",
+        "logo": "https://i.imgur.com/lmKLiJ3.jpg",
+        "url": "https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8",
         "categories": [
             "religious"
         ],
@@ -1159,16 +1169,6 @@
         "id": "KanshiTV.uk",
         "logo": "https://i.imgur.com/w6uXMrK.png",
         "url": "https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "UK"
-    },
-    {
-        "name": "GOD TV",
-        "id": "GODTV.uk",
-        "logo": "https://i.imgur.com/hW4g2oe.png",
-        "url": "https://d1msejlow1t3l4.cloudfront.net/211125/godtv/chunks.m3u8",
         "categories": [
             "religious"
         ],
@@ -1407,10 +1407,20 @@
         "country": "ID"
     },
     {
-        "name": "Fajar TV",
-        "id": "FajarTV.id",
-        "logo": "https://i.imgur.com/mkuXxRK.png",
-        "url": "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+        "name": "Al-Bahjah TV",
+        "id": "AlBahjahTV.id",
+        "logo": "https://i.imgur.com/52dlDZk.png",
+        "url": "http://202.150.161.117:8000/play/AlBahjahTV",
+        "categories": [
+            "religious"
+        ],
+        "country": "ID"
+    },
+    {
+        "name": "Nabawi TV",
+        "id": "NabawiTV.id",
+        "logo": "https://i.imgur.com/O8WONFB.png",
+        "url": "http://202.150.161.117:8000/play/NabawiTV",
         "categories": [
             "religious"
         ],
@@ -1582,6 +1592,16 @@
         "id": "ParaisoTV.pr",
         "logo": "https://i.imgur.com/wE31GIP.jpg",
         "url": "https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "PR"
+    },
+    {
+        "name": "Familia Vision HD",
+        "id": "FamiliaVisionHD.pr",
+        "logo": "https://i.imgur.com/uqTH7m5.jpg",
+        "url": "https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -1788,16 +1808,6 @@
             "religious"
         ],
         "country": "RU"
-    },
-    {
-        "name": "Esaie 45 Tele",
-        "id": "Esaie45Tele.cg",
-        "logo": "https://i.imgur.com/nc9QBnD.png",
-        "url": "https://stream.berosat.live/hls/esaie45-tv/esaie45-tv.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "CG"
     },
     {
         "name": "Tele Louange",
@@ -3000,16 +3010,6 @@
         "id": "EWTNUkraine.ua",
         "logo": "",
         "url": "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "UA"
-    },
-    {
-        "name": "Glas",
-        "id": "Glas.ua",
-        "logo": "https://i.imgur.com/l5FEP9w.png",
-        "url": "http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8",
         "categories": [
             "religious"
         ],
@@ -4375,6 +4375,16 @@
         "country": "US"
     },
     {
+        "name": "Mohabat TV",
+        "id": "MohabatTV.us",
+        "logo": "https://i.imgur.com/tucTC1O.jpg",
+        "url": "http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "US"
+    },
+    {
         "name": "CGNTV Japan",
         "id": "CGNTVJapan.jp",
         "logo": "https://i.imgur.com/5LNZeVq.png",
@@ -4399,16 +4409,6 @@
         "id": "AasthaKannada.in",
         "logo": "https://dtil.tmsimg.com/assets/s158134_ld_h15_aa.png?lock=720x540",
         "url": "https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Ishwar Bhakti TV",
-        "id": "IshwarBhaktiTV.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143213_ld_h9_aa.png?lock=720x540",
-        "url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -4519,16 +4519,6 @@
         "id": "JoyTV.in",
         "logo": "https://joytvchennai.org/wp-content/uploads/2026/04/cropped-512.png",
         "url": "https://ktismaservers.in:3412/live/joytvlive.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "IN"
-    },
-    {
-        "name": "Sadhna",
-        "id": "Sadhna.in",
-        "logo": "https://i.imgur.com/x13iiuI.png",
-        "url": "https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8",
         "categories": [
             "religious"
         ],
@@ -5017,6 +5007,16 @@
         "country": "IN"
     },
     {
+        "name": "Ishwar Bhakti TV",
+        "id": "IshwarBhaktiTV.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143213_ld_h9_aa.png?lock=720x540",
+        "url": "https://cdn-2.pishow.tv/live/1464/master.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IN"
+    },
+    {
         "name": "Exodus TV",
         "id": "ExodusTV.si",
         "logo": "https://i.imgur.com/WKr5ncQ.png",
@@ -5298,6 +5298,16 @@
         "country": "IR"
     },
     {
+        "name": "Mohabat TV",
+        "id": "MohabatTV.ir",
+        "logo": "https://i.imgur.com/Ig0SPev.png",
+        "url": "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+        "categories": [
+            "religious"
+        ],
+        "country": "IR"
+    },
+    {
         "name": "Boonniyom TV",
         "id": "BoonniyomTV.th",
         "logo": "https://i.imgur.com/KvdFCD5.png",
@@ -5446,16 +5456,6 @@
             "religious"
         ],
         "country": "HU"
-    },
-    {
-        "name": "ADB TV",
-        "id": "ADBTV.pt",
-        "logo": "https://i.ibb.co/HGfTJwt/ADBTV.jpg",
-        "url": "https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8",
-        "categories": [
-            "religious"
-        ],
-        "country": "PT"
     },
     {
         "name": "Kuriakos Kids",
