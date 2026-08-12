@@ -390,6 +390,16 @@
         "country": "AR"
     },
     {
+        "name": "Fox Sports",
+        "id": "FoxSports.ar",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+        "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/78.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "AR"
+    },
+    {
         "name": "We Sport TV",
         "id": "WeSportTV.md",
         "logo": "https://i.imgur.com/vJZgpOb.png",
@@ -762,16 +772,6 @@
         "country": "DE"
     },
     {
-        "name": "Pluto TV Snooker 900",
-        "id": "PlutoTVSnooker900.de",
-        "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
-        "url": "https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "DE"
-    },
-    {
         "name": "Sky Sport Top Event",
         "id": "SkySportTopEvent.de",
         "logo": "https://i.imgur.com/kQ6cVNx.png",
@@ -1023,16 +1023,6 @@
         "country": "IT"
     },
     {
-        "name": "Al Iraqia Sport",
-        "id": "AlIraqiaSport.iq",
-        "logo": "https://i.imgur.com/DrrlxTO.png",
-        "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "IQ"
-    },
-    {
         "name": "CazeTV",
         "id": "CazeTV.br",
         "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",
@@ -1252,6 +1242,16 @@
             "sports"
         ],
         "country": "TM"
+    },
+    {
+        "name": "Multivision Sports",
+        "id": "MultivisionSports.gt",
+        "logo": "https://i.imgur.com/wLjSSo2.jpg",
+        "url": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "GT"
     },
     {
         "name": "Suspilne. Sport",
@@ -1474,6 +1474,16 @@
         "country": "VE"
     },
     {
+        "name": "Meridiano TV",
+        "id": "MeridianoTV.ve",
+        "logo": "https://i.imgur.com/I6gsUqD.png",
+        "url": "http://181.78.8.199:8000/play/a0fr/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "VE"
+    },
+    {
         "name": "ATG Live",
         "id": "ATGLive.se",
         "logo": "https://i.imgur.com/bPWFXkL.png",
@@ -1498,16 +1508,6 @@
         "id": "PlutoTVSnooker900.se",
         "logo": "https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png",
         "url": "https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8",
-        "categories": [
-            "sports"
-        ],
-        "country": "SE"
-    },
-    {
-        "name": "Pluto TV Sport",
-        "id": "PlutoTVSport.se",
-        "logo": "https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png",
-        "url": "https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8",
         "categories": [
             "sports"
         ],
@@ -2222,10 +2222,40 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV E-Sports",
-        "id": "PlutoTVESports.us",
-        "logo": "https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png",
-        "url": "https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8",
+        "name": "ESPNU",
+        "id": "ESPNU.us",
+        "logo": "https://i.imgur.com/HiBrysh.png",
+        "url": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "MSG",
+        "id": "MSG.us",
+        "logo": "https://i.imgur.com/SEQFh0P.png",
+        "url": "http://23.237.104.106:8080/USA_MSG/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "NFL Network",
+        "id": "NFLNetwork.us",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png",
+        "url": "http://40.160.24.53/NFL_Network/index.m3u8",
+        "categories": [
+            "sports"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "PokerGo",
+        "id": "PokerGo.us",
+        "logo": "https://i.imgur.com/1603HED.png",
+        "url": "https://jmp2.uk/plu-5fc54366b04b2300072e31af.m3u8",
         "categories": [
             "sports"
         ],
@@ -2441,6 +2471,16 @@
         "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
         "categories": [
             "news",
+            "sports"
+        ],
+        "country": "FR"
+    },
+    {
+        "name": "Canal+ Sport 360",
+        "id": "CanalPlusSport360.fr",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png",
+        "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/14.m3u8",
+        "categories": [
             "sports"
         ],
         "country": "FR"

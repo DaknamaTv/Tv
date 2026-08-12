@@ -100,16 +100,6 @@
         "country": "DO"
     },
     {
-        "name": "TV Exitos",
-        "id": "TVExitos.do",
-        "logo": "https://i.imgur.com/ahz7X7u.png",
-        "url": "https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DO"
-    },
-    {
         "name": "Tele Dominicana TV",
         "id": "TeleDominicanaTV.do",
         "logo": "https://dominicanchannels.com/wp-content/uploads/teledominicana.png",
@@ -1077,14 +1067,24 @@
         "country": "CA"
     },
     {
-        "name": "Melody FM",
-        "id": "MelodyFM.jo",
-        "logo": "https://i.imgur.com/J8omcNz.png",
-        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
+        "name": "Stingray Greatest Hits",
+        "id": "StingrayGreatestHits.ca",
+        "logo": "",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
         "categories": [
             "music"
         ],
-        "country": "JO"
+        "country": "CA"
+    },
+    {
+        "name": "Stingray Remember the 80s",
+        "id": "StingrayRememberthe80s.ca",
+        "logo": "https://i.imgur.com/duwc8E8.png",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/68cc5f97-cf6c-4ff7-9125-f56f272dbcb6/1.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CA"
     },
     {
         "name": "NH BollyRaga",
@@ -2166,6 +2166,36 @@
         "country": "RU"
     },
     {
+        "name": "Muzyka Live",
+        "id": "MuzykaLive.ru",
+        "logo": "https://cdn2.red-media.ru/wp-content/uploads/2016/08/LOGO_MUSIC_LIVE.png",
+        "url": "http://stream.mcquack.net/303/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Muzyka Pervogo",
+        "id": "MuzykaPervogo.ru",
+        "logo": "https://i.imgur.com/U0vKj3P.png",
+        "url": "https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
+        "name": "Shanson TV",
+        "id": "ShansonTV.ru",
+        "logo": "https://i.imgur.com/Fk4sd8t.png",
+        "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "RU"
+    },
+    {
         "name": "Sky Folk TV",
         "id": "SkyFolkTV.mk",
         "logo": "https://i.imgur.com/ya5xpUL.png",
@@ -2410,16 +2440,6 @@
         "id": "ZweiMusicTelevision.de",
         "logo": "https://i.imgur.com/RbdpCNf.png",
         "url": "https://zweiapp.b-cdn.net/1080p/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "DE"
-    },
-    {
-        "name": "Deluxe Lounge",
-        "id": "DeluxeLounge.de",
-        "logo": "https://i.imgur.com/pgCA35z.png",
-        "url": "https://jmp2.uk/stvp-CHAJ0500413A",
         "categories": [
             "music"
         ],
@@ -3433,16 +3453,6 @@
         "country": "ZA"
     },
     {
-        "name": "Muzvar",
-        "id": "Muzvar.ua",
-        "logo": "https://i.imgur.com/Klu5k9U.png",
-        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "UA"
-    },
-    {
         "name": "EU Music",
         "id": "EUMusic.ua",
         "logo": "https://i.imgur.com/fJdvyrG.png",
@@ -3521,6 +3531,26 @@
             "music"
         ],
         "country": "UA"
+    },
+    {
+        "name": "Folk Klub TV",
+        "id": "FolkKlubTV.au",
+        "logo": "https://i.imgur.com/Seq7Od7.png",
+        "url": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AU"
+    },
+    {
+        "name": "INTV Australia",
+        "id": "INTVAustralia.au",
+        "logo": "https://i.imgur.com/1nJl0Pv.png",
+        "url": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AU"
     },
     {
         "name": "Star 101 FM",
@@ -3699,6 +3729,16 @@
         "id": "BIZMusic.uz",
         "logo": "https://i.ibb.co/DfsCJwk/Uz-biz-music-5462.jpg",
         "url": "https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "UZ"
+    },
+    {
+        "name": "Muz TV Uzbekistan",
+        "id": "MuzTVUzbekistan.uz",
+        "logo": "https://s8.vcdn.biz/static/f/6010782281/image.jpg",
+        "url": "https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8",
         "categories": [
             "music"
         ],
@@ -4300,16 +4340,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Karaoke por Stingray",
-        "id": "PlutoTVKaraokeporStingray.us",
-        "logo": "https://i.imgur.com/rWpLepJ.png",
-        "url": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Pluto TV Shows por Stingray",
         "id": "PlutoTVShowsporStingray.us",
         "logo": "https://i.imgur.com/TrG7Y84.png",
@@ -4477,16 +4507,6 @@
         "categories": [
             "music",
             "entertainment"
-        ],
-        "country": "NL"
-    },
-    {
-        "name": "Gigant FM",
-        "id": "GigantFM.nl",
-        "logo": "https://i.imgur.com/LwEHfjD.png",
-        "url": "https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8",
-        "categories": [
-            "music"
         ],
         "country": "NL"
     },
@@ -4743,16 +4763,6 @@
         "country": "IN"
     },
     {
-        "name": "Raj Musix Tamil",
-        "id": "RajMusixTamil.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143707_ld_h15_aa.png?lock=720x540",
-        "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "IN"
-    },
-    {
         "name": "7S Music",
         "id": "7SMusic.in",
         "logo": "https://i.imgur.com/zDiIhdN.png",
@@ -4878,6 +4888,36 @@
         "id": "ZBMusic.in",
         "logo": "https://i.imgur.com/k1nb8u1.jpeg",
         "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Balle Balle",
+        "id": "BalleBalle.in",
+        "logo": "https://i.imgur.com/oxkkWH5.png",
+        "url": "https://cdn-4.pishow.tv/live/987/master.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Punjabi Hits",
+        "id": "PunjabiHits.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540",
+        "url": "https://stream.ottlive.co.in/punjabihits/index.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "IN"
+    },
+    {
+        "name": "Tabbar Hits",
+        "id": "TabbarHits.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png?lock=720x540",
+        "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8",
         "categories": [
             "music"
         ],
@@ -5444,6 +5484,17 @@
         "url": "https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8",
         "categories": [
             "music"
+        ],
+        "country": "CR"
+    },
+    {
+        "name": "Gex TV",
+        "id": "GexTV.cr",
+        "logo": "https://gextv.com/LOGO-WHITE.png",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8",
+        "categories": [
+            "music",
+            "entertainment"
         ],
         "country": "CR"
     },
