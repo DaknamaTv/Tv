@@ -81,6 +81,16 @@
         "country": "AT"
     },
     {
+        "name": "BOKTV",
+        "id": "BOKTV.za",
+        "logo": "https://i.imgur.com/mcNjuuO.png",
+        "url": "https://livestream2.bokradio.co.za/hls/Bok5c.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "ZA"
+    },
+    {
         "name": "Tiankov Folk",
         "id": "TiankovFolk.bg",
         "logo": "https://i.imgur.com/VKY4q64.png",
@@ -145,26 +155,6 @@
         "id": "TVRodina.bg",
         "logo": "",
         "url": "https://shift03.isp.bg/RodinaTV/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BG"
-    },
-    {
-        "name": "BOX TV",
-        "id": "BOXTV.bg",
-        "logo": "https://i.imgur.com/swFzesA.png",
-        "url": "http://213.91.179.28:8000/play/a0an",
-        "categories": [
-            "music"
-        ],
-        "country": "BG"
-    },
-    {
-        "name": "Hit Mix Music",
-        "id": "HitMixMusic.bg",
-        "logo": "https://i.imgur.com/Gbaxq6P.png",
-        "url": "http://213.91.179.28:8000/play/a0cl",
         "categories": [
             "music"
         ],
@@ -1237,16 +1227,6 @@
         "country": "US"
     },
     {
-        "name": "Pluto TV Shows por Stingray",
-        "id": "PlutoTVShowsporStingray.us",
-        "logo": "https://i.imgur.com/TrG7Y84.png",
-        "url": "https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Vevo True School Hip-Hop",
         "id": "VevoTrueSchoolHipHop.us",
         "logo": "https://i.imgur.com/owUXUih.png",
@@ -1371,6 +1351,31 @@
         "id": "RadioConexionWebTV.ar",
         "logo": "https://i.imgur.com/pXS38zo.png",
         "url": "https://tuvideoonline.com.ar:3391/live/radioconexionlive.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "AlternaTV",
+        "id": "AlternaTV.ar",
+        "logo": "https://tv.alterna.ar/alternatv.png",
+        "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+        "categories": [
+            "music",
+            "culture",
+            "entertainment",
+            "documentary",
+            "movies",
+            "general"
+        ],
+        "country": "AR"
+    },
+    {
+        "name": "X Level Media",
+        "id": "XLevelMedia.ar",
+        "logo": "https://i.imgur.com/BGwQdQW.jpeg",
+        "url": "https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8",
         "categories": [
             "music"
         ],
@@ -2082,16 +2087,6 @@
         "country": "VE"
     },
     {
-        "name": "LaPuraCrema Television",
-        "id": "LaPuraCremaTelevision.ve",
-        "logo": "https://i.imgur.com/EJf1eRt.png",
-        "url": "https://streamlov.alsolnet.com/lapuracrema/live/playlist.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "VE"
-    },
-    {
         "name": "KandelaTV",
         "id": "KandelaTV.ve",
         "logo": "https://i.imgur.com/cCFxyIp.jpg",
@@ -2327,97 +2322,6 @@
         "id": "CityEdenSirtakiTV.ru",
         "logo": "https://i.imgur.com/V3MTfyc.png",
         "url": "https://cityeden.catcast.tv/content/46421/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "A1",
-        "id": "A1.ru",
-        "logo": "https://i.imgur.com/2pAHdAi.png",
-        "url": "http://31.148.48.15/A1/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "BRIDGE",
-        "id": "BRIDGE.ru",
-        "logo": "https://i.imgur.com/qYObfrG.png",
-        "url": "http://31.148.48.15/Bridge_TV/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "BRIDGE Classic",
-        "id": "BRIDGEClassic.ru",
-        "logo": "https://i.imgur.com/JJTQq81.png",
-        "url": "http://31.148.48.15/Bridge_TV_Classic/index.m3u8",
-        "categories": [
-            "classic",
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "BRIDGE Deluxe",
-        "id": "BRIDGEDeluxe.ru",
-        "logo": "https://i.imgur.com/EazL8w7.png",
-        "url": "http://31.148.48.15/Bridge_TV_HD/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "BRIDGE Hits",
-        "id": "BRIDGEHits.ru",
-        "logo": "https://i.imgur.com/sIW9oR4.png",
-        "url": "http://31.148.48.15/Bridge_TV_Dance/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "Europa Plus TV",
-        "id": "EuropaPlusTV.ru",
-        "logo": "https://i.imgur.com/GLc4qrc.png",
-        "url": "http://31.148.48.15/Europa_Plus_HD/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "o2tv",
-        "id": "o2tv.ru",
-        "logo": "https://i.imgur.com/CM6z7fA.png",
-        "url": "http://31.148.48.15/O2_HD/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "RU.TV",
-        "id": "RUTV.ru",
-        "logo": "https://rutv.by/wp-content/uploads/2020/09/logo.png",
-        "url": "http://31.148.48.15/RU_TV/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "RU"
-    },
-    {
-        "name": "Zhara",
-        "id": "Zhara.ru",
-        "logo": "https://i.imgur.com/41K9Y2s.png",
-        "url": "http://31.148.48.15/Zhara/index.m3u8",
         "categories": [
             "music"
         ],
@@ -3168,16 +3072,6 @@
         "country": "MX"
     },
     {
-        "name": "Exa TV",
-        "id": "ExaTV.mx",
-        "logo": "https://i.imgur.com/JWOqr1a.png",
-        "url": "http://190.61.90.17:40000/play/a0hk/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Cool FM 98.9",
         "id": "CoolFM989.aw",
         "logo": "https://i.imgur.com/uGE6lZ2.png",
@@ -3268,33 +3162,10 @@
         "country": "GU"
     },
     {
-        "name": "CEACOM TV",
-        "id": "CEACOMTV.bo",
-        "logo": "https://i.imgur.com/hutdRfk.png",
-        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
-        "categories": [
-            "news",
-            "lifestyle",
-            "music",
-            "general"
-        ],
-        "country": "BO"
-    },
-    {
         "name": "Audiokiss",
         "id": "Audiokiss.bo",
         "logo": "https://www.audiokiss.com/audiokiss/wp-content/uploads/sites/4/2021/02/Audio_kiss800-768x405.png",
         "url": "https://master.tucableip.com/audiokisstv/index.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "BO"
-    },
-    {
-        "name": "Radio Clasica TV",
-        "id": "RadioClasicaTV.bo",
-        "logo": "https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png",
-        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
         "categories": [
             "music"
         ],
@@ -3681,6 +3552,16 @@
         "country": "BR"
     },
     {
+        "name": "VAM TV",
+        "id": "VAMTV.cw",
+        "logo": "https://i.imgur.com/CD1PffA.png",
+        "url": "https://sincerecloud.stream/loadbalancer/public/J9EmQQGf.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "CW"
+    },
+    {
         "name": "Kayhan TV",
         "id": "KayhanTV.af",
         "logo": "https://i.imgur.com/2MDjU7x.png",
@@ -3955,6 +3836,16 @@
             "music"
         ],
         "country": "NG"
+    },
+    {
+        "name": "Melody FM",
+        "id": "MelodyFM.jo",
+        "logo": "https://i.imgur.com/J8omcNz.png",
+        "url": "https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8",
+        "categories": [
+            "music"
+        ],
+        "country": "JO"
     },
     {
         "name": "Ocko",
@@ -5383,16 +5274,6 @@
         "country": "IN"
     },
     {
-        "name": "Extra TV",
-        "id": "ExtraTV.hr",
-        "logo": "https://i.imgur.com/5edYPBO.png",
-        "url": "https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "HR"
-    },
-    {
         "name": "CMC TV",
         "id": "CMCTV.hr",
         "logo": "https://i.imgur.com/FCb7Ag2.png",
@@ -5537,16 +5418,6 @@
         "id": "FMTV.uk",
         "logo": "https://i.imgur.com/vPxvbVv.png",
         "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
-        "categories": [
-            "music"
-        ],
-        "country": "UK"
-    },
-    {
-        "name": "That's 80s",
-        "id": "Thats80s.uk",
-        "logo": "",
-        "url": "https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8",
         "categories": [
             "music"
         ],
