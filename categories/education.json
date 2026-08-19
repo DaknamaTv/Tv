@@ -518,16 +518,6 @@
         "country": "ID"
     },
     {
-        "name": "Knowledge Channel",
-        "id": "KnowledgeChannel.ph",
-        "logo": "https://i.imgur.com/YrmMWXD.png",
-        "url": "https://streams.comclark.com/pknsd/knowledge/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "PH"
-    },
-    {
         "name": "Kan Educational",
         "id": "KanEducational.il",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png",
@@ -840,26 +830,6 @@
         "country": "MX"
     },
     {
-        "name": "TV UG",
-        "id": "TVUG.mx",
-        "logo": "https://i.imgur.com/pxkDpTU.jpeg",
-        "url": "https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "MX"
-    },
-    {
-        "name": "Tele UV",
-        "id": "TeleUV.mx",
-        "logo": "https://i.imgur.com/8MdUH69.jpeg",
-        "url": "https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8",
-        "categories": [
-            "education"
-        ],
-        "country": "MX"
-    },
-    {
         "name": "Unison TV",
         "id": "UnisonTV.mx",
         "logo": "https://i.imgur.com/7ixWRId.png",
@@ -1031,22 +1001,23 @@
         "country": "BR"
     },
     {
-        "name": "TVE RS",
-        "id": "TVERS.br",
-        "logo": "https://i.imgur.com/MQ6lJpS.png",
-        "url": "https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8",
-        "categories": [
-            "culture",
-            "education"
-        ],
-        "country": "BR"
-    },
-    {
         "name": "Unisul TV",
         "id": "UnisulTV.br",
         "logo": "https://i.imgur.com/N0TvAFz.png",
         "url": "https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=",
         "categories": [
+            "education",
+            "culture"
+        ],
+        "country": "BR"
+    },
+    {
+        "name": "TV UFOP",
+        "id": "TVUFOP.br",
+        "logo": "https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png",
+        "url": "https://app.tvufop.com.br/hls/tvufop.m3u8",
+        "categories": [
+            "public",
             "education",
             "culture"
         ],
