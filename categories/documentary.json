@@ -386,20 +386,20 @@
         "country": "IN"
     },
     {
-        "name": "National Geographic",
-        "id": "NationalGeographic.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
-        "url": "http://103.165.93.31:8095/nationalGeographic/index.m3u8",
+        "name": "Sony BBC Earth",
+        "id": "SonyBBCEarth.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
+        "url": "https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8",
         "categories": [
             "documentary"
         ],
         "country": "IN"
     },
     {
-        "name": "Sony BBC Earth",
-        "id": "SonyBBCEarth.in",
-        "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-        "url": "https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8",
+        "name": "National Geographic",
+        "id": "NationalGeographic.in",
+        "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+        "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
         "categories": [
             "documentary"
         ],
@@ -477,12 +477,43 @@
         "country": "DE"
     },
     {
-        "name": "Pluto TV Food",
-        "id": "PlutoTVFood.de",
-        "logo": "https://i.imgur.com/HTLo1GG.png",
-        "url": "https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8",
+        "name": "Bondi Rescue",
+        "id": "BondiRescue.de",
+        "logo": "https://images.pluto.tv/channels/660be37e7bcd860008793a6a/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8",
         "categories": [
-            "cooking",
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Animals",
+        "id": "PlutoTVAnimals.de",
+        "logo": "https://i.imgur.com/N00seOn.png",
+        "url": "https://jmp2.uk/plu-5ddf8ea0d000120009bcad83.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV Science",
+        "id": "PlutoTVScience.de",
+        "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8",
+        "categories": [
+            "science",
+            "documentary"
+        ],
+        "country": "DE"
+    },
+    {
+        "name": "Pluto TV True Crime",
+        "id": "PlutoTVTrueCrime.de",
+        "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8",
+        "categories": [
+            "series",
             "documentary"
         ],
         "country": "DE"
@@ -772,16 +803,6 @@
         "country": "US"
     },
     {
-        "name": "Forensic Files",
-        "id": "ForensicFiles.us",
-        "logo": "https://i.imgur.com/V5vvuLK.png",
-        "url": "https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8",
-        "categories": [
-            "documentary"
-        ],
-        "country": "US"
-    },
-    {
         "name": "Archivos Forenses",
         "id": "ArchivosForenses.us",
         "logo": "https://i.imgur.com/Pxrl9Ug.png",
@@ -809,6 +830,37 @@
         "categories": [
             "documentary",
             "outdoor"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Animais",
+        "id": "PlutoTVAnimais.us",
+        "logo": "https://images.pluto.tv/channels/6474aa984cfc2c0008883a92/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8",
+        "categories": [
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Pluto TV Turbo",
+        "id": "PlutoTVTurbo.us",
+        "logo": "https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8",
+        "categories": [
+            "auto",
+            "documentary"
+        ],
+        "country": "US"
+    },
+    {
+        "name": "Smithsonian Channel Pluto TV",
+        "id": "SmithsonianChannelPlutoTV.us",
+        "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
+        "url": "https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8",
+        "categories": [
+            "documentary"
         ],
         "country": "US"
     },
