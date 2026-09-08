@@ -1560,14 +1560,6 @@
         "country": "ES"
     },
     {
-        "name": "Canal 10 Emporda",
-        "id": "Canal10Emporda.es",
-        "logo": "https://i.imgur.com/ojQ6wzX.png",
-        "url": "https://ventdelnord.tv:8080/escala/directe.m3u8",
-        "categories": [],
-        "country": "ES"
-    },
-    {
         "name": "Tac12",
         "id": "Tac12.es",
         "logo": "https://i.imgur.com/XHOVbSu.png",
@@ -1620,18 +1612,20 @@
         "country": "ES"
     },
     {
-        "name": "Canal Donana",
-        "id": "CanalDonana.es",
-        "logo": "https://i.imgur.com/0WrKIxm.png",
-        "url": "https://secure5.todostreaming.es/live/division-alm.m3u8",
-        "categories": [],
-        "country": "ES"
-    },
-    {
         "name": "Onda Algeciras",
         "id": "OndaAlgeciras.es",
         "logo": "https://i.imgur.com/kUhFkVF.png",
         "url": "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8",
+        "categories": [
+            "general"
+        ],
+        "country": "ES"
+    },
+    {
+        "name": "TV Sabadell-Valles",
+        "id": "TVSabadellValles.es",
+        "logo": "https://i.imgur.com/fSTsGbG.png",
+        "url": "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8",
         "categories": [
             "general"
         ],
